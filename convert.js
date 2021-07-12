@@ -33,20 +33,6 @@ const convertData = (node) => {
       return {
         align: node.data["align"],
       };
-    case "font-color":
-      return {
-        fontColor: node.data["color"],
-      };
-    case "font-family":
-      const familyIndex = node.data["fontFamilyIndex"];
-      return {
-        fontFamily: FontFamilyList[familyIndex],
-      };
-    case "font-size":
-      const sizeIndex = node.data["fontSizeIndex"];
-      return {
-        fontFamily: FontSizeList[sizeIndex],
-      };
     case "image":
       return {
         url: node.data["src"],
@@ -60,7 +46,7 @@ const convertData = (node) => {
       };
     case "link":
       return {
-        href: node.data["url"],
+        url: node.data["href"],
       };
     case "video":
       return {
@@ -80,18 +66,6 @@ const convertData = (node) => {
 const convertType = (type) => {
   let convertedType = "";
   switch (type) {
-    // this needs to be updated to move font color to mark attribute
-    case "font-color":
-      convertedType = "fontColor";
-      break;
-    // this needs to be updated to move font family to mark attribute
-    case "font-family":
-      convertedType = "fontFamily";
-      break;
-    // this needs to be updated to move font size to mark attribute
-    case "font-size":
-      convertedType = "fontSize";
-      break;
     case "line-spacing":
       convertedType = "lineSpacing";
       break;
@@ -120,9 +94,18 @@ const convertType = (type) => {
 };
 
 const convertChildren = (node) => {
+  // if there are nodes then convert the children
   if (node.nodes) {
-    // add logic here...
+    return node.nodes.reduce((acc, val) => {
+      const nodes = convertNode(val);
+
+      if (Array.isArray(nodes)) {
+        return [...acc, ...nodes];
+      }
+      return [...acc, nodes];
+    }, []);
   }
+  // otherwise include mandatory object with text property
   return [{ text: "" }];
 };
 
@@ -147,8 +130,76 @@ const convertNode = (node) => {
     };
   }
 
-  // handle logic for converting leaves to marks here...
+  const { text, marks, leaves } = node;
 
+  /**
+   * Leaves is an array containing leaf objects of this structure:
+   * {
+   *  object: "leaf",
+   *  text: "george costanza",
+   *  marks: [
+   *    {
+   *      object: "mark",
+   *      type: "italic",
+   *      data: {}
+   *    }
+   *  ]
+   * }
+   *
+   * Each leaf node needs to be converted recursively.
+   */
+  if (leaves) {
+    return [...leaves.map(convertNode)];
+  }
+
+  /**
+    Example node to check for:
+      {
+        object: "leaf",
+        text: "periodically",
+        marks: [
+          {
+            object: "mark",
+            type: "italic",
+            data: {},
+          },
+        ],
+      }
+    
+  */
+  if (marks && marks.length > 0) {
+    // return object with text and list of marks with appropriate values
+    return {
+      text,
+      ...marks.reduce((acc, mark) => {
+        if (mark.type === "font-color") {
+          return {
+            ...acc,
+            fontColor: mark.data.color,
+          };
+        }
+        if (mark.type === "font-family") {
+          return {
+            ...acc,
+            fontFamily: FontFamilyList[mark.data.fontFamilyIndex],
+          };
+        }
+        if (mark.type === "font-size") {
+          return {
+            ...acc,
+            fontSize: FontSizeList[mark.data.fontSizeIndex],
+          };
+        }
+
+        return {
+          ...acc,
+          [mark.type]: true,
+        };
+      }, {}),
+    };
+  }
+
+  // if no leaves or marks then just return plain text
   return {
     text,
   };

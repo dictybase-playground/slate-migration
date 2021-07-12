@@ -1,5 +1,5 @@
 const newContent =
-  '{"object":"value","document":{"object":"document","data":{},"nodes":[{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","leaves":[{"object":"leaf","text":"The","marks":[]},{"object":"leaf","text":" ","marks":[{"object":"mark","type":"bold","data":{}}]},{"object":"leaf","text":"Dicty Stock Center","marks":[]},{"object":"leaf","text":" ","marks":[{"object":"mark","type":"bold","data":{}}]},{"object":"leaf","text":"is a rapidly growing central repository for ","marks":[]},{"object":"leaf","text":"Dictyostelium discoideum","marks":[{"object":"mark","type":"italic","data":{}}]},{"object":"leaf","text":" strains and those of related species, plasmids, commonly used food bacteria, and other materials such as antibodies.  The ","marks":[]},{"object":"leaf","text":"DSC","marks":[{"object":"mark","type":"italic","data":{}}]},{"object":"leaf","text":" opened at Columbia University in New York City in the fall of 2002. In 2009 the ","marks":[]},{"object":"leaf","text":"DSC","marks":[{"object":"mark","type":"italic","data":{}}]},{"object":"leaf","text":" moved to its current location at Northwestern University in Chicago, IL, USA. The DSC is supported by NIH/NIGMS. Since 2015, DSC","marks":[]},{"object":"leaf","text":" ","marks":[{"object":"mark","type":"italic","data":{}}]},{"object":"leaf","text":"materials incur a small fee.","marks":[]}]}]}]}}'
+  '{"object":"value","document":{"object":"document","data":{},"nodes":[{"object":"block","type":"paragraph","data":{},"nodes":[{"object":"text","leaves":[{"object":"leaf","text":"The","marks":[]},{"object":"leaf","text":" ","marks":[{"object":"mark","type":"bold","data":{}}]},{"object":"leaf","text":"Dicty Stock Center","marks":[]},{"object":"leaf","text":" ","marks":[{"object":"mark","type":"bold","data":{}}]},{"object":"leaf","text":"is a rapidly growing central repository for ","marks":[]},{"object":"leaf","text":"Dictyostelium discoideum","marks":[{"object":"mark","type":"italic","data":{}}]},{"object":"leaf","text":" strains and those of related species, plasmids, commonly used food bacteria, and other materials such as antibodies.  The ","marks":[]},{"object":"leaf","text":"DSC","marks":[{"object":"mark","type":"italic","data":{}}]},{"object":"leaf","text":" opened at Columbia University in New York City in the fall of 2002. In 2009 the ","marks":[]},{"object":"leaf","text":"DSC","marks":[{"object":"mark","type":"italic","data":{}}]},{"object":"leaf","text":" moved to its current location at Northwestern University in Chicago, IL, USA. The DSC is supported by NIH/NIGMS. Since 2015, DSC","marks":[]},{"object":"leaf","text":" ","marks":[{"object":"mark","type":"italic","data":{}}]},{"object":"leaf","text":"materials incur a small fee.","marks":[]}]}]}]}}';
 
 const oldContent = {
   object: "value",
@@ -76,7 +76,7 @@ const oldContent = {
       },
     ],
   },
-}
+};
 
 const order = {
   object: "value",
@@ -826,6 +826,6 @@ const order = {
       },
     ],
   },
-}
+};
 
-export { newContent, oldContent, order }
+export { newContent, oldContent, order };
