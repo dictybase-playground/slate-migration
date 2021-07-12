@@ -1,12 +1,12 @@
 {
-  "name": "slate-conversion",
+  "name": "slate-migration",
   "version": "1.0.0",
-  "description": "",
+  "description": "Script to convert Slate 0.47 data to 0.5x",
   "main": "convert.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "BSD-2-Clause"
 }
