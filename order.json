@@ -1,1 +1,320 @@
-[{"type":"h1","children":[{"text":"Ordering Information"}],"align":"center"},{"type":"paragraph","children":[{"text":"","bold":true}]},{"type":"h2","children":[{"text":"Dicty Stock Center Distribution Policy","bold":true}]},{"type":"paragraph","children":[{"text":"The "},{"text":"DSC","bold":true},{"text":" fills any request from bona fide teaching or "},{"text":"non-profit","bold":true},{"text":" research institutions. Users from "},{"text":"for-profit","bold":true},{"text":" institutions need to send an "},{"type":"link","children":[{"text":"email"}],"url":"mailto:dictystocks@northwestern.edu"},{"text":" stating that the materials will be used for research only and no profit will be made from DSC materials.\n\nWe also expect the recipient to provide a FedEx, UPS, or a DHL billing number to pay for the shipping. If you create your own shipping label, please click that option. Shipping costs are third party and not related to "},{"type":"link","children":[{"text":"DSC charges","bold":true}],"url":"/stockcenter/information/payment"},{"text":".\n\nThe Dicty Stock Center ships strains by default on an "},{"type":"link","children":[{"text":"LPB plate"}],"url":"/techniques/media/media.html#LPB"},{"text":" with "},{"type":"link","children":[{"text":"E. coli B/r a"}],"url":"http://dictybase.org/db/cgi-bin/dictyBase/phenotype/strain_and_phenotype_details.pl?genotype_id=6955"},{"text":"s a food source.  If axenic cells in "},{"type":"link","children":[{"text":"HL5"}],"url":"/techniques/media/media.html#MAHL5"},{"text":" are desired, please add this information in your order."}]},{"type":"paragraph","children":[{"text":""}]},{"type":"paragraph","children":[{"text":"Timeline","bold":true}]},{"type":"paragraph","children":[{"text":"Strains","fontFamily":{"name":"Roboto Condensed"}},{"text":" are plated in the order they come in as DSC orders. Depending on the order volume orders are shipped witthin a week or two, when the order is regular and small. However, if you have a small order, please remark in the comment field that you need the order as soon as possible and small orders  are preferentially plated. "}]},{"type":"paragraph","children":[{"text":"Due to an increased order volume, we ship larger orders and GWDI orders in 2 to 4 weeks, depending on order volume. We try to bundle orders into one shipment, however, very large orders (>12) might be shipped in separate shipments. Please inquire about shipping and order returns. "}]},{"type":"paragraph","children":[{"text":""}]},{"type":"paragraph","children":[{"text":"Plasmids","bold":true}]},{"type":"paragraph","children":[{"text":"Plasmids will be sent as bacterial transformants on an LB (Luria Bertani) Ampicillin plate, or as DNA on a piece of filter paper by request."}]},{"type":"paragraph","children":[{"text":"Note:","bold":true},{"text":" When you receive the strain(s) they need to be stored in the lab following one of the "},{"type":"link","children":[{"text":"procedures"}],"url":"/techniques/media/dicty_storage.html"},{"text":" described. New users may also consult our "},{"type":"link","children":[{"text":"DSC FAQ","bold":true}],"url":"/stockcenter/information/faq"},{"text":" page. Also store your plasmids following standard procedures."}]},{"type":"paragraph","children":[{"text":""}]},{"type":"h4","children":[{"text":"Ordering Procedures for Strains or Plasmids:"}]},{"type":"body1","children":[{"text":""}]},{"type":"paragraph","children":[{"text":"Step 1: To find the item(s) you want, search the strain or plasmid catalog."}]},{"type":"paragraph","children":[{"text":"Step 2:  Click the green shopping cart of the available item you wish to purchase. For more details click on the strain."}]},{"type":"paragraph","children":[{"text":"Step 3: Go to your shopping cart, inspect the items and check out."}]},{"type":"paragraph","children":[{"text":"Step 4: Fill out the form or login to autofill your information."}]},{"type":"paragraph","children":[{"text":"Step 5: Complete the payment information as well and click 'Order'"}]},{"type":"paragraph","children":[{"text":"Step 6: An order confirmation will be sent by email and appears on your screen"}]},{"type":"paragraph","children":[{"text":""}]},{"type":"paragraph","children":[{"text":"If you need additional assistance, please e-mail the "},{"type":"link","children":[{"text":"Dicty Stock Center"}],"url":"mailto:dictystocks@northwestern.edu"},{"text":"."}]}]
+[
+    {
+        "type": "h1",
+        "children": [
+            {
+                "text": "Ordering Information"
+            }
+        ],
+        "align": "center"
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "",
+                "bold": true
+            }
+        ]
+    },
+    {
+        "type": "h2",
+        "children": [
+            {
+                "text": "Dicty Stock Center Distribution Policy",
+                "bold": true
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "The "
+            },
+            {
+                "text": "DSC",
+                "bold": true
+            },
+            {
+                "text": " fills any request from bona fide teaching or "
+            },
+            {
+                "text": "non-profit",
+                "bold": true
+            },
+            {
+                "text": " research institutions. Users from "
+            },
+            {
+                "text": "for-profit",
+                "bold": true
+            },
+            {
+                "text": " institutions need to send an "
+            },
+            {
+                "type": "link",
+                "children": [
+                    {
+                        "text": "email"
+                    }
+                ],
+                "url": "mailto:dictystocks@northwestern.edu"
+            },
+            {
+                "text": " stating that the materials will be used for research only and no profit will be made from DSC materials.\n\nWe also expect the recipient to provide a FedEx, UPS, or a DHL billing number to pay for the shipping. If you create your own shipping label, please click that option. Shipping costs are third party and not related to "
+            },
+            {
+                "type": "link",
+                "children": [
+                    {
+                        "text": "DSC charges",
+                        "bold": true
+                    }
+                ],
+                "url": "/stockcenter/information/payment"
+            },
+            {
+                "text": ".\n\nThe Dicty Stock Center ships strains by default on an "
+            },
+            {
+                "type": "link",
+                "children": [
+                    {
+                        "text": "LPB plate"
+                    }
+                ],
+                "url": "/techniques/media/media.html#LPB"
+            },
+            {
+                "text": " with "
+            },
+            {
+                "type": "link",
+                "children": [
+                    {
+                        "text": "E. coli B/r a"
+                    }
+                ],
+                "url": "http://dictybase.org/db/cgi-bin/dictyBase/phenotype/strain_and_phenotype_details.pl?genotype_id=6955"
+            },
+            {
+                "text": "s a food source.  If axenic cells in "
+            },
+            {
+                "type": "link",
+                "children": [
+                    {
+                        "text": "HL5"
+                    }
+                ],
+                "url": "/techniques/media/media.html#MAHL5"
+            },
+            {
+                "text": " are desired, please add this information in your order."
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": ""
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "Timeline",
+                "bold": true
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "Strains",
+                "fontFamily": {
+                    "name": "Roboto Condensed"
+                }
+            },
+            {
+                "text": " are plated in the order they come in as DSC orders. Depending on the order volume orders are shipped witthin a week or two, when the order is regular and small. However, if you have a small order, please remark in the comment field that you need the order as soon as possible and small orders  are preferentially plated. "
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "Due to an increased order volume, we ship larger orders and GWDI orders in 2 to 4 weeks, depending on order volume. We try to bundle orders into one shipment, however, very large orders (>12) might be shipped in separate shipments. Please inquire about shipping and order returns. "
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": ""
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "Plasmids",
+                "bold": true
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "Plasmids will be sent as bacterial transformants on an LB (Luria Bertani) Ampicillin plate, or as DNA on a piece of filter paper by request."
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "Note:",
+                "bold": true
+            },
+            {
+                "text": " When you receive the strain(s) they need to be stored in the lab following one of the "
+            },
+            {
+                "type": "link",
+                "children": [
+                    {
+                        "text": "procedures"
+                    }
+                ],
+                "url": "/techniques/media/dicty_storage.html"
+            },
+            {
+                "text": " described. New users may also consult our "
+            },
+            {
+                "type": "link",
+                "children": [
+                    {
+                        "text": "DSC FAQ",
+                        "bold": true
+                    }
+                ],
+                "url": "/stockcenter/information/faq"
+            },
+            {
+                "text": " page. Also store your plasmids following standard procedures."
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": ""
+            }
+        ]
+    },
+    {
+        "type": "h4",
+        "children": [
+            {
+                "text": "Ordering Procedures for Strains or Plasmids:"
+            }
+        ]
+    },
+    {
+        "type": "body1",
+        "children": [
+            {
+                "text": ""
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "Step 1: To find the item(s) you want, search the strain or plasmid catalog."
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "Step 2:  Click the green shopping cart of the available item you wish to purchase. For more details click on the strain."
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "Step 3: Go to your shopping cart, inspect the items and check out."
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "Step 4: Fill out the form or login to autofill your information."
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "Step 5: Complete the payment information as well and click 'Order'"
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "Step 6: An order confirmation will be sent by email and appears on your screen"
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": ""
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "If you need additional assistance, please e-mail the "
+            },
+            {
+                "type": "link",
+                "children": [
+                    {
+                        "text": "Dicty Stock Center"
+                    }
+                ],
+                "url": "mailto:dictystocks@northwestern.edu"
+            },
+            {
+                "text": "."
+            }
+        ]
+    }
+]
