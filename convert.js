@@ -23,59 +23,6 @@ const FontSizeList = [
 ];
 
 /**
- * type: alignment
- * data: {
- * align: "justify", etc
- * }
- *
- * type: font-color (for marks)
- * data: {
- * color: ""
- * }
- *
- * type: font-family
- * data: {
- * fontFamilyIndex: num
- * }
- *
- * type: font-size
- * data: {
- * fontSizeIndex: num
- * }
- *
- * type: image
- * data: {
- * src,
- * description,
- * height,
- * width
- * }
- *
- * type: line-spacing
- * data: {
- * size
- * }
- *
- * type: link
- * data: {
- * href: url
- * }
- *
- * type: ordered-list
- * type: unordered-list
- * type: list-item
- * type: table-row
- * type: table-cell
- *
- * type: video
- * data: {
- * height,
- * width,
- * url
- * }
- */
-
-/**
  * convertData receives a node object and converts its nested
  * 'data' object into the new Slate format.
  */
@@ -133,9 +80,6 @@ const convertData = (node) => {
 const convertType = (type) => {
   let convertedType = "";
   switch (type) {
-    case "alignment":
-      convertedType = "paragraph";
-      break;
     // this needs to be updated to move font color to mark attribute
     case "font-color":
       convertedType = "fontColor";
