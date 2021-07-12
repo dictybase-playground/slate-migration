@@ -99,17 +99,17 @@ const convertChildren = (node) => {
     return node.nodes.reduce((acc, val) => {
       const nodes = convertNode(val);
 
+      // if the converted current value is an array, only grab the object inside of it
       if (Array.isArray(nodes)) {
         return [...acc, ...nodes];
       }
+      // otherwise add the new value in its existing object form
       return [...acc, nodes];
     }, []);
   }
   // otherwise include mandatory object with text property
   return [{ text: "" }];
 };
-
-// need to pull data object when converting children
 
 const convertNode = (node) => {
   const { type } = node;
