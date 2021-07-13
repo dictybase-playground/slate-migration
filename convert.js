@@ -27,13 +27,19 @@ const FontSizeList = [
  * convertData receives a node object and converts its nested
  * 'data' object into the new Slate format.
  */
-const convertData = (node) => {
+const convertData = (node, align) => {
   const { type } = node;
   switch (type) {
     case "alignment":
+      if (node.data["align"] !== undefined) {
+        return {
+          align: node.data["align"],
+        };
+      }
       return {
-        align: node.data["align"],
+        align: align.slice(6),
       };
+
     case "image":
       return {
         url: node.data["src"],
@@ -51,7 +57,7 @@ const convertData = (node) => {
       };
     case "video":
       return {
-        url: node.data["url"],
+        url: node.data["src"],
         height: node.data["height"],
         width: node.data["width"],
       };
@@ -68,33 +74,51 @@ const convertType = (type) => {
   let convertedType = "";
   switch (type) {
     case "heading_one":
+    case "heading-one":
+    case "heading_1":
       convertedType = "h1";
       break;
     case "heading_two":
+    case "heading-two":
+    case "heading_2":
       convertedType = "h2";
       break;
     case "heading_three":
+    case "heading-three":
+    case "heading_3":
       convertedType = "h3";
       break;
     case "heading_four":
+    case "heading-four":
+    case "heading_4":
       convertedType = "h4";
       break;
     case "heading_five":
+    case "heading-five":
+    case "heading_5":
       convertedType = "h5";
       break;
     case "heading_six":
+    case "heading-six":
+    case "heading_6":
       convertedType = "h6";
       break;
     case "line-spacing":
       convertedType = "lineSpacing";
       break;
-    case "ordered-list" | "ordered_list" | "ol_list":
+    case "ordered-list":
+    case "ordered_list":
+    case "ol_list":
       convertedType = "orderedList";
       break;
-    case "unordered-list" | "unordered_list" | "ul_list":
+    case "unordered-list":
+    case "unordered_list":
+    case "ul_list":
       convertedType = "unorderedList";
       break;
-    case "list-item" | "list_item" | "list-item-child":
+    case "list-item":
+    case "list_item":
+    case "list-item-child":
       convertedType = "listItem";
       break;
     case "table":
@@ -105,6 +129,12 @@ const convertType = (type) => {
       break;
     case "table-cell":
       convertedType = "tableCell";
+      break;
+    case "align_center":
+    case "align_left":
+    case "align_right":
+    case "align_center":
+      convertedType = "div";
       break;
     default:
       convertedType = type;
@@ -145,12 +175,10 @@ const convertNode = (node) => {
     // previously, changing the alignment would add a new <div> around the selection
     if (alignmentTypes.includes(type)) {
       const element = {
-        ...convertChildren(node)[0],
-        ...convertData(node),
+        type: "div",
+        children: convertChildren(node),
+        ...convertData(node, type),
       };
-      if (type !== "alignment") {
-        element["type"] = "div";
-      }
       return element;
     }
 

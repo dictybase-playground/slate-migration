@@ -1,9 +1,14 @@
 [
     {
-        "type": "h1",
+        "type": "div",
         "children": [
             {
-                "text": "Ordering Information"
+                "type": "h1",
+                "children": [
+                    {
+                        "text": "Ordering Information"
+                    }
+                ]
             }
         ],
         "align": "center"
@@ -138,9 +143,7 @@
         "children": [
             {
                 "text": "Strains",
-                "fontFamily": {
-                    "name": "Roboto Condensed"
-                }
+                "fontFamily": "Roboto Condensed"
             },
             {
                 "text": " are plated in the order they come in as DSC orders. Depending on the order volume orders are shipped witthin a week or two, when the order is regular and small. However, if you have a small order, please remark in the comment field that you need the order as soon as possible and small orders  are preferentially plated. "
