@@ -147,7 +147,6 @@ const convertChildren = (node) => {
   if (node.nodes) {
     return node.nodes.reduce((acc, val) => {
       const nodes = convertNode(val);
-
       // if the converted current value is an array, only grab the object inside of it
       if (Array.isArray(nodes)) {
         return [...acc, ...nodes];
@@ -168,25 +167,56 @@ const alignmentTypes = [
   "align_justify",
 ];
 
+const marksReducer = (acc, mark) => {
+  if (mark.type === "font-color") {
+    return {
+      ...acc,
+      fontColor: mark.data.color,
+    };
+  }
+  if (mark.type === "font-family") {
+    return {
+      ...acc,
+      fontFamily: FontFamilyList[mark.data.fontFamilyIndex].name,
+    };
+  }
+  if (mark.type === "font-size") {
+    return {
+      ...acc,
+      fontSize: FontSizeList[mark.data.fontSizeIndex].size,
+    };
+  }
+
+  return {
+    ...acc,
+    [mark.type]: true,
+  };
+};
+
+const convertDataByType = (node) => {
+  const { type } = node;
+  // remove any alignment wrappers from old structure;
+  // previously, changing the alignment would add a new <div> around the selection
+  if (alignmentTypes.includes(type)) {
+    const element = {
+      type: "div",
+      children: convertChildren(node),
+      ...convertData(node, type),
+    };
+    return element;
+  }
+
+  return {
+    type: convertType(type),
+    children: convertChildren(node),
+    ...convertData(node),
+  };
+};
+
 const convertNode = (node) => {
   const { type } = node;
   if (type) {
-    // remove any alignment wrappers from old structure;
-    // previously, changing the alignment would add a new <div> around the selection
-    if (alignmentTypes.includes(type)) {
-      const element = {
-        type: "div",
-        children: convertChildren(node),
-        ...convertData(node, type),
-      };
-      return element;
-    }
-
-    return {
-      type: convertType(type),
-      children: convertChildren(node),
-      ...convertData(node),
-    };
+    return convertDataByType(node);
   }
 
   const { text, marks, leaves } = node;
@@ -230,31 +260,7 @@ const convertNode = (node) => {
     // return object with text and list of marks with appropriate values
     return {
       text,
-      ...marks.reduce((acc, mark) => {
-        if (mark.type === "font-color") {
-          return {
-            ...acc,
-            fontColor: mark.data.color,
-          };
-        }
-        if (mark.type === "font-family") {
-          return {
-            ...acc,
-            fontFamily: FontFamilyList[mark.data.fontFamilyIndex].name,
-          };
-        }
-        if (mark.type === "font-size") {
-          return {
-            ...acc,
-            fontSize: FontSizeList[mark.data.fontSizeIndex].size,
-          };
-        }
-
-        return {
-          ...acc,
-          [mark.type]: true,
-        };
-      }, {}),
+      ...marks.reduce(marksReducer, {}),
     };
   }
 
