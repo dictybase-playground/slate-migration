@@ -34,22 +34,6 @@ const convertData = (node) => {
       return {
         align: node.data["align"],
       };
-    case "align_center":
-      return {
-        align: "center",
-      };
-    case "align_left":
-      return {
-        align: "left",
-      };
-    case "align_right":
-      return {
-        align: "right",
-      };
-    case "align_justify":
-      return {
-        align: "justify",
-      };
     case "image":
       return {
         url: node.data["src"],
@@ -122,8 +106,6 @@ const convertType = (type) => {
     case "table-cell":
       convertedType = "tableCell";
       break;
-    case "div":
-      convertedType = "paragraph";
     default:
       convertedType = type;
   }
@@ -167,7 +149,7 @@ const convertNode = (node) => {
         ...convertData(node),
       };
       if (type !== "alignment") {
-        element["type"] = "paragraph";
+        element["type"] = "div";
       }
       return element;
     }
@@ -230,13 +212,13 @@ const convertNode = (node) => {
         if (mark.type === "font-family") {
           return {
             ...acc,
-            fontFamily: FontFamilyList[mark.data.fontFamilyIndex],
+            fontFamily: FontFamilyList[mark.data.fontFamilyIndex].name,
           };
         }
         if (mark.type === "font-size") {
           return {
             ...acc,
-            fontSize: FontSizeList[mark.data.fontSizeIndex],
+            fontSize: FontSizeList[mark.data.fontSizeIndex].size,
           };
         }
 
