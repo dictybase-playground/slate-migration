@@ -3074,4 +3074,3729 @@ const art = {
   },
 };
 
-export { newContent, oldContent, order, art };
+const techniques = {
+  "object": "value",
+  "document": {
+    "object": "document",
+    "data": {},
+    "nodes": [
+      {
+        "object": "block",
+        "type": "align_center",
+        "data": {},
+        "nodes": [
+          {
+            "object": "block",
+            "type": "alignment",
+            "data": {
+              "align": "left"
+            },
+            "nodes": [
+              {
+                "object": "block",
+                "type": "body1",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "font-family",
+                            "data": {
+                              "fontFamilyIndex": 2
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "align_center",
+                "data": {},
+                "nodes": [
+                  {
+                    "object": "block",
+                    "type": "alignment",
+                    "data": {
+                      "align": "center"
+                    },
+                    "nodes": [
+                      {
+                        "object": "block",
+                        "type": "h1",
+                        "data": {
+                          "className": null
+                        },
+                        "nodes": [
+                          {
+                            "object": "text",
+                            "leaves": [
+                              {
+                                "object": "leaf",
+                                "text": "Techniques",
+                                "marks": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "block",
+                    "type": "heading_3",
+                    "data": {
+                      "className": null
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "Media and buffers",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "bold",
+                                "data": {}
+                              },
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 5
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "block",
+                    "type": "heading_3",
+                    "data": {
+                      "className": null
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "bold",
+                                "data": {}
+                              },
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 5
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "object": "inline",
+                        "type": "link",
+                        "data": {
+                          "href": "/research/techniques/media"
+                        },
+                        "nodes": [
+                          {
+                            "object": "text",
+                            "leaves": [
+                              {
+                                "object": "leaf",
+                                "text": "Media and buffers ",
+                                "marks": [
+                                  {
+                                    "object": "mark",
+                                    "type": "font-size",
+                                    "data": {
+                                      "fontSizeIndex": 2
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "block",
+                    "type": "heading_3",
+                    "data": {
+                      "className": null
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "object": "inline",
+                        "type": "link",
+                        "data": {
+                          "href": "/research/techniques/fm-medium"
+                        },
+                        "nodes": [
+                          {
+                            "object": "text",
+                            "leaves": [
+                              {
+                                "object": "leaf",
+                                "text": "Recipe for FM defined medium",
+                                "marks": [
+                                  {
+                                    "object": "mark",
+                                    "type": "font-size",
+                                    "data": {
+                                      "fontSizeIndex": 2
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": " ",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "object": "leaf",
+                            "text": "(contributed by Jakob Franke)",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "italic",
+                                "data": {}
+                              },
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "object": "leaf",
+                            "text": " ",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "block",
+                    "type": "heading_3",
+                    "data": {
+                      "className": null
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "object": "inline",
+                        "type": "link",
+                        "data": {
+                          "href": "/research/techniques/low-flo-medium"
+                        },
+                        "nodes": [
+                          {
+                            "object": "text",
+                            "leaves": [
+                              {
+                                "object": "leaf",
+                                "text": "Recipe for low fluorescence axenic medium",
+                                "marks": [
+                                  {
+                                    "object": "mark",
+                                    "type": "font-size",
+                                    "data": {
+                                      "fontSizeIndex": 2
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": " ",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "object": "leaf",
+                            "text": "(contributed by Harry MacWilliams)",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "italic",
+                                "data": {}
+                              },
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "object": "leaf",
+                            "text": " ",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "block",
+                    "type": "heading_3",
+                    "data": {
+                      "className": null
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "object": "inline",
+                        "type": "link",
+                        "data": {
+                          "href": "https://github.com/dictyBase/migration-data/files/3220576/synthetic_medium.pdf"
+                        },
+                        "nodes": [
+                          {
+                            "object": "text",
+                            "leaves": [
+                              {
+                                "object": "leaf",
+                                "text": "Recipe for synthetic medium",
+                                "marks": [
+                                  {
+                                    "object": "mark",
+                                    "type": "font-size",
+                                    "data": {
+                                      "fontSizeIndex": 2
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": " (pdf) ",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "object": "leaf",
+                            "text": "(contributed by Erwin Flaschel)",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "italic",
+                                "data": {}
+                              },
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "block",
+                    "type": "heading_3",
+                    "data": {
+                      "className": null
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "bold",
+                                "data": {}
+                              },
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 5
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "block",
+                    "type": "heading_3",
+                    "data": {
+                      "className": null
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "Growth, development, and storage of ",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "bold",
+                                "data": {}
+                              },
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 5
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "object": "leaf",
+                            "text": "Dictyostelium",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "italic",
+                                "data": {}
+                              },
+                              {
+                                "object": "mark",
+                                "type": "bold",
+                                "data": {}
+                              },
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 5
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "block",
+                    "type": "heading_3",
+                    "data": {
+                      "className": null
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "italic",
+                                "data": {}
+                              },
+                              {
+                                "object": "mark",
+                                "type": "bold",
+                                "data": {}
+                              },
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 5
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "object": "inline",
+                        "type": "link",
+                        "data": {
+                          "href": "/techniques/growth"
+                        },
+                        "nodes": [
+                          {
+                            "object": "text",
+                            "leaves": [
+                              {
+                                "object": "leaf",
+                                "text": "Methods for growing ",
+                                "marks": [
+                                  {
+                                    "object": "mark",
+                                    "type": "font-size",
+                                    "data": {
+                                      "fontSizeIndex": 2
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "object": "leaf",
+                                "text": "Dictyostelium",
+                                "marks": [
+                                  {
+                                    "object": "mark",
+                                    "type": "italic",
+                                    "data": {}
+                                  },
+                                  {
+                                    "object": "mark",
+                                    "type": "font-size",
+                                    "data": {
+                                      "fontSizeIndex": 2
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": " ",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "italic",
+                                "data": {}
+                              },
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "object": "leaf",
+                            "text": "(",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "object": "leaf",
+                            "text": "Fey et al. 2007",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "italic",
+                                "data": {}
+                              },
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "object": "leaf",
+                            "text": ")  ",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "block",
+                    "type": "heading_3",
+                    "data": {
+                      "className": null
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "object": "inline",
+                        "type": "link",
+                        "data": {
+                          "href": "/techniques/development"
+                        },
+                        "nodes": [
+                          {
+                            "object": "text",
+                            "leaves": [
+                              {
+                                "object": "leaf",
+                                "text": "Methods for ",
+                                "marks": [
+                                  {
+                                    "object": "mark",
+                                    "type": "font-size",
+                                    "data": {
+                                      "fontSizeIndex": 2
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "object": "leaf",
+                                "text": "Dictyostelium",
+                                "marks": [
+                                  {
+                                    "object": "mark",
+                                    "type": "italic",
+                                    "data": {}
+                                  },
+                                  {
+                                    "object": "mark",
+                                    "type": "font-size",
+                                    "data": {
+                                      "fontSizeIndex": 2
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "object": "leaf",
+                                "text": " development ",
+                                "marks": [
+                                  {
+                                    "object": "mark",
+                                    "type": "font-size",
+                                    "data": {
+                                      "fontSizeIndex": 2
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "(",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "object": "leaf",
+                            "text": "Fey et al. 2007",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "italic",
+                                "data": {}
+                              },
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "object": "leaf",
+                            "text": ")  ",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "block",
+                    "type": "heading_3",
+                    "data": {
+                      "className": null
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "object": "inline",
+                        "type": "link",
+                        "data": {
+                          "href": "/research/techniques/dicty-storage"
+                        },
+                        "nodes": [
+                          {
+                            "object": "text",
+                            "leaves": [
+                              {
+                                "object": "leaf",
+                                "text": "Dictyostelium",
+                                "marks": [
+                                  {
+                                    "object": "mark",
+                                    "type": "italic",
+                                    "data": {}
+                                  },
+                                  {
+                                    "object": "mark",
+                                    "type": "font-size",
+                                    "data": {
+                                      "fontSizeIndex": 2
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "object": "leaf",
+                                "text": " cell storage procedures",
+                                "marks": [
+                                  {
+                                    "object": "mark",
+                                    "type": "font-size",
+                                    "data": {
+                                      "fontSizeIndex": 2
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": " (",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "object": "leaf",
+                            "text": "Fey et al. 2007",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "italic",
+                                "data": {}
+                              },
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "object": "leaf",
+                            "text": ")  ",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "block",
+                    "type": "heading_3",
+                    "data": {
+                      "className": null
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "object": "inline",
+                        "type": "link",
+                        "data": {
+                          "href": "/research/techniques/soft-agar"
+                        },
+                        "nodes": [
+                          {
+                            "object": "text",
+                            "leaves": [
+                              {
+                                "object": "leaf",
+                                "text": "Plating ",
+                                "marks": [
+                                  {
+                                    "object": "mark",
+                                    "type": "font-size",
+                                    "data": {
+                                      "fontSizeIndex": 2
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "object": "leaf",
+                                "text": "Dictyostelium",
+                                "marks": [
+                                  {
+                                    "object": "mark",
+                                    "type": "italic",
+                                    "data": {}
+                                  },
+                                  {
+                                    "object": "mark",
+                                    "type": "font-size",
+                                    "data": {
+                                      "fontSizeIndex": 2
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "object": "leaf",
+                                "text": " in soft agar",
+                                "marks": [
+                                  {
+                                    "object": "mark",
+                                    "type": "font-size",
+                                    "data": {
+                                      "fontSizeIndex": 2
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": " * ",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "block",
+                    "type": "heading_3",
+                    "data": {
+                      "className": null
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "object": "inline",
+                        "type": "link",
+                        "data": {
+                          "href": "https://github.com/dictyBase/migration-data/files/5922084/Thawing.cells.from.DMSO.stocks.docx"
+                        },
+                        "nodes": [
+                          {
+                            "object": "text",
+                            "leaves": [
+                              {
+                                "object": "leaf",
+                                "text": "Thawing cells from DMSO stocks",
+                                "marks": [
+                                  {
+                                    "object": "mark",
+                                    "type": "font-size",
+                                    "data": {
+                                      "fontSizeIndex": 2
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": " (contributed by Dave Knecht)",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "italic",
+                                "data": {}
+                              },
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "block",
+                    "type": "heading_3",
+                    "data": {
+                      "className": null
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "bold",
+                                "data": {}
+                              },
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 5
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "block",
+                    "type": "heading_3",
+                    "data": {
+                      "className": null
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "Sexual Genetics",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "bold",
+                                "data": {}
+                              },
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 5
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "block",
+                    "type": "heading_3",
+                    "data": {
+                      "className": null
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "bold",
+                                "data": {}
+                              },
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 5
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "object": "inline",
+                        "type": "link",
+                        "data": {
+                          "href": "/research/techniques/parasexual-genetics"
+                        },
+                        "nodes": [
+                          {
+                            "object": "text",
+                            "leaves": [
+                              {
+                                "object": "leaf",
+                                "text": "Methods for parasexual genetics",
+                                "marks": [
+                                  {
+                                    "object": "mark",
+                                    "type": "font-size",
+                                    "data": {
+                                      "fontSizeIndex": 2
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": " ",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "object": "leaf",
+                            "text": "(contributed by Jason King and Robert Insall)",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "italic",
+                                "data": {}
+                              },
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "object": "leaf",
+                            "text": " ",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "block",
+                    "type": "heading_3",
+                    "data": {
+                      "className": null
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "object": "inline",
+                        "type": "link",
+                        "data": {
+                          "href": "/research/techniques/mating-types"
+                        },
+                        "nodes": [
+                          {
+                            "object": "text",
+                            "leaves": [
+                              {
+                                "object": "leaf",
+                                "text": "Method for determining mating types",
+                                "marks": [
+                                  {
+                                    "object": "mark",
+                                    "type": "font-size",
+                                    "data": {
+                                      "fontSizeIndex": 2
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": " ",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "object": "leaf",
+                            "text": "(contributed by Jakob Franke)",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "italic",
+                                "data": {}
+                              },
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "object": "leaf",
+                            "text": " ",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 2
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "bold",
+                            "data": {}
+                          },
+                          {
+                            "object": "mark",
+                            "type": "font-size",
+                            "data": {
+                              "fontSizeIndex": 5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "Molecular Biology",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "bold",
+                            "data": {}
+                          },
+                          {
+                            "object": "mark",
+                            "type": "font-size",
+                            "data": {
+                              "fontSizeIndex": 5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "bold",
+                            "data": {}
+                          },
+                          {
+                            "object": "mark",
+                            "type": "font-size",
+                            "data": {
+                              "fontSizeIndex": 5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "inline",
+                    "type": "link",
+                    "data": {
+                      "href": "/research/techniques/quick-genomic-dna-extraction"
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "Quick extraction of genomic DNA",
+                            "marks": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "(contributed by Steve Charette and Pierre Cosson) ",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "inline",
+                    "type": "link",
+                    "data": {
+                      "href": "/research/techniques/genomic-dna-extraction"
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "Isolation of genomic DNA",
+                            "marks": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " * ",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": []
+                      }
+                    ]
+                  },
+                  {
+                    "object": "inline",
+                    "type": "link",
+                    "data": {
+                      "href": "/research/techniques/genomic-dna-extraction-csci"
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "Isolation of genomic DNA with CsCl",
+                            "marks": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " * ",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": []
+                      }
+                    ]
+                  },
+                  {
+                    "object": "inline",
+                    "type": "link",
+                    "data": {
+                      "href": "/research/techniques/rt-pcr"
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "RT-PCR for Knockout Screening and Expression Analysis",
+                            "marks": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "(contributed by Robin Williams)",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "object": "leaf",
+                        "text": " ",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "bold",
+                            "data": {}
+                          },
+                          {
+                            "object": "mark",
+                            "type": "font-size",
+                            "data": {
+                              "fontSizeIndex": 5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "Transformation",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "bold",
+                            "data": {}
+                          },
+                          {
+                            "object": "mark",
+                            "type": "font-size",
+                            "data": {
+                              "fontSizeIndex": 5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "bold",
+                            "data": {}
+                          },
+                          {
+                            "object": "mark",
+                            "type": "font-size",
+                            "data": {
+                              "fontSizeIndex": 5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "inline",
+                    "type": "link",
+                    "data": {
+                      "href": "/research/techniques/transformation-protocols"
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "Transformation protocols",
+                            "marks": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " (",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "Gaudet et al. 2007",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "object": "leaf",
+                        "text": ")  ",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": []
+                      }
+                    ]
+                  },
+                  {
+                    "object": "inline",
+                    "type": "link",
+                    "data": {
+                      "href": "/research/techniques/calcium-phosphate-precipitation"
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "Calcium phosphate precipitation",
+                            "marks": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " * ",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": []
+                      }
+                    ]
+                  },
+                  {
+                    "object": "inline",
+                    "type": "link",
+                    "data": {
+                      "href": "/research/techniques/electroporation"
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "Electroporation",
+                            "marks": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "(contributed by Dave Knecht) ",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "inline",
+                    "type": "link",
+                    "data": {
+                      "href": "/research/techniques/transformation-nc4"
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "Transformation of NC4 or ",
+                            "marks": []
+                          },
+                          {
+                            "object": "leaf",
+                            "text": "D. mucoroides",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "italic",
+                                "data": {}
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " (contributed by Harry MacWilliams) ",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "Microinjection ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "(contributed by Yoshio Fukui)",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "  ",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "Transformation by particle gun ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "(contributed by Birgit Wetterauer and Hans-Ulrich Koop) ",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "Addition of heat-killed bacteria to transformants * ",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "Transformant selection on bacterial lawns using the V18-Tn5-cassette ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "(contributed by Harry MacWilliams)",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "object": "leaf",
+                        "text": " ",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": []
+                      }
+                    ]
+                  },
+                  {
+                    "object": "inline",
+                    "type": "link",
+                    "data": {
+                      "href": "/research/techniques/dapi-electroporation"
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "DAPI Electroporation",
+                            "marks": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "bold",
+                            "data": {}
+                          },
+                          {
+                            "object": "mark",
+                            "type": "font-size",
+                            "data": {
+                              "fontSizeIndex": 5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "Mutagenesis",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "bold",
+                            "data": {}
+                          },
+                          {
+                            "object": "mark",
+                            "type": "font-size",
+                            "data": {
+                              "fontSizeIndex": 5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "bold",
+                            "data": {}
+                          },
+                          {
+                            "object": "mark",
+                            "type": "font-size",
+                            "data": {
+                              "fontSizeIndex": 5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "inline",
+                    "type": "link",
+                    "data": {
+                      "href": "/research/techniques/remi-mutagenesis"
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "Restriction-enzyme mediated insertional mutagenesis",
+                            "marks": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " (REMI)",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": []
+                      }
+                    ]
+                  },
+                  {
+                    "object": "inline",
+                    "type": "link",
+                    "data": {
+                      "href": "/research/techniques/rnai-procedure"
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "RNAi procedure",
+                            "marks": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "(contributed by Alan Kimmel)",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "Making double mutants by diploid genetics ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "(contributed by Jason King and Robert Insall)",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "object": "leaf",
+                        "text": " ",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "bold",
+                            "data": {}
+                          },
+                          {
+                            "object": "mark",
+                            "type": "font-size",
+                            "data": {
+                              "fontSizeIndex": 5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "Gene Expression",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "bold",
+                            "data": {}
+                          },
+                          {
+                            "object": "mark",
+                            "type": "font-size",
+                            "data": {
+                              "fontSizeIndex": 5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "Chromatin Immuno-precipitation ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "(contributed by Jeff Williams and Y. Yamada)",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "object": "leaf",
+                        "text": " ",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "Whole mount ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "in situ",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "object": "leaf",
+                        "text": " hybridization ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "(contributed by Ricardo Escalante and Bill Loomis)",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "object": "leaf",
+                        "text": " ",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "Agar overlay technique ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "(contributed by Yoshio Fukui)",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "object": "leaf",
+                        "text": " ",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "Indirect immunofluorescence * ",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "bold",
+                            "data": {}
+                          },
+                          {
+                            "object": "mark",
+                            "type": "font-size",
+                            "data": {
+                              "fontSizeIndex": 5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "Microscopy",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "bold",
+                            "data": {}
+                          },
+                          {
+                            "object": "mark",
+                            "type": "font-size",
+                            "data": {
+                              "fontSizeIndex": 5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "Fixation techniques for immunonfluorescence ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "(contributed by Richard Gomer)",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "object": "leaf",
+                        "text": " ",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "Visualizing weak fluorescence in multicellular stages ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "(contributed by Harry MacWilliams)",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "object": "leaf",
+                        "text": " ",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "bold",
+                            "data": {}
+                          },
+                          {
+                            "object": "mark",
+                            "type": "font-size",
+                            "data": {
+                              "fontSizeIndex": 5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "Biochemistry",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "bold",
+                            "data": {}
+                          },
+                          {
+                            "object": "mark",
+                            "type": "font-size",
+                            "data": {
+                              "fontSizeIndex": 5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "S-methionine labelling of ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "Dictyostelium",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "*",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "phosphate labelling of ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "Dictyostelium",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "* ",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "bold",
+                            "data": {}
+                          },
+                          {
+                            "object": "mark",
+                            "type": "font-size",
+                            "data": {
+                              "fontSizeIndex": 5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "Cytoskeleton",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "bold",
+                            "data": {}
+                          },
+                          {
+                            "object": "mark",
+                            "type": "font-size",
+                            "data": {
+                              "fontSizeIndex": 5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "paragraph",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "Protein preparation",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "bold",
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "object": "leaf",
+                        "text": " ",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "paragraph",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " Isolation of ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "Dictyostelium",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "object": "leaf",
+                        "text": " cytoskeleton *",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "paragraph",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " Isolation of ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "Dictyostelium",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "object": "leaf",
+                        "text": " centrosomes ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "(contributed by Ralph Gräf)",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "object": "leaf",
+                        "text": " ",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "paragraph",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " Preparation of microtubule-associated motor proteins *",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "paragraph",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " Purification of muscle actin *",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "paragraph",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " One-day ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "Dictyostelium",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "object": "leaf",
+                        "text": " myosin preparation *",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "paragraph",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " Three-day ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "Dictyostelium",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "object": "leaf",
+                        "text": " myosin preparation * ",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "paragraph",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " Dictyostelium",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "object": "leaf",
+                        "text": " cell staining for tubulin ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "(contributed by Emma Dalton)",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "line-spacing",
+                "data": {
+                  "size": "1.0"
+                },
+                "nodes": [
+                  {
+                    "object": "block",
+                    "type": "paragraph",
+                    "data": {
+                      "className": null
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "  ",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 0
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "paragraph",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " Protein assays",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "bold",
+                            "data": {}
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "paragraph",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " Microtubule gliding assay for microtubule-associated motors *",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "paragraph",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " ATPase assay for dynein (radioactive) *",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "paragraph",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " CTPase assay for dynein (colorimetric) *",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "paragraph",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "  ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "in vitro",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "object": "leaf",
+                        "text": " motility assay *",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "paragraph",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " ATPase assay for ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "Dictyostelium",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "object": "leaf",
+                        "text": " myosin *",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "paragraph",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " Estimation of the number of active myosin heads in isolated myosin *",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "paragraph",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " Myosin-F-actin binding by pelleting assay *",
+                        "marks": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "line-spacing",
+                "data": {
+                  "size": "1.0"
+                },
+                "nodes": [
+                  {
+                    "object": "block",
+                    "type": "paragraph",
+                    "data": {
+                      "className": null
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "   ",
+                            "marks": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "paragraph",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " Protein detection",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "bold",
+                            "data": {}
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "paragraph",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": " Dictyostelium",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      },
+                      {
+                        "object": "leaf",
+                        "text": " anti-γ-tubulin Westerns ",
+                        "marks": []
+                      },
+                      {
+                        "object": "leaf",
+                        "text": "(contributed by Emma Dalton)",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "font-size",
+                            "data": {
+                              "fontSizeIndex": 5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "heading_3",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "font-size",
+                            "data": {
+                              "fontSizeIndex": 5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "inline",
+                    "type": "link",
+                    "data": {
+                      "href": "/explore/teach"
+                    },
+                    "nodes": [
+                      {
+                        "object": "text",
+                        "leaves": [
+                          {
+                            "object": "leaf",
+                            "text": "Teaching Tools",
+                            "marks": [
+                              {
+                                "object": "mark",
+                                "type": "font-size",
+                                "data": {
+                                  "fontSizeIndex": 5
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "font-size",
+                            "data": {
+                              "fontSizeIndex": 5
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "paragraph",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "bold",
+                            "data": {}
+                          },
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "object": "block",
+                "type": "paragraph",
+                "data": {
+                  "className": null
+                },
+                "nodes": [
+                  {
+                    "object": "text",
+                    "leaves": [
+                      {
+                        "object": "leaf",
+                        "text": "* This experimental protocol was taken from the Rex Chisholm Lab's Dictyostelium Techniques Manual. Many of these protocols are the result of the contributions and collaborations of many different laboratories. ",
+                        "marks": [
+                          {
+                            "object": "mark",
+                            "type": "bold",
+                            "data": {}
+                          },
+                          {
+                            "object": "mark",
+                            "type": "italic",
+                            "data": {}
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
+
+export { newContent, oldContent, order, art, techniques };

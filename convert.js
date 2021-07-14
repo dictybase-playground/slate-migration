@@ -1,4 +1,4 @@
-import { oldContent, order, art } from "./data.js";
+import { oldContent, order, art, techniques } from "./data.js";
 import fs from "fs";
 
 // the two font arrays are taken from the old page editor and used to convert old data
@@ -27,19 +27,13 @@ const FontSizeList = [
  * convertData receives a node object and converts its nested
  * 'data' object into the new Slate format.
  */
-const convertData = (node, align) => {
+const convertData = (node) => {
   const { type } = node;
   switch (type) {
     case "alignment":
-      if (node.data["align"] !== undefined) {
-        return {
-          align: node.data["align"],
-        };
-      }
       return {
-        align: align.slice(6),
+        align: node.data["align"],
       };
-
     case "image":
       return {
         url: node.data["src"],
@@ -201,7 +195,7 @@ const convertDataByType = (node) => {
     const element = {
       type: "div",
       children: convertChildren(node),
-      ...convertData(node, type),
+      ...convertData(node),
     };
     return element;
   }
@@ -280,3 +274,4 @@ const convertSlate047 = (object, filename) => {
 convertSlate047(oldContent, "content.json");
 convertSlate047(order, "order.json");
 convertSlate047(art, "art.json");
+convertSlate047(techniques, "techniques.json");

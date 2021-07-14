@@ -1,0 +1,1338 @@
+[
+    {
+        "type": "div",
+        "children": [
+            {
+                "type": "div",
+                "children": [
+                    {
+                        "type": "body1",
+                        "children": [
+                            {
+                                "text": "",
+                                "fontFamily": "Montserrat"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "div",
+                        "children": [
+                            {
+                                "type": "div",
+                                "children": [
+                                    {
+                                        "type": "h1",
+                                        "children": [
+                                            {
+                                                "text": "Techniques"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "align": "center"
+                            },
+                            {
+                                "type": "h3",
+                                "children": [
+                                    {
+                                        "text": "Media and buffers",
+                                        "bold": true,
+                                        "fontSize": "22px"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "h3",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "bold": true,
+                                        "fontSize": "22px"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "Media and buffers ",
+                                                "fontSize": "16px"
+                                            }
+                                        ],
+                                        "url": "/research/techniques/media"
+                                    },
+                                    {
+                                        "text": "",
+                                        "fontSize": "16px"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "h3",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "Recipe for FM defined medium",
+                                                "fontSize": "16px"
+                                            }
+                                        ],
+                                        "url": "/research/techniques/fm-medium"
+                                    },
+                                    {
+                                        "text": " ",
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "text": "(contributed by Jakob Franke)",
+                                        "italic": true,
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "text": " ",
+                                        "fontSize": "16px"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "h3",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "Recipe for low fluorescence axenic medium",
+                                                "fontSize": "16px"
+                                            }
+                                        ],
+                                        "url": "/research/techniques/low-flo-medium"
+                                    },
+                                    {
+                                        "text": " ",
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "text": "(contributed by Harry MacWilliams)",
+                                        "italic": true,
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "text": " ",
+                                        "fontSize": "16px"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "h3",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "Recipe for synthetic medium",
+                                                "fontSize": "16px"
+                                            }
+                                        ],
+                                        "url": "https://github.com/dictyBase/migration-data/files/3220576/synthetic_medium.pdf"
+                                    },
+                                    {
+                                        "text": " (pdf) ",
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "text": "(contributed by Erwin Flaschel)",
+                                        "italic": true,
+                                        "fontSize": "16px"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "h3",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "bold": true,
+                                        "fontSize": "22px"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "h3",
+                                "children": [
+                                    {
+                                        "text": "Growth, development, and storage of ",
+                                        "bold": true,
+                                        "fontSize": "22px"
+                                    },
+                                    {
+                                        "text": "Dictyostelium",
+                                        "italic": true,
+                                        "bold": true,
+                                        "fontSize": "22px"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "h3",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "italic": true,
+                                        "bold": true,
+                                        "fontSize": "22px"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "Methods for growing ",
+                                                "fontSize": "16px"
+                                            },
+                                            {
+                                                "text": "Dictyostelium",
+                                                "italic": true,
+                                                "fontSize": "16px"
+                                            }
+                                        ],
+                                        "url": "/techniques/growth"
+                                    },
+                                    {
+                                        "text": " ",
+                                        "italic": true,
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "text": "(",
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "text": "Fey et al. 2007",
+                                        "italic": true,
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "text": ")  ",
+                                        "fontSize": "16px"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "h3",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "Methods for ",
+                                                "fontSize": "16px"
+                                            },
+                                            {
+                                                "text": "Dictyostelium",
+                                                "italic": true,
+                                                "fontSize": "16px"
+                                            },
+                                            {
+                                                "text": " development ",
+                                                "fontSize": "16px"
+                                            }
+                                        ],
+                                        "url": "/techniques/development"
+                                    },
+                                    {
+                                        "text": "(",
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "text": "Fey et al. 2007",
+                                        "italic": true,
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "text": ")  ",
+                                        "fontSize": "16px"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "h3",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "Dictyostelium",
+                                                "italic": true,
+                                                "fontSize": "16px"
+                                            },
+                                            {
+                                                "text": " cell storage procedures",
+                                                "fontSize": "16px"
+                                            }
+                                        ],
+                                        "url": "/research/techniques/dicty-storage"
+                                    },
+                                    {
+                                        "text": " (",
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "text": "Fey et al. 2007",
+                                        "italic": true,
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "text": ")  ",
+                                        "fontSize": "16px"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "h3",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "Plating ",
+                                                "fontSize": "16px"
+                                            },
+                                            {
+                                                "text": "Dictyostelium",
+                                                "italic": true,
+                                                "fontSize": "16px"
+                                            },
+                                            {
+                                                "text": " in soft agar",
+                                                "fontSize": "16px"
+                                            }
+                                        ],
+                                        "url": "/research/techniques/soft-agar"
+                                    },
+                                    {
+                                        "text": " * ",
+                                        "fontSize": "16px"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "h3",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "Thawing cells from DMSO stocks",
+                                                "fontSize": "16px"
+                                            }
+                                        ],
+                                        "url": "https://github.com/dictyBase/migration-data/files/5922084/Thawing.cells.from.DMSO.stocks.docx"
+                                    },
+                                    {
+                                        "text": " (contributed by Dave Knecht)",
+                                        "italic": true,
+                                        "fontSize": "16px"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "h3",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "bold": true,
+                                        "fontSize": "22px"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "h3",
+                                "children": [
+                                    {
+                                        "text": "Sexual Genetics",
+                                        "bold": true,
+                                        "fontSize": "22px"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "h3",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "bold": true,
+                                        "fontSize": "22px"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "Methods for parasexual genetics",
+                                                "fontSize": "16px"
+                                            }
+                                        ],
+                                        "url": "/research/techniques/parasexual-genetics"
+                                    },
+                                    {
+                                        "text": " ",
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "text": "(contributed by Jason King and Robert Insall)",
+                                        "italic": true,
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "text": " ",
+                                        "fontSize": "16px"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "h3",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "Method for determining mating types",
+                                                "fontSize": "16px"
+                                            }
+                                        ],
+                                        "url": "/research/techniques/mating-types"
+                                    },
+                                    {
+                                        "text": " ",
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "text": "(contributed by Jakob Franke)",
+                                        "italic": true,
+                                        "fontSize": "16px"
+                                    },
+                                    {
+                                        "text": " ",
+                                        "fontSize": "16px"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "",
+                                "bold": true,
+                                "fontSize": "22px"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "Molecular Biology",
+                                "bold": true,
+                                "fontSize": "22px"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "",
+                                "bold": true,
+                                "fontSize": "22px"
+                            },
+                            {
+                                "type": "link",
+                                "children": [
+                                    {
+                                        "text": "Quick extraction of genomic DNA"
+                                    }
+                                ],
+                                "url": "/research/techniques/quick-genomic-dna-extraction"
+                            },
+                            {
+                                "text": " "
+                            },
+                            {
+                                "text": "(contributed by Steve Charette and Pierre Cosson) ",
+                                "italic": true
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "",
+                                "italic": true
+                            },
+                            {
+                                "type": "link",
+                                "children": [
+                                    {
+                                        "text": "Isolation of genomic DNA"
+                                    }
+                                ],
+                                "url": "/research/techniques/genomic-dna-extraction"
+                            },
+                            {
+                                "text": " * "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": ""
+                            },
+                            {
+                                "type": "link",
+                                "children": [
+                                    {
+                                        "text": "Isolation of genomic DNA with CsCl"
+                                    }
+                                ],
+                                "url": "/research/techniques/genomic-dna-extraction-csci"
+                            },
+                            {
+                                "text": " * "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": ""
+                            },
+                            {
+                                "type": "link",
+                                "children": [
+                                    {
+                                        "text": "RT-PCR for Knockout Screening and Expression Analysis"
+                                    }
+                                ],
+                                "url": "/research/techniques/rt-pcr"
+                            },
+                            {
+                                "text": " "
+                            },
+                            {
+                                "text": "(contributed by Robin Williams)",
+                                "italic": true
+                            },
+                            {
+                                "text": " "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "",
+                                "bold": true,
+                                "fontSize": "22px"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "Transformation",
+                                "bold": true,
+                                "fontSize": "22px"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "",
+                                "bold": true,
+                                "fontSize": "22px"
+                            },
+                            {
+                                "type": "link",
+                                "children": [
+                                    {
+                                        "text": "Transformation protocols"
+                                    }
+                                ],
+                                "url": "/research/techniques/transformation-protocols"
+                            },
+                            {
+                                "text": " ("
+                            },
+                            {
+                                "text": "Gaudet et al. 2007",
+                                "italic": true
+                            },
+                            {
+                                "text": ")  "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": ""
+                            },
+                            {
+                                "type": "link",
+                                "children": [
+                                    {
+                                        "text": "Calcium phosphate precipitation"
+                                    }
+                                ],
+                                "url": "/research/techniques/calcium-phosphate-precipitation"
+                            },
+                            {
+                                "text": " * "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": ""
+                            },
+                            {
+                                "type": "link",
+                                "children": [
+                                    {
+                                        "text": "Electroporation"
+                                    }
+                                ],
+                                "url": "/research/techniques/electroporation"
+                            },
+                            {
+                                "text": " "
+                            },
+                            {
+                                "text": "(contributed by Dave Knecht) ",
+                                "italic": true
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "",
+                                "italic": true
+                            },
+                            {
+                                "type": "link",
+                                "children": [
+                                    {
+                                        "text": "Transformation of NC4 or "
+                                    },
+                                    {
+                                        "text": "D. mucoroides",
+                                        "italic": true
+                                    }
+                                ],
+                                "url": "/research/techniques/transformation-nc4"
+                            },
+                            {
+                                "text": " (contributed by Harry MacWilliams) "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "Microinjection "
+                            },
+                            {
+                                "text": "(contributed by Yoshio Fukui)",
+                                "italic": true
+                            },
+                            {
+                                "text": "  "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "Transformation by particle gun "
+                            },
+                            {
+                                "text": "(contributed by Birgit Wetterauer and Hans-Ulrich Koop) ",
+                                "italic": true
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "Addition of heat-killed bacteria to transformants * "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "Transformant selection on bacterial lawns using the V18-Tn5-cassette "
+                            },
+                            {
+                                "text": "(contributed by Harry MacWilliams)",
+                                "italic": true
+                            },
+                            {
+                                "text": " "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": ""
+                            },
+                            {
+                                "type": "link",
+                                "children": [
+                                    {
+                                        "text": "DAPI Electroporation"
+                                    }
+                                ],
+                                "url": "/research/techniques/dapi-electroporation"
+                            },
+                            {
+                                "text": ""
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "",
+                                "bold": true,
+                                "fontSize": "22px"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "Mutagenesis",
+                                "bold": true,
+                                "fontSize": "22px"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "",
+                                "bold": true,
+                                "fontSize": "22px"
+                            },
+                            {
+                                "type": "link",
+                                "children": [
+                                    {
+                                        "text": "Restriction-enzyme mediated insertional mutagenesis"
+                                    }
+                                ],
+                                "url": "/research/techniques/remi-mutagenesis"
+                            },
+                            {
+                                "text": " (REMI)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": ""
+                            },
+                            {
+                                "type": "link",
+                                "children": [
+                                    {
+                                        "text": "RNAi procedure"
+                                    }
+                                ],
+                                "url": "/research/techniques/rnai-procedure"
+                            },
+                            {
+                                "text": " "
+                            },
+                            {
+                                "text": "(contributed by Alan Kimmel)",
+                                "italic": true
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "Making double mutants by diploid genetics "
+                            },
+                            {
+                                "text": "(contributed by Jason King and Robert Insall)",
+                                "italic": true
+                            },
+                            {
+                                "text": " "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "",
+                                "bold": true,
+                                "fontSize": "22px"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "Gene Expression",
+                                "bold": true,
+                                "fontSize": "22px"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "Chromatin Immuno-precipitation "
+                            },
+                            {
+                                "text": "(contributed by Jeff Williams and Y. Yamada)",
+                                "italic": true
+                            },
+                            {
+                                "text": " "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "Whole mount "
+                            },
+                            {
+                                "text": "in situ",
+                                "italic": true
+                            },
+                            {
+                                "text": " hybridization "
+                            },
+                            {
+                                "text": "(contributed by Ricardo Escalante and Bill Loomis)",
+                                "italic": true
+                            },
+                            {
+                                "text": " "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "Agar overlay technique "
+                            },
+                            {
+                                "text": "(contributed by Yoshio Fukui)",
+                                "italic": true
+                            },
+                            {
+                                "text": " "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "Indirect immunofluorescence * "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "",
+                                "bold": true,
+                                "fontSize": "22px"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "Microscopy",
+                                "bold": true,
+                                "fontSize": "22px"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "Fixation techniques for immunonfluorescence "
+                            },
+                            {
+                                "text": "(contributed by Richard Gomer)",
+                                "italic": true
+                            },
+                            {
+                                "text": " "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "Visualizing weak fluorescence in multicellular stages "
+                            },
+                            {
+                                "text": "(contributed by Harry MacWilliams)",
+                                "italic": true
+                            },
+                            {
+                                "text": " "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "",
+                                "bold": true,
+                                "fontSize": "22px"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "Biochemistry",
+                                "bold": true,
+                                "fontSize": "22px"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "S-methionine labelling of "
+                            },
+                            {
+                                "text": "Dictyostelium",
+                                "italic": true
+                            },
+                            {
+                                "text": "*"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "phosphate labelling of "
+                            },
+                            {
+                                "text": "Dictyostelium",
+                                "italic": true
+                            },
+                            {
+                                "text": "* "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "",
+                                "bold": true,
+                                "fontSize": "22px"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "Cytoskeleton",
+                                "bold": true,
+                                "fontSize": "22px"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "children": [
+                            {
+                                "text": " "
+                            },
+                            {
+                                "text": "Protein preparation",
+                                "bold": true
+                            },
+                            {
+                                "text": " "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "children": [
+                            {
+                                "text": " Isolation of "
+                            },
+                            {
+                                "text": "Dictyostelium",
+                                "italic": true
+                            },
+                            {
+                                "text": " cytoskeleton *"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "children": [
+                            {
+                                "text": " Isolation of "
+                            },
+                            {
+                                "text": "Dictyostelium",
+                                "italic": true
+                            },
+                            {
+                                "text": " centrosomes "
+                            },
+                            {
+                                "text": "(contributed by Ralph Gräf)",
+                                "italic": true
+                            },
+                            {
+                                "text": " "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "children": [
+                            {
+                                "text": " Preparation of microtubule-associated motor proteins *"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "children": [
+                            {
+                                "text": " Purification of muscle actin *"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "children": [
+                            {
+                                "text": " One-day "
+                            },
+                            {
+                                "text": "Dictyostelium",
+                                "italic": true
+                            },
+                            {
+                                "text": " myosin preparation *"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "children": [
+                            {
+                                "text": " Three-day "
+                            },
+                            {
+                                "text": "Dictyostelium",
+                                "italic": true
+                            },
+                            {
+                                "text": " myosin preparation * "
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "children": [
+                            {
+                                "text": " Dictyostelium",
+                                "italic": true
+                            },
+                            {
+                                "text": " cell staining for tubulin "
+                            },
+                            {
+                                "text": "(contributed by Emma Dalton)",
+                                "italic": true
+                            }
+                        ]
+                    },
+                    {
+                        "type": "lineSpacing",
+                        "children": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "  ",
+                                        "fontSize": "12px"
+                                    }
+                                ]
+                            }
+                        ],
+                        "lineSpacing": "1.0"
+                    },
+                    {
+                        "type": "paragraph",
+                        "children": [
+                            {
+                                "text": " Protein assays",
+                                "bold": true
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "children": [
+                            {
+                                "text": " Microtubule gliding assay for microtubule-associated motors *"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "children": [
+                            {
+                                "text": " ATPase assay for dynein (radioactive) *"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "children": [
+                            {
+                                "text": " CTPase assay for dynein (colorimetric) *"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "children": [
+                            {
+                                "text": "  "
+                            },
+                            {
+                                "text": "in vitro",
+                                "italic": true
+                            },
+                            {
+                                "text": " motility assay *"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "children": [
+                            {
+                                "text": " ATPase assay for "
+                            },
+                            {
+                                "text": "Dictyostelium",
+                                "italic": true
+                            },
+                            {
+                                "text": " myosin *"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "children": [
+                            {
+                                "text": " Estimation of the number of active myosin heads in isolated myosin *"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "children": [
+                            {
+                                "text": " Myosin-F-actin binding by pelleting assay *"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "lineSpacing",
+                        "children": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "   "
+                                    }
+                                ]
+                            }
+                        ],
+                        "lineSpacing": "1.0"
+                    },
+                    {
+                        "type": "paragraph",
+                        "children": [
+                            {
+                                "text": " Protein detection",
+                                "bold": true
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "children": [
+                            {
+                                "text": " Dictyostelium",
+                                "italic": true
+                            },
+                            {
+                                "text": " anti-γ-tubulin Westerns "
+                            },
+                            {
+                                "text": "(contributed by Emma Dalton)",
+                                "italic": true
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "",
+                                "fontSize": "22px"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "h3",
+                        "children": [
+                            {
+                                "text": "",
+                                "fontSize": "22px"
+                            },
+                            {
+                                "type": "link",
+                                "children": [
+                                    {
+                                        "text": "Teaching Tools",
+                                        "fontSize": "22px"
+                                    }
+                                ],
+                                "url": "/explore/teach"
+                            },
+                            {
+                                "text": "",
+                                "fontSize": "22px"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "children": [
+                            {
+                                "text": "",
+                                "bold": true,
+                                "italic": true
+                            }
+                        ]
+                    },
+                    {
+                        "type": "paragraph",
+                        "children": [
+                            {
+                                "text": "* This experimental protocol was taken from the Rex Chisholm Lab's Dictyostelium Techniques Manual. Many of these protocols are the result of the contributions and collaborations of many different laboratories. ",
+                                "bold": true,
+                                "italic": true
+                            }
+                        ]
+                    }
+                ],
+                "align": "left"
+            }
+        ]
+    }
+]
