@@ -10,7 +10,9 @@
                         "children": [
                             {
                                 "text": "",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -27,7 +29,8 @@
                                                 "text": "dicty Art",
                                                 "fontSize": "26px",
                                                 "bold": true,
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "26px"
                                             }
                                         ]
                                     }
@@ -48,7 +51,9 @@
                                             {
                                                 "text": "Art inspired by amoebas",
                                                 "italic": true,
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     }
@@ -62,7 +67,9 @@
                         "children": [
                             {
                                 "text": "",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -71,7 +78,9 @@
                         "children": [
                             {
                                 "text": "      ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -87,19 +96,22 @@
                                             {
                                                 "text": " ",
                                                 "fontSize": "20px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "20px"
                                             },
                                             {
                                                 "text": "Homo amoeba",
                                                 "italic": true,
                                                 "bold": true,
                                                 "fontSize": "20px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "20px"
                                             },
                                             {
                                                 "text": " ",
                                                 "fontSize": "20px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "20px"
                                             }
                                         ]
                                     },
@@ -109,7 +121,9 @@
                                             {
                                                 "text": "by Artúr van Balen",
                                                 "italic": true,
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     }
@@ -125,7 +139,9 @@
                                             {
                                                 "text": "",
                                                 "italic": true,
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     },
@@ -143,7 +159,9 @@
                                                                 "children": [
                                                                     {
                                                                         "text": "",
-                                                                        "fontColor": "inherit"
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit",
+                                                                        "fontFamily": "inherit"
                                                                     }
                                                                 ]
                                                             },
@@ -152,7 +170,9 @@
                                                                 "children": [
                                                                     {
                                                                         "text": "",
-                                                                        "fontColor": "inherit"
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit",
+                                                                        "fontFamily": "inherit"
                                                                     }
                                                                 ],
                                                                 "url": "https://www.youtube.com/embed/7jd0QEe_WHE",
@@ -164,7 +184,9 @@
                                                                 "children": [
                                                                     {
                                                                         "text": "",
-                                                                        "fontColor": "inherit"
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit",
+                                                                        "fontFamily": "inherit"
                                                                     }
                                                                 ]
                                                             }
@@ -178,7 +200,9 @@
                                                                 "children": [
                                                                     {
                                                                         "text": "",
-                                                                        "fontColor": "inherit"
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit",
+                                                                        "fontFamily": "inherit"
                                                                     }
                                                                 ]
                                                             },
@@ -187,16 +211,22 @@
                                                                 "children": [
                                                                     {
                                                                         "text": "Project ",
-                                                                        "fontColor": "inherit"
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit",
+                                                                        "fontFamily": "inherit"
                                                                     },
                                                                     {
                                                                         "text": "Homo amoeba",
                                                                         "bold": true,
-                                                                        "fontColor": "inherit"
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit",
+                                                                        "fontFamily": "inherit"
                                                                     },
                                                                     {
                                                                         "text": " investigates the ideal of flexibility. One is\n flexible when one can adapt to all situations. For humans, this is more\n an ideal than reality. For amoebas, being elastic and flexible is no \nexception. Dictyostelium serves here as a representation of the ideal. A\n man attempts to imitate the movement.",
-                                                                        "fontColor": "inherit"
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit",
+                                                                        "fontFamily": "inherit"
                                                                     }
                                                                 ]
                                                             },
@@ -205,7 +235,9 @@
                                                                 "children": [
                                                                     {
                                                                         "text": "",
-                                                                        "fontColor": "inherit"
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit",
+                                                                        "fontFamily": "inherit"
                                                                     }
                                                                 ]
                                                             },
@@ -220,12 +252,16 @@
                                                                                 "children": [
                                                                                     {
                                                                                         "text": " ",
-                                                                                        "fontColor": "inherit"
+                                                                                        "fontColor": "inherit",
+                                                                                        "fontSize": "inherit",
+                                                                                        "fontFamily": "inherit"
                                                                                     },
                                                                                     {
                                                                                         "text": "Artúr van Balen, 2008",
                                                                                         "italic": true,
-                                                                                        "fontColor": "inherit"
+                                                                                        "fontColor": "inherit",
+                                                                                        "fontSize": "inherit",
+                                                                                        "fontFamily": "inherit"
                                                                                     }
                                                                                 ]
                                                                             },
@@ -235,7 +271,9 @@
                                                                                     {
                                                                                         "text": "",
                                                                                         "italic": true,
-                                                                                        "fontColor": "inherit"
+                                                                                        "fontColor": "inherit",
+                                                                                        "fontSize": "inherit",
+                                                                                        "fontFamily": "inherit"
                                                                                     }
                                                                                 ]
                                                                             },
@@ -245,7 +283,9 @@
                                                                                     {
                                                                                         "text": "",
                                                                                         "italic": true,
-                                                                                        "fontColor": "inherit"
+                                                                                        "fontColor": "inherit",
+                                                                                        "fontSize": "inherit",
+                                                                                        "fontFamily": "inherit"
                                                                                     }
                                                                                 ]
                                                                             },
@@ -255,7 +295,9 @@
                                                                                     {
                                                                                         "text": "",
                                                                                         "italic": true,
-                                                                                        "fontColor": "inherit"
+                                                                                        "fontColor": "inherit",
+                                                                                        "fontSize": "inherit",
+                                                                                        "fontFamily": "inherit"
                                                                                     }
                                                                                 ]
                                                                             },
@@ -264,7 +306,9 @@
                                                                                 "children": [
                                                                                     {
                                                                                         "text": "This video has first been presented at the Dicty 2007 meeting in Rotenburg, Germany, which  Artúr visited.",
-                                                                                        "fontColor": "inherit"
+                                                                                        "fontColor": "inherit",
+                                                                                        "fontSize": "inherit",
+                                                                                        "fontFamily": "inherit"
                                                                                     }
                                                                                 ]
                                                                             },
@@ -274,7 +318,9 @@
                                                                                     {
                                                                                         "text": "",
                                                                                         "italic": true,
-                                                                                        "fontColor": "inherit"
+                                                                                        "fontColor": "inherit",
+                                                                                        "fontSize": "inherit",
+                                                                                        "fontFamily": "inherit"
                                                                                     }
                                                                                 ]
                                                                             }
@@ -294,7 +340,9 @@
                                         "children": [
                                             {
                                                 "text": "",
-                                                "fontColor": "#ffffff"
+                                                "fontColor": "#ffffff",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     },
@@ -309,7 +357,9 @@
                                                         "children": [
                                                             {
                                                                 "text": ". ",
-                                                                "fontColor": "inherit"
+                                                                "fontColor": "inherit",
+                                                                "fontSize": "inherit",
+                                                                "fontFamily": "inherit"
                                                             }
                                                         ]
                                                     }
@@ -335,18 +385,21 @@
                                             {
                                                 "text": " ",
                                                 "fontSize": "20px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "20px"
                                             },
                                             {
                                                 "text": "Poem",
                                                 "bold": true,
                                                 "fontSize": "20px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "20px"
                                             },
                                             {
                                                 "text": " ",
                                                 "fontSize": "20px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "20px"
                                             }
                                         ]
                                     },
@@ -355,7 +408,9 @@
                                         "children": [
                                             {
                                                 "text": "by Paul R. Fisher ",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     },
@@ -364,7 +419,9 @@
                                         "children": [
                                             {
                                                 "text": "ca. 2000",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     },
@@ -376,7 +433,9 @@
                                                 "children": [
                                                     {
                                                         "text": "       ",
-                                                        "fontColor": "inherit"
+                                                        "fontColor": "inherit",
+                                                        "fontSize": "inherit",
+                                                        "fontFamily": "inherit"
                                                     }
                                                 ]
                                             }
@@ -388,12 +447,16 @@
                                         "children": [
                                             {
                                                 "text": " ",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             },
                                             {
                                                 "text": "The Leaders ",
                                                 "bold": true,
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     },
@@ -405,7 +468,9 @@
                                                 "children": [
                                                     {
                                                         "text": " ",
-                                                        "fontColor": "inherit"
+                                                        "fontColor": "inherit",
+                                                        "fontSize": "inherit",
+                                                        "fontFamily": "inherit"
                                                     }
                                                 ]
                                             }
@@ -417,16 +482,22 @@
                                         "children": [
                                             {
                                                 "text": " ",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             },
                                             {
                                                 "text": "From the beginning of the journey,\n it is we who lead the way,\n we call the tune\n we beat the drum\n we send our chemical messages\n and you.... you must obey.\n \n But at the journey's end,\n at the culmination of it all,\n we are the stalk and the stem\n who raise you up to the sky\n so that you might live\n while we.... we must die.",
                                                 "italic": true,
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             },
                                             {
                                                 "text": " ",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     },
@@ -435,7 +506,9 @@
                                         "children": [
                                             {
                                                 "text": "",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     },
@@ -444,7 +517,9 @@
                                         "children": [
                                             {
                                                 "text": "",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     }
@@ -459,7 +534,9 @@
                                         "children": [
                                             {
                                                 "text": "",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     }
@@ -476,7 +553,8 @@
                                                 "text": "Dicty Artwork by Paul H. Dear, 2005",
                                                 "fontSize": "20px",
                                                 "bold": true,
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "20px"
                                             }
                                         ]
                                     }
@@ -492,18 +570,21 @@
                                             {
                                                 "text": "Graphics generated when the Nature cover was created for the publication of the ",
                                                 "fontSize": "14px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "14px"
                                             },
                                             {
                                                 "text": "Dictyostelium ",
                                                 "italic": true,
                                                 "fontSize": "14px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "14px"
                                             },
                                             {
                                                 "text": "Genome (Nature, 5th May 2005).",
                                                 "fontSize": "14px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "14px"
                                             }
                                         ]
                                     }
@@ -527,7 +608,9 @@
                                                                 "children": [
                                                                     {
                                                                         "text": "",
-                                                                        "fontColor": "inherit"
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit",
+                                                                        "fontFamily": "inherit"
                                                                     }
                                                                 ],
                                                                 "url": "https://user-images.githubusercontent.com/1349602/104525522-f9a21780-55c5-11eb-966a-b502f575e155.jpg",
@@ -551,7 +634,9 @@
                                                                 "children": [
                                                                     {
                                                                         "text": "",
-                                                                        "fontColor": "inherit"
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit",
+                                                                        "fontFamily": "inherit"
                                                                     }
                                                                 ],
                                                                 "url": "https://user-images.githubusercontent.com/1349602/104525578-10486e80-55c6-11eb-8177-38d32fbea9cc.jpg",
@@ -575,7 +660,9 @@
                                                                 "children": [
                                                                     {
                                                                         "text": "",
-                                                                        "fontColor": "inherit"
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit",
+                                                                        "fontFamily": "inherit"
                                                                     }
                                                                 ],
                                                                 "url": "https://user-images.githubusercontent.com/1349602/104525539-0161bc00-55c6-11eb-98aa-8a0a749252ac.jpg"
@@ -596,7 +683,9 @@
                                                                 "children": [
                                                                     {
                                                                         "text": "",
-                                                                        "fontColor": "inherit"
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit",
+                                                                        "fontFamily": "inherit"
                                                                     }
                                                                 ],
                                                                 "url": "https://user-images.githubusercontent.com/1349602/104525544-06267000-55c6-11eb-8f77-75a78d0df783.jpg",
@@ -620,7 +709,9 @@
                                                                 "children": [
                                                                     {
                                                                         "text": "",
-                                                                        "fontColor": "inherit"
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit",
+                                                                        "fontFamily": "inherit"
                                                                     }
                                                                 ],
                                                                 "url": "https://user-images.githubusercontent.com/1349602/104525618-1fc7b780-55c6-11eb-8cbf-592f652e392c.jpg"
@@ -640,13 +731,15 @@
                                     {
                                         "text": "     ",
                                         "fontSize": "14px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "14px"
                                     },
                                     {
                                         "text": "Download High Resolution Images",
                                         "fontSize": "14px",
                                         "underline": true,
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "14px"
                                     }
                                 ],
                                 "align": "center"
@@ -659,12 +752,16 @@
                                         "children": [
                                             {
                                                 "text": "                   ",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             },
                                             {
                                                 "text": " ",
                                                 "bold": true,
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             },
                                             {
                                                 "type": "link",
@@ -672,7 +769,9 @@
                                                     {
                                                         "text": "Crowd",
                                                         "bold": true,
-                                                        "fontColor": "inherit"
+                                                        "fontColor": "inherit",
+                                                        "fontSize": "inherit",
+                                                        "fontFamily": "inherit"
                                                     }
                                                 ],
                                                 "url": "https://github.com/dictyBase/migration-data/files/5811583/crowd.pdf"
@@ -680,7 +779,9 @@
                                             {
                                                 "text": "                                    ",
                                                 "bold": true,
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             },
                                             {
                                                 "type": "link",
@@ -688,7 +789,9 @@
                                                     {
                                                         "text": "Crowd Helix",
                                                         "bold": true,
-                                                        "fontColor": "inherit"
+                                                        "fontColor": "inherit",
+                                                        "fontSize": "inherit",
+                                                        "fontFamily": "inherit"
                                                     }
                                                 ],
                                                 "url": "https://github.com/dictyBase/migration-data/files/5811582/crowd-helix.pdf"
@@ -696,7 +799,9 @@
                                             {
                                                 "text": "                              ",
                                                 "bold": true,
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             },
                                             {
                                                 "type": "link",
@@ -704,7 +809,9 @@
                                                     {
                                                         "text": "Metal Crowd",
                                                         "bold": true,
-                                                        "fontColor": "inherit"
+                                                        "fontColor": "inherit",
+                                                        "fontSize": "inherit",
+                                                        "fontFamily": "inherit"
                                                     }
                                                 ],
                                                 "url": "https://github.com/dictyBase/migration-data/files/5811586/metal-crowd.pdf"
@@ -712,7 +819,9 @@
                                             {
                                                 "text": "                            ",
                                                 "bold": true,
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             },
                                             {
                                                 "type": "link",
@@ -720,7 +829,9 @@
                                                     {
                                                         "text": "Metal Helix",
                                                         "bold": true,
-                                                        "fontColor": "inherit"
+                                                        "fontColor": "inherit",
+                                                        "fontSize": "inherit",
+                                                        "fontFamily": "inherit"
                                                     }
                                                 ],
                                                 "url": "https://github.com/dictyBase/migration-data/files/5811587/metal-helix.pdf"
@@ -728,7 +839,9 @@
                                             {
                                                 "text": "                                 ",
                                                 "bold": true,
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             },
                                             {
                                                 "type": "link",
@@ -736,7 +849,9 @@
                                                     {
                                                         "text": "Forest",
                                                         "bold": true,
-                                                        "fontColor": "inherit"
+                                                        "fontColor": "inherit",
+                                                        "fontSize": "inherit",
+                                                        "fontFamily": "inherit"
                                                     }
                                                 ],
                                                 "url": "https://github.com/dictyBase/migration-data/files/5811584/forest.pdf"
@@ -744,7 +859,9 @@
                                             {
                                                 "text": "",
                                                 "bold": true,
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     },
@@ -753,7 +870,9 @@
                                         "children": [
                                             {
                                                 "text": "Permission is hereby granted by the copyright holder to use these images for any non-commercial use, including inclusion in web pages, presentations, and reports. The images should have a minimal attribution of \"Copyright, Paul H. Dear, MRC Laboratory of Molecular Biology, Cambridge, UK\"",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     }
@@ -767,7 +886,9 @@
                         "children": [
                             {
                                 "text": "",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -776,7 +897,9 @@
                         "children": [
                             {
                                 "text": "     ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -799,7 +922,8 @@
                                                                 "text": " National Geographic ",
                                                                 "bold": true,
                                                                 "fontSize": "20px",
-                                                                "fontColor": "inherit"
+                                                                "fontColor": "inherit",
+                                                                "fontFamily": "20px"
                                                             }
                                                         ]
                                                     },
@@ -809,7 +933,9 @@
                                                             {
                                                                 "text": "Best Microscopic Images Competion ",
                                                                 "italic": true,
-                                                                "fontColor": "inherit"
+                                                                "fontColor": "inherit",
+                                                                "fontSize": "inherit",
+                                                                "fontFamily": "inherit"
                                                             }
                                                         ]
                                                     }
@@ -823,7 +949,9 @@
                                         "children": [
                                             {
                                                 "text": "Matthew Springer",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     }
@@ -837,7 +965,9 @@
                                         "children": [
                                             {
                                                 "text": "Stanford University ",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     },
@@ -846,7 +976,9 @@
                                         "children": [
                                             {
                                                 "text": " ",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     },
@@ -856,7 +988,9 @@
                                             {
                                                 "text": "4th place (2008)",
                                                 "bold": true,
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     },
@@ -866,7 +1000,9 @@
                                             {
                                                 "text": "",
                                                 "bold": true,
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     },
@@ -875,7 +1011,9 @@
                                         "children": [
                                             {
                                                 "text": "",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ],
                                         "url": "https://user-images.githubusercontent.com/13489381/58503903-25e9f580-814f-11e9-80fb-6988e2301c96.jpg"
@@ -885,7 +1023,9 @@
                                         "children": [
                                             {
                                                 "text": "    ",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     }
@@ -899,7 +1039,9 @@
                         "children": [
                             {
                                 "text": "",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -908,7 +1050,9 @@
                         "children": [
                             {
                                 "text": "",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -925,7 +1069,8 @@
                                                 "text": "Altruistic Amoeba",
                                                 "fontSize": "20px",
                                                 "bold": true,
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "20px"
                                             }
                                         ]
                                     },
@@ -934,7 +1079,9 @@
                                         "children": [
                                             {
                                                 "text": "",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ],
                                         "lineSpacing": "1.1"
@@ -959,7 +1106,9 @@
                                                                 "children": [
                                                                     {
                                                                         "text": "",
-                                                                        "fontColor": "inherit"
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit",
+                                                                        "fontFamily": "inherit"
                                                                     }
                                                                 ]
                                                             },
@@ -968,7 +1117,9 @@
                                                                 "children": [
                                                                     {
                                                                         "text": "",
-                                                                        "fontColor": "inherit"
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit",
+                                                                        "fontFamily": "inherit"
                                                                     }
                                                                 ],
                                                                 "url": "https://www.youtube.com/embed/zMWSjF_lKGQ",
@@ -980,7 +1131,9 @@
                                                                 "children": [
                                                                     {
                                                                         "text": "",
-                                                                        "fontColor": "inherit"
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit",
+                                                                        "fontFamily": "inherit"
                                                                     }
                                                                 ]
                                                             }
@@ -1003,7 +1156,9 @@
                                                                                         "children": [
                                                                                             {
                                                                                                 "text": "",
-                                                                                                "fontColor": "inherit"
+                                                                                                "fontColor": "inherit",
+                                                                                                "fontSize": "inherit",
+                                                                                                "fontFamily": "inherit"
                                                                                             }
                                                                                         ]
                                                                                     },
@@ -1012,16 +1167,22 @@
                                                                                         "children": [
                                                                                             {
                                                                                                 "text": "Project ",
-                                                                                                "fontColor": "inherit"
+                                                                                                "fontColor": "inherit",
+                                                                                                "fontSize": "inherit",
+                                                                                                "fontFamily": "inherit"
                                                                                             },
                                                                                             {
                                                                                                 "text": "We're Not So Different",
                                                                                                 "bold": true,
-                                                                                                "fontColor": "inherit"
+                                                                                                "fontColor": "inherit",
+                                                                                                "fontSize": "inherit",
+                                                                                                "fontFamily": "inherit"
                                                                                             },
                                                                                             {
                                                                                                 "text": "- \"Altruistic Amoeba\"\n",
-                                                                                                "fontColor": "inherit"
+                                                                                                "fontColor": "inherit",
+                                                                                                "fontSize": "inherit",
+                                                                                                "fontFamily": "inherit"
                                                                                             }
                                                                                         ]
                                                                                     },
@@ -1031,7 +1192,9 @@
                                                                                             {
                                                                                                 "text": "Kurtis Ross, 2014",
                                                                                                 "italic": true,
-                                                                                                "fontColor": "inherit"
+                                                                                                "fontColor": "inherit",
+                                                                                                "fontSize": "inherit",
+                                                                                                "fontFamily": "inherit"
                                                                                             }
                                                                                         ]
                                                                                     }
@@ -1054,7 +1217,9 @@
                                         "children": [
                                             {
                                                 "text": "",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     }
@@ -1069,7 +1234,9 @@
                                         "children": [
                                             {
                                                 "text": "",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     }
@@ -1084,7 +1251,9 @@
                                         "children": [
                                             {
                                                 "text": "",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     }
@@ -1099,7 +1268,9 @@
                                         "children": [
                                             {
                                                 "text": "",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     },
@@ -1108,7 +1279,9 @@
                                         "children": [
                                             {
                                                 "text": "",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     }

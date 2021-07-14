@@ -7,7 +7,9 @@
                 "children": [
                     {
                         "text": "Ordering Information",
-                        "fontColor": "inherit"
+                        "fontColor": "inherit",
+                        "fontSize": "inherit",
+                        "fontFamily": "inherit"
                     }
                 ]
             }
@@ -20,7 +22,9 @@
             {
                 "text": "",
                 "bold": true,
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             }
         ]
     },
@@ -30,7 +34,9 @@
             {
                 "text": "Dicty Stock Center Distribution Policy",
                 "bold": true,
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             }
         ]
     },
@@ -39,48 +45,66 @@
         "children": [
             {
                 "text": "The ",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             },
             {
                 "text": "DSC",
                 "bold": true,
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             },
             {
                 "text": " fills any request from bona fide teaching or ",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             },
             {
                 "text": "non-profit",
                 "bold": true,
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             },
             {
                 "text": " research institutions. Users from ",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             },
             {
                 "text": "for-profit",
                 "bold": true,
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             },
             {
                 "text": " institutions need to send an ",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             },
             {
                 "type": "link",
                 "children": [
                     {
                         "text": "email",
-                        "fontColor": "inherit"
+                        "fontColor": "inherit",
+                        "fontSize": "inherit",
+                        "fontFamily": "inherit"
                     }
                 ],
                 "url": "mailto:dictystocks@northwestern.edu"
             },
             {
                 "text": " stating that the materials will be used for research only and no profit will be made from DSC materials.\n\nWe also expect the recipient to provide a FedEx, UPS, or a DHL billing number to pay for the shipping. If you create your own shipping label, please click that option. Shipping costs are third party and not related to ",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             },
             {
                 "type": "link",
@@ -88,56 +112,72 @@
                     {
                         "text": "DSC charges",
                         "bold": true,
-                        "fontColor": "inherit"
+                        "fontColor": "inherit",
+                        "fontSize": "inherit",
+                        "fontFamily": "inherit"
                     }
                 ],
                 "url": "/stockcenter/information/payment"
             },
             {
                 "text": ".\n\nThe Dicty Stock Center ships strains by default on an ",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             },
             {
                 "type": "link",
                 "children": [
                     {
                         "text": "LPB plate",
-                        "fontColor": "inherit"
+                        "fontColor": "inherit",
+                        "fontSize": "inherit",
+                        "fontFamily": "inherit"
                     }
                 ],
                 "url": "/techniques/media/media.html#LPB"
             },
             {
                 "text": " with ",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             },
             {
                 "type": "link",
                 "children": [
                     {
                         "text": "E. coli B/r a",
-                        "fontColor": "inherit"
+                        "fontColor": "inherit",
+                        "fontSize": "inherit",
+                        "fontFamily": "inherit"
                     }
                 ],
                 "url": "http://dictybase.org/db/cgi-bin/dictyBase/phenotype/strain_and_phenotype_details.pl?genotype_id=6955"
             },
             {
                 "text": "s a food source.  If axenic cells in ",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             },
             {
                 "type": "link",
                 "children": [
                     {
                         "text": "HL5",
-                        "fontColor": "inherit"
+                        "fontColor": "inherit",
+                        "fontSize": "inherit",
+                        "fontFamily": "inherit"
                     }
                 ],
                 "url": "/techniques/media/media.html#MAHL5"
             },
             {
                 "text": " are desired, please add this information in your order.",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             }
         ]
     },
@@ -146,7 +186,9 @@
         "children": [
             {
                 "text": "",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             }
         ]
     },
@@ -156,7 +198,9 @@
             {
                 "text": "Timeline",
                 "bold": true,
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             }
         ]
     },
@@ -165,12 +209,15 @@
         "children": [
             {
                 "text": "Strains",
-                "fontFamily": "Roboto Condensed",
-                "fontColor": "inherit"
+                "fontFamily": "inherit",
+                "fontColor": "inherit",
+                "fontSize": "inherit"
             },
             {
                 "text": " are plated in the order they come in as DSC orders. Depending on the order volume orders are shipped witthin a week or two, when the order is regular and small. However, if you have a small order, please remark in the comment field that you need the order as soon as possible and small orders  are preferentially plated. ",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             }
         ]
     },
@@ -179,7 +226,9 @@
         "children": [
             {
                 "text": "Due to an increased order volume, we ship larger orders and GWDI orders in 2 to 4 weeks, depending on order volume. We try to bundle orders into one shipment, however, very large orders (>12) might be shipped in separate shipments. Please inquire about shipping and order returns. ",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             }
         ]
     },
@@ -188,7 +237,9 @@
         "children": [
             {
                 "text": "",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             }
         ]
     },
@@ -198,7 +249,9 @@
             {
                 "text": "Plasmids",
                 "bold": true,
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             }
         ]
     },
@@ -207,7 +260,9 @@
         "children": [
             {
                 "text": "Plasmids will be sent as bacterial transformants on an LB (Luria Bertani) Ampicillin plate, or as DNA on a piece of filter paper by request.",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             }
         ]
     },
@@ -217,25 +272,33 @@
             {
                 "text": "Note:",
                 "bold": true,
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             },
             {
                 "text": " When you receive the strain(s) they need to be stored in the lab following one of the ",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             },
             {
                 "type": "link",
                 "children": [
                     {
                         "text": "procedures",
-                        "fontColor": "inherit"
+                        "fontColor": "inherit",
+                        "fontSize": "inherit",
+                        "fontFamily": "inherit"
                     }
                 ],
                 "url": "/techniques/media/dicty_storage.html"
             },
             {
                 "text": " described. New users may also consult our ",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             },
             {
                 "type": "link",
@@ -243,14 +306,18 @@
                     {
                         "text": "DSC FAQ",
                         "bold": true,
-                        "fontColor": "inherit"
+                        "fontColor": "inherit",
+                        "fontSize": "inherit",
+                        "fontFamily": "inherit"
                     }
                 ],
                 "url": "/stockcenter/information/faq"
             },
             {
                 "text": " page. Also store your plasmids following standard procedures.",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             }
         ]
     },
@@ -259,7 +326,9 @@
         "children": [
             {
                 "text": "",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             }
         ]
     },
@@ -268,7 +337,9 @@
         "children": [
             {
                 "text": "Ordering Procedures for Strains or Plasmids:",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             }
         ]
     },
@@ -277,7 +348,9 @@
         "children": [
             {
                 "text": "",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             }
         ]
     },
@@ -286,7 +359,9 @@
         "children": [
             {
                 "text": "Step 1: To find the item(s) you want, search the strain or plasmid catalog.",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             }
         ]
     },
@@ -295,7 +370,9 @@
         "children": [
             {
                 "text": "Step 2:  Click the green shopping cart of the available item you wish to purchase. For more details click on the strain.",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             }
         ]
     },
@@ -304,7 +381,9 @@
         "children": [
             {
                 "text": "Step 3: Go to your shopping cart, inspect the items and check out.",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             }
         ]
     },
@@ -313,7 +392,9 @@
         "children": [
             {
                 "text": "Step 4: Fill out the form or login to autofill your information.",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             }
         ]
     },
@@ -322,7 +403,9 @@
         "children": [
             {
                 "text": "Step 5: Complete the payment information as well and click 'Order'",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             }
         ]
     },
@@ -331,7 +414,9 @@
         "children": [
             {
                 "text": "Step 6: An order confirmation will be sent by email and appears on your screen",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             }
         ]
     },
@@ -340,7 +425,9 @@
         "children": [
             {
                 "text": "",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             }
         ]
     },
@@ -349,21 +436,27 @@
         "children": [
             {
                 "text": "If you need additional assistance, please e-mail the ",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             },
             {
                 "type": "link",
                 "children": [
                     {
                         "text": "Dicty Stock Center",
-                        "fontColor": "inherit"
+                        "fontColor": "inherit",
+                        "fontSize": "inherit",
+                        "fontFamily": "inherit"
                     }
                 ],
                 "url": "mailto:dictystocks@northwestern.edu"
             },
             {
                 "text": ".",
-                "fontColor": "inherit"
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
             }
         ]
     }

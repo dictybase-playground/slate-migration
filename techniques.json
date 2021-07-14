@@ -10,8 +10,9 @@
                         "children": [
                             {
                                 "text": "",
-                                "fontFamily": "Montserrat",
-                                "fontColor": "inherit"
+                                "fontFamily": "inherit",
+                                "fontColor": "inherit",
+                                "fontSize": "inherit"
                             }
                         ]
                     },
@@ -26,7 +27,9 @@
                                         "children": [
                                             {
                                                 "text": "Techniques",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
                                             }
                                         ]
                                     }
@@ -40,7 +43,8 @@
                                         "text": "Media and buffers",
                                         "bold": true,
                                         "fontSize": "22px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "22px"
                                     }
                                 ]
                             },
@@ -51,7 +55,8 @@
                                         "text": "",
                                         "bold": true,
                                         "fontSize": "22px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "22px"
                                     },
                                     {
                                         "type": "link",
@@ -59,7 +64,8 @@
                                             {
                                                 "text": "Media and buffers ",
                                                 "fontSize": "16px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "16px"
                                             }
                                         ],
                                         "url": "/research/techniques/media"
@@ -67,7 +73,8 @@
                                     {
                                         "text": "",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     }
                                 ]
                             },
@@ -77,7 +84,8 @@
                                     {
                                         "text": "",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "type": "link",
@@ -85,7 +93,8 @@
                                             {
                                                 "text": "Recipe for FM defined medium",
                                                 "fontSize": "16px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "16px"
                                             }
                                         ],
                                         "url": "/research/techniques/fm-medium"
@@ -93,18 +102,21 @@
                                     {
                                         "text": " ",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "text": "(contributed by Jakob Franke)",
                                         "italic": true,
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "text": " ",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     }
                                 ]
                             },
@@ -114,7 +126,8 @@
                                     {
                                         "text": "",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "type": "link",
@@ -122,7 +135,8 @@
                                             {
                                                 "text": "Recipe for low fluorescence axenic medium",
                                                 "fontSize": "16px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "16px"
                                             }
                                         ],
                                         "url": "/research/techniques/low-flo-medium"
@@ -130,18 +144,21 @@
                                     {
                                         "text": " ",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "text": "(contributed by Harry MacWilliams)",
                                         "italic": true,
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "text": " ",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     }
                                 ]
                             },
@@ -151,7 +168,8 @@
                                     {
                                         "text": "",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "type": "link",
@@ -159,7 +177,8 @@
                                             {
                                                 "text": "Recipe for synthetic medium",
                                                 "fontSize": "16px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "16px"
                                             }
                                         ],
                                         "url": "https://github.com/dictyBase/migration-data/files/3220576/synthetic_medium.pdf"
@@ -167,13 +186,15 @@
                                     {
                                         "text": " (pdf) ",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "text": "(contributed by Erwin Flaschel)",
                                         "italic": true,
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     }
                                 ]
                             },
@@ -184,7 +205,8 @@
                                         "text": "",
                                         "bold": true,
                                         "fontSize": "22px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "22px"
                                     }
                                 ]
                             },
@@ -195,14 +217,16 @@
                                         "text": "Growth, development, and storage of ",
                                         "bold": true,
                                         "fontSize": "22px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "22px"
                                     },
                                     {
                                         "text": "Dictyostelium",
                                         "italic": true,
                                         "bold": true,
                                         "fontSize": "22px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "22px"
                                     }
                                 ]
                             },
@@ -214,7 +238,8 @@
                                         "italic": true,
                                         "bold": true,
                                         "fontSize": "22px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "22px"
                                     },
                                     {
                                         "type": "link",
@@ -222,13 +247,15 @@
                                             {
                                                 "text": "Methods for growing ",
                                                 "fontSize": "16px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "16px"
                                             },
                                             {
                                                 "text": "Dictyostelium",
                                                 "italic": true,
                                                 "fontSize": "16px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "16px"
                                             }
                                         ],
                                         "url": "/techniques/growth"
@@ -237,23 +264,27 @@
                                         "text": " ",
                                         "italic": true,
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "text": "(",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "text": "Fey et al. 2007",
                                         "italic": true,
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "text": ")  ",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     }
                                 ]
                             },
@@ -263,7 +294,8 @@
                                     {
                                         "text": "",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "type": "link",
@@ -271,18 +303,21 @@
                                             {
                                                 "text": "Methods for ",
                                                 "fontSize": "16px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "16px"
                                             },
                                             {
                                                 "text": "Dictyostelium",
                                                 "italic": true,
                                                 "fontSize": "16px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "16px"
                                             },
                                             {
                                                 "text": " development ",
                                                 "fontSize": "16px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "16px"
                                             }
                                         ],
                                         "url": "/techniques/development"
@@ -290,18 +325,21 @@
                                     {
                                         "text": "(",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "text": "Fey et al. 2007",
                                         "italic": true,
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "text": ")  ",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     }
                                 ]
                             },
@@ -311,7 +349,8 @@
                                     {
                                         "text": "",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "type": "link",
@@ -320,12 +359,14 @@
                                                 "text": "Dictyostelium",
                                                 "italic": true,
                                                 "fontSize": "16px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "16px"
                                             },
                                             {
                                                 "text": " cell storage procedures",
                                                 "fontSize": "16px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "16px"
                                             }
                                         ],
                                         "url": "/research/techniques/dicty-storage"
@@ -333,18 +374,21 @@
                                     {
                                         "text": " (",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "text": "Fey et al. 2007",
                                         "italic": true,
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "text": ")  ",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     }
                                 ]
                             },
@@ -354,7 +398,8 @@
                                     {
                                         "text": "",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "type": "link",
@@ -362,18 +407,21 @@
                                             {
                                                 "text": "Plating ",
                                                 "fontSize": "16px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "16px"
                                             },
                                             {
                                                 "text": "Dictyostelium",
                                                 "italic": true,
                                                 "fontSize": "16px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "16px"
                                             },
                                             {
                                                 "text": " in soft agar",
                                                 "fontSize": "16px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "16px"
                                             }
                                         ],
                                         "url": "/research/techniques/soft-agar"
@@ -381,7 +429,8 @@
                                     {
                                         "text": " * ",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     }
                                 ]
                             },
@@ -391,7 +440,8 @@
                                     {
                                         "text": "",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "type": "link",
@@ -399,7 +449,8 @@
                                             {
                                                 "text": "Thawing cells from DMSO stocks",
                                                 "fontSize": "16px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "16px"
                                             }
                                         ],
                                         "url": "https://github.com/dictyBase/migration-data/files/5922084/Thawing.cells.from.DMSO.stocks.docx"
@@ -408,7 +459,8 @@
                                         "text": " (contributed by Dave Knecht)",
                                         "italic": true,
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     }
                                 ]
                             },
@@ -419,7 +471,8 @@
                                         "text": "",
                                         "bold": true,
                                         "fontSize": "22px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "22px"
                                     }
                                 ]
                             },
@@ -430,7 +483,8 @@
                                         "text": "Sexual Genetics",
                                         "bold": true,
                                         "fontSize": "22px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "22px"
                                     }
                                 ]
                             },
@@ -441,7 +495,8 @@
                                         "text": "",
                                         "bold": true,
                                         "fontSize": "22px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "22px"
                                     },
                                     {
                                         "type": "link",
@@ -449,7 +504,8 @@
                                             {
                                                 "text": "Methods for parasexual genetics",
                                                 "fontSize": "16px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "16px"
                                             }
                                         ],
                                         "url": "/research/techniques/parasexual-genetics"
@@ -457,18 +513,21 @@
                                     {
                                         "text": " ",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "text": "(contributed by Jason King and Robert Insall)",
                                         "italic": true,
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "text": " ",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     }
                                 ]
                             },
@@ -478,7 +537,8 @@
                                     {
                                         "text": "",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "type": "link",
@@ -486,7 +546,8 @@
                                             {
                                                 "text": "Method for determining mating types",
                                                 "fontSize": "16px",
-                                                "fontColor": "inherit"
+                                                "fontColor": "inherit",
+                                                "fontFamily": "16px"
                                             }
                                         ],
                                         "url": "/research/techniques/mating-types"
@@ -494,18 +555,21 @@
                                     {
                                         "text": " ",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "text": "(contributed by Jakob Franke)",
                                         "italic": true,
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     },
                                     {
                                         "text": " ",
                                         "fontSize": "16px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "16px"
                                     }
                                 ]
                             }
@@ -518,7 +582,8 @@
                                 "text": "",
                                 "bold": true,
                                 "fontSize": "22px",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontFamily": "22px"
                             }
                         ]
                     },
@@ -529,7 +594,8 @@
                                 "text": "Molecular Biology",
                                 "bold": true,
                                 "fontSize": "22px",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontFamily": "22px"
                             }
                         ]
                     },
@@ -540,26 +606,33 @@
                                 "text": "",
                                 "bold": true,
                                 "fontSize": "22px",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontFamily": "22px"
                             },
                             {
                                 "type": "link",
                                 "children": [
                                     {
                                         "text": "Quick extraction of genomic DNA",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
                                     }
                                 ],
                                 "url": "/research/techniques/quick-genomic-dna-extraction"
                             },
                             {
                                 "text": " ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "(contributed by Steve Charette and Pierre Cosson) ",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -569,21 +642,27 @@
                             {
                                 "text": "",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "type": "link",
                                 "children": [
                                     {
                                         "text": "Isolation of genomic DNA",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
                                     }
                                 ],
                                 "url": "/research/techniques/genomic-dna-extraction"
                             },
                             {
                                 "text": " * ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -592,21 +671,27 @@
                         "children": [
                             {
                                 "text": "",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "type": "link",
                                 "children": [
                                     {
                                         "text": "Isolation of genomic DNA with CsCl",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
                                     }
                                 ],
                                 "url": "/research/techniques/genomic-dna-extraction-csci"
                             },
                             {
                                 "text": " * ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -615,30 +700,40 @@
                         "children": [
                             {
                                 "text": "",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "type": "link",
                                 "children": [
                                     {
                                         "text": "RT-PCR for Knockout Screening and Expression Analysis",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
                                     }
                                 ],
                                 "url": "/research/techniques/rt-pcr"
                             },
                             {
                                 "text": " ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "(contributed by Robin Williams)",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": " ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -649,7 +744,8 @@
                                 "text": "",
                                 "bold": true,
                                 "fontSize": "22px",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontFamily": "22px"
                             }
                         ]
                     },
@@ -660,7 +756,8 @@
                                 "text": "Transformation",
                                 "bold": true,
                                 "fontSize": "22px",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontFamily": "22px"
                             }
                         ]
                     },
@@ -671,30 +768,39 @@
                                 "text": "",
                                 "bold": true,
                                 "fontSize": "22px",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontFamily": "22px"
                             },
                             {
                                 "type": "link",
                                 "children": [
                                     {
                                         "text": "Transformation protocols",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
                                     }
                                 ],
                                 "url": "/research/techniques/transformation-protocols"
                             },
                             {
                                 "text": " (",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "Gaudet et al. 2007",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": ")  ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -703,21 +809,27 @@
                         "children": [
                             {
                                 "text": "",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "type": "link",
                                 "children": [
                                     {
                                         "text": "Calcium phosphate precipitation",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
                                     }
                                 ],
                                 "url": "/research/techniques/calcium-phosphate-precipitation"
                             },
                             {
                                 "text": " * ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -726,26 +838,34 @@
                         "children": [
                             {
                                 "text": "",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "type": "link",
                                 "children": [
                                     {
                                         "text": "Electroporation",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
                                     }
                                 ],
                                 "url": "/research/techniques/electroporation"
                             },
                             {
                                 "text": " ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "(contributed by Dave Knecht) ",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -755,26 +875,34 @@
                             {
                                 "text": "",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "type": "link",
                                 "children": [
                                     {
                                         "text": "Transformation of NC4 or ",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
                                     },
                                     {
                                         "text": "D. mucoroides",
                                         "italic": true,
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
                                     }
                                 ],
                                 "url": "/research/techniques/transformation-nc4"
                             },
                             {
                                 "text": " (contributed by Harry MacWilliams) ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -783,16 +911,22 @@
                         "children": [
                             {
                                 "text": "Microinjection ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "(contributed by Yoshio Fukui)",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "  ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -801,12 +935,16 @@
                         "children": [
                             {
                                 "text": "Transformation by particle gun ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "(contributed by Birgit Wetterauer and Hans-Ulrich Koop) ",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -815,7 +953,9 @@
                         "children": [
                             {
                                 "text": "Addition of heat-killed bacteria to transformants * ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -824,16 +964,22 @@
                         "children": [
                             {
                                 "text": "Transformant selection on bacterial lawns using the V18-Tn5-cassette ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "(contributed by Harry MacWilliams)",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": " ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -842,21 +988,27 @@
                         "children": [
                             {
                                 "text": "",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "type": "link",
                                 "children": [
                                     {
                                         "text": "DAPI Electroporation",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
                                     }
                                 ],
                                 "url": "/research/techniques/dapi-electroporation"
                             },
                             {
                                 "text": "",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -867,7 +1019,8 @@
                                 "text": "",
                                 "bold": true,
                                 "fontSize": "22px",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontFamily": "22px"
                             }
                         ]
                     },
@@ -878,7 +1031,8 @@
                                 "text": "Mutagenesis",
                                 "bold": true,
                                 "fontSize": "22px",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontFamily": "22px"
                             }
                         ]
                     },
@@ -889,21 +1043,26 @@
                                 "text": "",
                                 "bold": true,
                                 "fontSize": "22px",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontFamily": "22px"
                             },
                             {
                                 "type": "link",
                                 "children": [
                                     {
                                         "text": "Restriction-enzyme mediated insertional mutagenesis",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
                                     }
                                 ],
                                 "url": "/research/techniques/remi-mutagenesis"
                             },
                             {
                                 "text": " (REMI)",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -912,26 +1071,34 @@
                         "children": [
                             {
                                 "text": "",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "type": "link",
                                 "children": [
                                     {
                                         "text": "RNAi procedure",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
                                     }
                                 ],
                                 "url": "/research/techniques/rnai-procedure"
                             },
                             {
                                 "text": " ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "(contributed by Alan Kimmel)",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -940,16 +1107,22 @@
                         "children": [
                             {
                                 "text": "Making double mutants by diploid genetics ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "(contributed by Jason King and Robert Insall)",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": " ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -960,7 +1133,8 @@
                                 "text": "",
                                 "bold": true,
                                 "fontSize": "22px",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontFamily": "22px"
                             }
                         ]
                     },
@@ -971,7 +1145,8 @@
                                 "text": "Gene Expression",
                                 "bold": true,
                                 "fontSize": "22px",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontFamily": "22px"
                             }
                         ]
                     },
@@ -980,16 +1155,22 @@
                         "children": [
                             {
                                 "text": "Chromatin Immuno-precipitation ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "(contributed by Jeff Williams and Y. Yamada)",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": " ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -998,25 +1179,35 @@
                         "children": [
                             {
                                 "text": "Whole mount ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "in situ",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": " hybridization ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "(contributed by Ricardo Escalante and Bill Loomis)",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": " ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1025,16 +1216,22 @@
                         "children": [
                             {
                                 "text": "Agar overlay technique ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "(contributed by Yoshio Fukui)",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": " ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1043,7 +1240,9 @@
                         "children": [
                             {
                                 "text": "Indirect immunofluorescence * ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1054,7 +1253,8 @@
                                 "text": "",
                                 "bold": true,
                                 "fontSize": "22px",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontFamily": "22px"
                             }
                         ]
                     },
@@ -1065,7 +1265,8 @@
                                 "text": "Microscopy",
                                 "bold": true,
                                 "fontSize": "22px",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontFamily": "22px"
                             }
                         ]
                     },
@@ -1074,16 +1275,22 @@
                         "children": [
                             {
                                 "text": "Fixation techniques for immunonfluorescence ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "(contributed by Richard Gomer)",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": " ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1092,16 +1299,22 @@
                         "children": [
                             {
                                 "text": "Visualizing weak fluorescence in multicellular stages ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "(contributed by Harry MacWilliams)",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": " ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1112,7 +1325,8 @@
                                 "text": "",
                                 "bold": true,
                                 "fontSize": "22px",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontFamily": "22px"
                             }
                         ]
                     },
@@ -1123,7 +1337,8 @@
                                 "text": "Biochemistry",
                                 "bold": true,
                                 "fontSize": "22px",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontFamily": "22px"
                             }
                         ]
                     },
@@ -1132,16 +1347,22 @@
                         "children": [
                             {
                                 "text": "S-methionine labelling of ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "Dictyostelium",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "*",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1150,16 +1371,22 @@
                         "children": [
                             {
                                 "text": "phosphate labelling of ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "Dictyostelium",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "* ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1170,7 +1397,8 @@
                                 "text": "",
                                 "bold": true,
                                 "fontSize": "22px",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontFamily": "22px"
                             }
                         ]
                     },
@@ -1181,7 +1409,8 @@
                                 "text": "Cytoskeleton",
                                 "bold": true,
                                 "fontSize": "22px",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontFamily": "22px"
                             }
                         ]
                     },
@@ -1190,16 +1419,22 @@
                         "children": [
                             {
                                 "text": " ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "Protein preparation",
                                 "bold": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": " ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1208,16 +1443,22 @@
                         "children": [
                             {
                                 "text": " Isolation of ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "Dictyostelium",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": " cytoskeleton *",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1226,25 +1467,35 @@
                         "children": [
                             {
                                 "text": " Isolation of ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "Dictyostelium",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": " centrosomes ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "(contributed by Ralph Gräf)",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": " ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1253,7 +1504,9 @@
                         "children": [
                             {
                                 "text": " Preparation of microtubule-associated motor proteins *",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1262,7 +1515,9 @@
                         "children": [
                             {
                                 "text": " Purification of muscle actin *",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1271,16 +1526,22 @@
                         "children": [
                             {
                                 "text": " One-day ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "Dictyostelium",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": " myosin preparation *",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1289,16 +1550,22 @@
                         "children": [
                             {
                                 "text": " Three-day ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "Dictyostelium",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": " myosin preparation * ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1308,16 +1575,22 @@
                             {
                                 "text": " Dictyostelium",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": " cell staining for tubulin ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "(contributed by Emma Dalton)",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1330,7 +1603,8 @@
                                     {
                                         "text": "  ",
                                         "fontSize": "12px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "12px"
                                     }
                                 ]
                             }
@@ -1343,7 +1617,9 @@
                             {
                                 "text": " Protein assays",
                                 "bold": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1352,7 +1628,9 @@
                         "children": [
                             {
                                 "text": " Microtubule gliding assay for microtubule-associated motors *",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1361,7 +1639,9 @@
                         "children": [
                             {
                                 "text": " ATPase assay for dynein (radioactive) *",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1370,7 +1650,9 @@
                         "children": [
                             {
                                 "text": " CTPase assay for dynein (colorimetric) *",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1379,16 +1661,22 @@
                         "children": [
                             {
                                 "text": "  ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "in vitro",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": " motility assay *",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1397,16 +1685,22 @@
                         "children": [
                             {
                                 "text": " ATPase assay for ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "Dictyostelium",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": " myosin *",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1415,7 +1709,9 @@
                         "children": [
                             {
                                 "text": " Estimation of the number of active myosin heads in isolated myosin *",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1424,7 +1720,9 @@
                         "children": [
                             {
                                 "text": " Myosin-F-actin binding by pelleting assay *",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1436,7 +1734,9 @@
                                 "children": [
                                     {
                                         "text": "   ",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
                                     }
                                 ]
                             }
@@ -1449,7 +1749,9 @@
                             {
                                 "text": " Protein detection",
                                 "bold": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1459,16 +1761,22 @@
                             {
                                 "text": " Dictyostelium",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": " anti-γ-tubulin Westerns ",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             },
                             {
                                 "text": "(contributed by Emma Dalton)",
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1478,7 +1786,8 @@
                             {
                                 "text": "",
                                 "fontSize": "22px",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontFamily": "22px"
                             }
                         ]
                     },
@@ -1488,7 +1797,8 @@
                             {
                                 "text": "",
                                 "fontSize": "22px",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontFamily": "22px"
                             },
                             {
                                 "type": "link",
@@ -1496,7 +1806,8 @@
                                     {
                                         "text": "Teaching Tools",
                                         "fontSize": "22px",
-                                        "fontColor": "inherit"
+                                        "fontColor": "inherit",
+                                        "fontFamily": "22px"
                                     }
                                 ],
                                 "url": "/explore/teach"
@@ -1504,7 +1815,8 @@
                             {
                                 "text": "",
                                 "fontSize": "22px",
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontFamily": "22px"
                             }
                         ]
                     },
@@ -1515,7 +1827,9 @@
                                 "text": "",
                                 "bold": true,
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     },
@@ -1526,7 +1840,9 @@
                                 "text": "* This experimental protocol was taken from the Rex Chisholm Lab's Dictyostelium Techniques Manual. Many of these protocols are the result of the contributions and collaborations of many different laboratories. ",
                                 "bold": true,
                                 "italic": true,
-                                "fontColor": "inherit"
+                                "fontColor": "inherit",
+                                "fontSize": "inherit",
+                                "fontFamily": "inherit"
                             }
                         ]
                     }
