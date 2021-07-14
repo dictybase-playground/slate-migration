@@ -18,7 +18,8 @@
         "children": [
             {
                 "text": "",
-                "bold": true
+                "bold": true,
+                "fontColor": "inherit"
             }
         ]
     },
@@ -27,7 +28,8 @@
         "children": [
             {
                 "text": "Dicty Stock Center Distribution Policy",
-                "bold": true
+                "bold": true,
+                "fontColor": "inherit"
             }
         ]
     },
@@ -39,21 +41,24 @@
             },
             {
                 "text": "DSC",
-                "bold": true
+                "bold": true,
+                "fontColor": "inherit"
             },
             {
                 "text": " fills any request from bona fide teaching or "
             },
             {
                 "text": "non-profit",
-                "bold": true
+                "bold": true,
+                "fontColor": "inherit"
             },
             {
                 "text": " research institutions. Users from "
             },
             {
                 "text": "for-profit",
-                "bold": true
+                "bold": true,
+                "fontColor": "inherit"
             },
             {
                 "text": " institutions need to send an "
@@ -75,7 +80,8 @@
                 "children": [
                     {
                         "text": "DSC charges",
-                        "bold": true
+                        "bold": true,
+                        "fontColor": "inherit"
                     }
                 ],
                 "url": "/stockcenter/information/payment"
@@ -134,7 +140,8 @@
         "children": [
             {
                 "text": "Timeline",
-                "bold": true
+                "bold": true,
+                "fontColor": "inherit"
             }
         ]
     },
@@ -143,7 +150,8 @@
         "children": [
             {
                 "text": "Strains",
-                "fontFamily": "Roboto Condensed"
+                "fontFamily": "Roboto Condensed",
+                "fontColor": "inherit"
             },
             {
                 "text": " are plated in the order they come in as DSC orders. Depending on the order volume orders are shipped witthin a week or two, when the order is regular and small. However, if you have a small order, please remark in the comment field that you need the order as soon as possible and small orders  are preferentially plated. "
@@ -171,7 +179,8 @@
         "children": [
             {
                 "text": "Plasmids",
-                "bold": true
+                "bold": true,
+                "fontColor": "inherit"
             }
         ]
     },
@@ -188,7 +197,8 @@
         "children": [
             {
                 "text": "Note:",
-                "bold": true
+                "bold": true,
+                "fontColor": "inherit"
             },
             {
                 "text": " When you receive the strain(s) they need to be stored in the lab following one of the "
@@ -210,7 +220,8 @@
                 "children": [
                     {
                         "text": "DSC FAQ",
-                        "bold": true
+                        "bold": true,
+                        "fontColor": "inherit"
                     }
                 ],
                 "url": "/stockcenter/information/faq"

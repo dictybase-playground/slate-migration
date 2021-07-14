@@ -25,7 +25,8 @@
                                             {
                                                 "text": "dicty Art",
                                                 "fontSize": "26px",
-                                                "bold": true
+                                                "bold": true,
+                                                "fontColor": "inherit"
                                             }
                                         ]
                                     }
@@ -45,7 +46,8 @@
                                         "children": [
                                             {
                                                 "text": "Art inspired by amoebas",
-                                                "italic": true
+                                                "italic": true,
+                                                "fontColor": "inherit"
                                             }
                                         ]
                                     }
@@ -81,17 +83,20 @@
                                         "children": [
                                             {
                                                 "text": " ",
-                                                "fontSize": "20px"
+                                                "fontSize": "20px",
+                                                "fontColor": "inherit"
                                             },
                                             {
                                                 "text": "Homo amoeba",
                                                 "italic": true,
                                                 "bold": true,
-                                                "fontSize": "20px"
+                                                "fontSize": "20px",
+                                                "fontColor": "inherit"
                                             },
                                             {
                                                 "text": " ",
-                                                "fontSize": "20px"
+                                                "fontSize": "20px",
+                                                "fontColor": "inherit"
                                             }
                                         ]
                                     },
@@ -100,7 +105,8 @@
                                         "children": [
                                             {
                                                 "text": "by Artúr van Balen",
-                                                "italic": true
+                                                "italic": true,
+                                                "fontColor": "inherit"
                                             }
                                         ]
                                     }
@@ -115,7 +121,8 @@
                                         "children": [
                                             {
                                                 "text": "",
-                                                "italic": true
+                                                "italic": true,
+                                                "fontColor": "inherit"
                                             }
                                         ]
                                     },
@@ -176,7 +183,8 @@
                                                                     },
                                                                     {
                                                                         "text": "Homo amoeba",
-                                                                        "bold": true
+                                                                        "bold": true,
+                                                                        "fontColor": "inherit"
                                                                     },
                                                                     {
                                                                         "text": " investigates the ideal of flexibility. One is\n flexible when one can adapt to all situations. For humans, this is more\n an ideal than reality. For amoebas, being elastic and flexible is no \nexception. Dictyostelium serves here as a representation of the ideal. A\n man attempts to imitate the movement."
@@ -205,7 +213,8 @@
                                                                                     },
                                                                                     {
                                                                                         "text": "Artúr van Balen, 2008",
-                                                                                        "italic": true
+                                                                                        "italic": true,
+                                                                                        "fontColor": "inherit"
                                                                                     }
                                                                                 ]
                                                                             },
@@ -214,7 +223,8 @@
                                                                                 "children": [
                                                                                     {
                                                                                         "text": "",
-                                                                                        "italic": true
+                                                                                        "italic": true,
+                                                                                        "fontColor": "inherit"
                                                                                     }
                                                                                 ]
                                                                             },
@@ -223,7 +233,8 @@
                                                                                 "children": [
                                                                                     {
                                                                                         "text": "",
-                                                                                        "italic": true
+                                                                                        "italic": true,
+                                                                                        "fontColor": "inherit"
                                                                                     }
                                                                                 ]
                                                                             },
@@ -232,7 +243,8 @@
                                                                                 "children": [
                                                                                     {
                                                                                         "text": "",
-                                                                                        "italic": true
+                                                                                        "italic": true,
+                                                                                        "fontColor": "inherit"
                                                                                     }
                                                                                 ]
                                                                             },
@@ -249,7 +261,8 @@
                                                                                 "children": [
                                                                                     {
                                                                                         "text": "",
-                                                                                        "italic": true
+                                                                                        "italic": true,
+                                                                                        "fontColor": "inherit"
                                                                                     }
                                                                                 ]
                                                                             }
@@ -308,16 +321,19 @@
                                         "children": [
                                             {
                                                 "text": " ",
-                                                "fontSize": "20px"
+                                                "fontSize": "20px",
+                                                "fontColor": "inherit"
                                             },
                                             {
                                                 "text": "Poem",
                                                 "bold": true,
-                                                "fontSize": "20px"
+                                                "fontSize": "20px",
+                                                "fontColor": "inherit"
                                             },
                                             {
                                                 "text": " ",
-                                                "fontSize": "20px"
+                                                "fontSize": "20px",
+                                                "fontColor": "inherit"
                                             }
                                         ]
                                     },
@@ -359,7 +375,8 @@
                                             },
                                             {
                                                 "text": "The Leaders ",
-                                                "bold": true
+                                                "bold": true,
+                                                "fontColor": "inherit"
                                             }
                                         ]
                                     },
@@ -385,7 +402,8 @@
                                             },
                                             {
                                                 "text": "From the beginning of the journey,\n it is we who lead the way,\n we call the tune\n we beat the drum\n we send our chemical messages\n and you.... you must obey.\n \n But at the journey's end,\n at the culmination of it all,\n we are the stalk and the stem\n who raise you up to the sky\n so that you might live\n while we.... we must die.",
-                                                "italic": true
+                                                "italic": true,
+                                                "fontColor": "inherit"
                                             },
                                             {
                                                 "text": " "
@@ -434,7 +452,8 @@
                                             {
                                                 "text": "Dicty Artwork by Paul H. Dear, 2005",
                                                 "fontSize": "20px",
-                                                "bold": true
+                                                "bold": true,
+                                                "fontColor": "inherit"
                                             }
                                         ]
                                     }
@@ -449,16 +468,19 @@
                                         "children": [
                                             {
                                                 "text": "Graphics generated when the Nature cover was created for the publication of the ",
-                                                "fontSize": "14px"
+                                                "fontSize": "14px",
+                                                "fontColor": "inherit"
                                             },
                                             {
                                                 "text": "Dictyostelium ",
                                                 "italic": true,
-                                                "fontSize": "14px"
+                                                "fontSize": "14px",
+                                                "fontColor": "inherit"
                                             },
                                             {
                                                 "text": "Genome (Nature, 5th May 2005).",
-                                                "fontSize": "14px"
+                                                "fontSize": "14px",
+                                                "fontColor": "inherit"
                                             }
                                         ]
                                     }
@@ -589,12 +611,14 @@
                                 "children": [
                                     {
                                         "text": "     ",
-                                        "fontSize": "14px"
+                                        "fontSize": "14px",
+                                        "fontColor": "inherit"
                                     },
                                     {
                                         "text": "Download High Resolution Images",
                                         "fontSize": "14px",
-                                        "underline": true
+                                        "underline": true,
+                                        "fontColor": "inherit"
                                     }
                                 ],
                                 "align": "center"
@@ -610,77 +634,88 @@
                                             },
                                             {
                                                 "text": " ",
-                                                "bold": true
+                                                "bold": true,
+                                                "fontColor": "inherit"
                                             },
                                             {
                                                 "type": "link",
                                                 "children": [
                                                     {
                                                         "text": "Crowd",
-                                                        "bold": true
+                                                        "bold": true,
+                                                        "fontColor": "inherit"
                                                     }
                                                 ],
                                                 "url": "https://github.com/dictyBase/migration-data/files/5811583/crowd.pdf"
                                             },
                                             {
                                                 "text": "                                    ",
-                                                "bold": true
+                                                "bold": true,
+                                                "fontColor": "inherit"
                                             },
                                             {
                                                 "type": "link",
                                                 "children": [
                                                     {
                                                         "text": "Crowd Helix",
-                                                        "bold": true
+                                                        "bold": true,
+                                                        "fontColor": "inherit"
                                                     }
                                                 ],
                                                 "url": "https://github.com/dictyBase/migration-data/files/5811582/crowd-helix.pdf"
                                             },
                                             {
                                                 "text": "                              ",
-                                                "bold": true
+                                                "bold": true,
+                                                "fontColor": "inherit"
                                             },
                                             {
                                                 "type": "link",
                                                 "children": [
                                                     {
                                                         "text": "Metal Crowd",
-                                                        "bold": true
+                                                        "bold": true,
+                                                        "fontColor": "inherit"
                                                     }
                                                 ],
                                                 "url": "https://github.com/dictyBase/migration-data/files/5811586/metal-crowd.pdf"
                                             },
                                             {
                                                 "text": "                            ",
-                                                "bold": true
+                                                "bold": true,
+                                                "fontColor": "inherit"
                                             },
                                             {
                                                 "type": "link",
                                                 "children": [
                                                     {
                                                         "text": "Metal Helix",
-                                                        "bold": true
+                                                        "bold": true,
+                                                        "fontColor": "inherit"
                                                     }
                                                 ],
                                                 "url": "https://github.com/dictyBase/migration-data/files/5811587/metal-helix.pdf"
                                             },
                                             {
                                                 "text": "                                 ",
-                                                "bold": true
+                                                "bold": true,
+                                                "fontColor": "inherit"
                                             },
                                             {
                                                 "type": "link",
                                                 "children": [
                                                     {
                                                         "text": "Forest",
-                                                        "bold": true
+                                                        "bold": true,
+                                                        "fontColor": "inherit"
                                                     }
                                                 ],
                                                 "url": "https://github.com/dictyBase/migration-data/files/5811584/forest.pdf"
                                             },
                                             {
                                                 "text": "",
-                                                "bold": true
+                                                "bold": true,
+                                                "fontColor": "inherit"
                                             }
                                         ]
                                     },
@@ -731,7 +766,8 @@
                                                             {
                                                                 "text": " National Geographic ",
                                                                 "bold": true,
-                                                                "fontSize": "20px"
+                                                                "fontSize": "20px",
+                                                                "fontColor": "inherit"
                                                             }
                                                         ]
                                                     },
@@ -740,7 +776,8 @@
                                                         "children": [
                                                             {
                                                                 "text": "Best Microscopic Images Competion ",
-                                                                "italic": true
+                                                                "italic": true,
+                                                                "fontColor": "inherit"
                                                             }
                                                         ]
                                                     }
@@ -783,7 +820,8 @@
                                         "children": [
                                             {
                                                 "text": "4th place (2008)",
-                                                "bold": true
+                                                "bold": true,
+                                                "fontColor": "inherit"
                                             }
                                         ]
                                     },
@@ -792,7 +830,8 @@
                                         "children": [
                                             {
                                                 "text": "",
-                                                "bold": true
+                                                "bold": true,
+                                                "fontColor": "inherit"
                                             }
                                         ]
                                     },
@@ -846,7 +885,8 @@
                                             {
                                                 "text": "Altruistic Amoeba",
                                                 "fontSize": "20px",
-                                                "bold": true
+                                                "bold": true,
+                                                "fontColor": "inherit"
                                             }
                                         ]
                                     },
@@ -931,7 +971,8 @@
                                                                                             },
                                                                                             {
                                                                                                 "text": "We're Not So Different",
-                                                                                                "bold": true
+                                                                                                "bold": true,
+                                                                                                "fontColor": "inherit"
                                                                                             },
                                                                                             {
                                                                                                 "text": "- \"Altruistic Amoeba\"\n"
@@ -943,7 +984,8 @@
                                                                                         "children": [
                                                                                             {
                                                                                                 "text": "Kurtis Ross, 2014",
-                                                                                                "italic": true
+                                                                                                "italic": true,
+                                                                                                "fontColor": "inherit"
                                                                                             }
                                                                                         ]
                                                                                     }

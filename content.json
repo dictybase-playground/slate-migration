@@ -23,7 +23,8 @@
             },
             {
                 "text": "periodically",
-                "italic": true
+                "italic": true,
+                "fontColor": "inherit"
             },
             {
                 "text": " remind investigators to send new mutants, natural isolates, and plasmids, once they have been published. We do regular quality checks, however, a large component of the quality control program consists of feedback from the recipients of materials. DSC orders are placed through a shopping cart system and are filled in the order they are received."
