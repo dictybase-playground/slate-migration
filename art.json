@@ -9,7 +9,9 @@
                         "type": "paragraph",
                         "children": [
                             {
-                                "text": ""
+                                "text": "",
+                                "fontColor": "inherit",
+                                "fontSize": "inherit"
                             }
                         ]
                     },
@@ -60,7 +62,9 @@
                         "type": "divider",
                         "children": [
                             {
-                                "text": ""
+                                "text": "",
+                                "fontColor": "inherit",
+                                "fontSize": "inherit"
                             }
                         ]
                     },
@@ -68,7 +72,9 @@
                         "type": "paragraph",
                         "children": [
                             {
-                                "text": "      "
+                                "text": "      ",
+                                "fontColor": "inherit",
+                                "fontSize": "inherit"
                             }
                         ]
                     },
@@ -139,7 +145,9 @@
                                                                 "type": "paragraph",
                                                                 "children": [
                                                                     {
-                                                                        "text": ""
+                                                                        "text": "",
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit"
                                                                     }
                                                                 ]
                                                             },
@@ -147,7 +155,9 @@
                                                                 "type": "video",
                                                                 "children": [
                                                                     {
-                                                                        "text": ""
+                                                                        "text": "",
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit"
                                                                     }
                                                                 ],
                                                                 "url": "https://www.youtube.com/embed/7jd0QEe_WHE",
@@ -158,7 +168,9 @@
                                                                 "type": "\n",
                                                                 "children": [
                                                                     {
-                                                                        "text": ""
+                                                                        "text": "",
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit"
                                                                     }
                                                                 ]
                                                             }
@@ -171,7 +183,9 @@
                                                                 "type": "paragraph",
                                                                 "children": [
                                                                     {
-                                                                        "text": ""
+                                                                        "text": "",
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit"
                                                                     }
                                                                 ]
                                                             },
@@ -179,7 +193,9 @@
                                                                 "type": "paragraph",
                                                                 "children": [
                                                                     {
-                                                                        "text": "Project "
+                                                                        "text": "Project ",
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit"
                                                                     },
                                                                     {
                                                                         "text": "Homo amoeba",
@@ -187,7 +203,9 @@
                                                                         "fontColor": "inherit"
                                                                     },
                                                                     {
-                                                                        "text": " investigates the ideal of flexibility. One is\n flexible when one can adapt to all situations. For humans, this is more\n an ideal than reality. For amoebas, being elastic and flexible is no \nexception. Dictyostelium serves here as a representation of the ideal. A\n man attempts to imitate the movement."
+                                                                        "text": " investigates the ideal of flexibility. One is\n flexible when one can adapt to all situations. For humans, this is more\n an ideal than reality. For amoebas, being elastic and flexible is no \nexception. Dictyostelium serves here as a representation of the ideal. A\n man attempts to imitate the movement.",
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit"
                                                                     }
                                                                 ]
                                                             },
@@ -195,7 +213,9 @@
                                                                 "type": "paragraph",
                                                                 "children": [
                                                                     {
-                                                                        "text": ""
+                                                                        "text": "",
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit"
                                                                     }
                                                                 ]
                                                             },
@@ -209,7 +229,9 @@
                                                                                 "type": "paragraph",
                                                                                 "children": [
                                                                                     {
-                                                                                        "text": " "
+                                                                                        "text": " ",
+                                                                                        "fontColor": "inherit",
+                                                                                        "fontSize": "inherit"
                                                                                     },
                                                                                     {
                                                                                         "text": "Artúr van Balen, 2008",
@@ -252,7 +274,9 @@
                                                                                 "type": "paragraph",
                                                                                 "children": [
                                                                                     {
-                                                                                        "text": "This video has first been presented at the Dicty 2007 meeting in Rotenburg, Germany, which  Artúr visited."
+                                                                                        "text": "This video has first been presented at the Dicty 2007 meeting in Rotenburg, Germany, which  Artúr visited.",
+                                                                                        "fontColor": "inherit",
+                                                                                        "fontSize": "inherit"
                                                                                     }
                                                                                 ]
                                                                             },
@@ -296,7 +320,9 @@
                                                         "type": "paragraph",
                                                         "children": [
                                                             {
-                                                                "text": ". "
+                                                                "text": ". ",
+                                                                "fontColor": "inherit",
+                                                                "fontSize": "inherit"
                                                             }
                                                         ]
                                                     }
@@ -341,7 +367,9 @@
                                         "type": "h4",
                                         "children": [
                                             {
-                                                "text": "by Paul R. Fisher "
+                                                "text": "by Paul R. Fisher ",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit"
                                             }
                                         ]
                                     },
@@ -349,7 +377,9 @@
                                         "type": "h6",
                                         "children": [
                                             {
-                                                "text": "ca. 2000"
+                                                "text": "ca. 2000",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit"
                                             }
                                         ]
                                     },
@@ -360,7 +390,9 @@
                                                 "type": "paragraph",
                                                 "children": [
                                                     {
-                                                        "text": "       "
+                                                        "text": "       ",
+                                                        "fontColor": "inherit",
+                                                        "fontSize": "inherit"
                                                     }
                                                 ]
                                             }
@@ -371,7 +403,9 @@
                                         "type": "h3",
                                         "children": [
                                             {
-                                                "text": " "
+                                                "text": " ",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit"
                                             },
                                             {
                                                 "text": "The Leaders ",
@@ -387,7 +421,9 @@
                                                 "type": "h3",
                                                 "children": [
                                                     {
-                                                        "text": " "
+                                                        "text": " ",
+                                                        "fontColor": "inherit",
+                                                        "fontSize": "inherit"
                                                     }
                                                 ]
                                             }
@@ -398,7 +434,9 @@
                                         "type": "h4",
                                         "children": [
                                             {
-                                                "text": " "
+                                                "text": " ",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit"
                                             },
                                             {
                                                 "text": "From the beginning of the journey,\n it is we who lead the way,\n we call the tune\n we beat the drum\n we send our chemical messages\n and you.... you must obey.\n \n But at the journey's end,\n at the culmination of it all,\n we are the stalk and the stem\n who raise you up to the sky\n so that you might live\n while we.... we must die.",
@@ -406,7 +444,9 @@
                                                 "fontColor": "inherit"
                                             },
                                             {
-                                                "text": " "
+                                                "text": " ",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit"
                                             }
                                         ]
                                     },
@@ -414,7 +454,9 @@
                                         "type": "h4",
                                         "children": [
                                             {
-                                                "text": ""
+                                                "text": "",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit"
                                             }
                                         ]
                                     },
@@ -422,7 +464,9 @@
                                         "type": "divider",
                                         "children": [
                                             {
-                                                "text": ""
+                                                "text": "",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit"
                                             }
                                         ]
                                     }
@@ -436,7 +480,9 @@
                                         "type": "h4",
                                         "children": [
                                             {
-                                                "text": ""
+                                                "text": "",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit"
                                             }
                                         ]
                                     }
@@ -503,7 +549,9 @@
                                                                 "type": "image",
                                                                 "children": [
                                                                     {
-                                                                        "text": ""
+                                                                        "text": "",
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit"
                                                                     }
                                                                 ],
                                                                 "url": "https://user-images.githubusercontent.com/1349602/104525522-f9a21780-55c5-11eb-966a-b502f575e155.jpg",
@@ -526,7 +574,9 @@
                                                                 "type": "image",
                                                                 "children": [
                                                                     {
-                                                                        "text": ""
+                                                                        "text": "",
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit"
                                                                     }
                                                                 ],
                                                                 "url": "https://user-images.githubusercontent.com/1349602/104525578-10486e80-55c6-11eb-8177-38d32fbea9cc.jpg",
@@ -549,7 +599,9 @@
                                                                 "type": "image",
                                                                 "children": [
                                                                     {
-                                                                        "text": ""
+                                                                        "text": "",
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit"
                                                                     }
                                                                 ],
                                                                 "url": "https://user-images.githubusercontent.com/1349602/104525539-0161bc00-55c6-11eb-98aa-8a0a749252ac.jpg"
@@ -569,7 +621,9 @@
                                                                 "type": "image",
                                                                 "children": [
                                                                     {
-                                                                        "text": ""
+                                                                        "text": "",
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit"
                                                                     }
                                                                 ],
                                                                 "url": "https://user-images.githubusercontent.com/1349602/104525544-06267000-55c6-11eb-8f77-75a78d0df783.jpg",
@@ -592,7 +646,9 @@
                                                                 "type": "image",
                                                                 "children": [
                                                                     {
-                                                                        "text": ""
+                                                                        "text": "",
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit"
                                                                     }
                                                                 ],
                                                                 "url": "https://user-images.githubusercontent.com/1349602/104525618-1fc7b780-55c6-11eb-8cbf-592f652e392c.jpg"
@@ -630,7 +686,9 @@
                                         "type": "paragraph",
                                         "children": [
                                             {
-                                                "text": "                   "
+                                                "text": "                   ",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit"
                                             },
                                             {
                                                 "text": " ",
@@ -723,7 +781,9 @@
                                         "type": "paragraph",
                                         "children": [
                                             {
-                                                "text": "Permission is hereby granted by the copyright holder to use these images for any non-commercial use, including inclusion in web pages, presentations, and reports. The images should have a minimal attribution of \"Copyright, Paul H. Dear, MRC Laboratory of Molecular Biology, Cambridge, UK\""
+                                                "text": "Permission is hereby granted by the copyright holder to use these images for any non-commercial use, including inclusion in web pages, presentations, and reports. The images should have a minimal attribution of \"Copyright, Paul H. Dear, MRC Laboratory of Molecular Biology, Cambridge, UK\"",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit"
                                             }
                                         ]
                                     }
@@ -736,7 +796,9 @@
                         "type": "divider",
                         "children": [
                             {
-                                "text": ""
+                                "text": "",
+                                "fontColor": "inherit",
+                                "fontSize": "inherit"
                             }
                         ]
                     },
@@ -744,7 +806,9 @@
                         "type": "paragraph",
                         "children": [
                             {
-                                "text": "     "
+                                "text": "     ",
+                                "fontColor": "inherit",
+                                "fontSize": "inherit"
                             }
                         ]
                     },
@@ -790,7 +854,9 @@
                                         "type": "h1",
                                         "children": [
                                             {
-                                                "text": "Matthew Springer"
+                                                "text": "Matthew Springer",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit"
                                             }
                                         ]
                                     }
@@ -803,7 +869,9 @@
                                         "type": "h6",
                                         "children": [
                                             {
-                                                "text": "Stanford University "
+                                                "text": "Stanford University ",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit"
                                             }
                                         ]
                                     },
@@ -811,7 +879,9 @@
                                         "type": "paragraph",
                                         "children": [
                                             {
-                                                "text": " "
+                                                "text": " ",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit"
                                             }
                                         ]
                                     },
@@ -839,7 +909,9 @@
                                         "type": "image",
                                         "children": [
                                             {
-                                                "text": ""
+                                                "text": "",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit"
                                             }
                                         ],
                                         "url": "https://user-images.githubusercontent.com/13489381/58503903-25e9f580-814f-11e9-80fb-6988e2301c96.jpg"
@@ -848,7 +920,9 @@
                                         "type": "h4",
                                         "children": [
                                             {
-                                                "text": "    "
+                                                "text": "    ",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit"
                                             }
                                         ]
                                     }
@@ -861,7 +935,9 @@
                         "type": "divider",
                         "children": [
                             {
-                                "text": ""
+                                "text": "",
+                                "fontColor": "inherit",
+                                "fontSize": "inherit"
                             }
                         ]
                     },
@@ -869,7 +945,9 @@
                         "type": "hr",
                         "children": [
                             {
-                                "text": ""
+                                "text": "",
+                                "fontColor": "inherit",
+                                "fontSize": "inherit"
                             }
                         ]
                     },
@@ -894,7 +972,9 @@
                                         "type": "lineSpacing",
                                         "children": [
                                             {
-                                                "text": ""
+                                                "text": "",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit"
                                             }
                                         ],
                                         "lineSpacing": "1.1"
@@ -918,7 +998,9 @@
                                                                 "type": "paragraph",
                                                                 "children": [
                                                                     {
-                                                                        "text": ""
+                                                                        "text": "",
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit"
                                                                     }
                                                                 ]
                                                             },
@@ -926,7 +1008,9 @@
                                                                 "type": "video",
                                                                 "children": [
                                                                     {
-                                                                        "text": ""
+                                                                        "text": "",
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit"
                                                                     }
                                                                 ],
                                                                 "url": "https://www.youtube.com/embed/zMWSjF_lKGQ",
@@ -937,7 +1021,9 @@
                                                                 "type": "\n",
                                                                 "children": [
                                                                     {
-                                                                        "text": ""
+                                                                        "text": "",
+                                                                        "fontColor": "inherit",
+                                                                        "fontSize": "inherit"
                                                                     }
                                                                 ]
                                                             }
@@ -959,7 +1045,9 @@
                                                                                         "type": "paragraph",
                                                                                         "children": [
                                                                                             {
-                                                                                                "text": ""
+                                                                                                "text": "",
+                                                                                                "fontColor": "inherit",
+                                                                                                "fontSize": "inherit"
                                                                                             }
                                                                                         ]
                                                                                     },
@@ -967,7 +1055,9 @@
                                                                                         "type": "paragraph",
                                                                                         "children": [
                                                                                             {
-                                                                                                "text": "Project "
+                                                                                                "text": "Project ",
+                                                                                                "fontColor": "inherit",
+                                                                                                "fontSize": "inherit"
                                                                                             },
                                                                                             {
                                                                                                 "text": "We're Not So Different",
@@ -975,7 +1065,9 @@
                                                                                                 "fontColor": "inherit"
                                                                                             },
                                                                                             {
-                                                                                                "text": "- \"Altruistic Amoeba\"\n"
+                                                                                                "text": "- \"Altruistic Amoeba\"\n",
+                                                                                                "fontColor": "inherit",
+                                                                                                "fontSize": "inherit"
                                                                                             }
                                                                                         ]
                                                                                     },
@@ -1007,7 +1099,9 @@
                                         "type": "paragraph",
                                         "children": [
                                             {
-                                                "text": ""
+                                                "text": "",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit"
                                             }
                                         ]
                                     }
@@ -1021,7 +1115,9 @@
                                         "type": "paragraph",
                                         "children": [
                                             {
-                                                "text": ""
+                                                "text": "",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit"
                                             }
                                         ]
                                     }
@@ -1035,7 +1131,9 @@
                                         "type": "paragraph",
                                         "children": [
                                             {
-                                                "text": ""
+                                                "text": "",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit"
                                             }
                                         ]
                                     }
@@ -1049,7 +1147,9 @@
                                         "type": "paragraph",
                                         "children": [
                                             {
-                                                "text": ""
+                                                "text": "",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit"
                                             }
                                         ]
                                     },
@@ -1057,7 +1157,9 @@
                                         "type": "paragraph",
                                         "children": [
                                             {
-                                                "text": ""
+                                                "text": "",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit"
                                             }
                                         ]
                                     }
