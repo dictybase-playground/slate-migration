@@ -1,4 +1,4 @@
-import { oldContent, order, art, techniques } from "./data.js";
+import { oldContent, order, art, techniques, history } from "./data.js";
 import fs from "fs";
 
 // the two font arrays are taken from the old page editor and used to convert old data
@@ -216,7 +216,7 @@ const convertDataByType = (node) => {
   // previously, changing the alignment would add a new <div> around the selection
   if (alignmentTypes.includes(type)) {
     if (type !== "alignment") {
-      return [...convertChildren(node), emptyObj ? [] : dataObj].flat(2);
+      return [...convertChildren(node), emptyObj ? [] : dataObj].flat(10);
     }
     const element = {
       type: "div",
@@ -304,6 +304,21 @@ const convertNode = (node) => {
   };
 };
 
+//  need to look at history.json and convert any number index objects
+
+const flattenArr = (arr) => {
+  let newarr = [];
+  arr.forEach((item) => {
+    if (!item.children && !item.text) {
+      const values = Object.values(item);
+      newarr.push(values);
+    } else {
+      newarr.push(item);
+    }
+  });
+  return newarr;
+};
+
 const convertSlate047 = (object, filename) => {
   const { nodes } = object.document;
   let newNodes = [];
@@ -313,7 +328,8 @@ const convertSlate047 = (object, filename) => {
   } else {
     newNodes = convertedNodes;
   }
-  fs.writeFileSync(filename, JSON.stringify(newNodes.flat()));
+  newNodes = flattenArr(newNodes);
+  fs.writeFileSync(filename, JSON.stringify(newNodes.flat(10)));
   return newNodes.flat();
 };
 
@@ -321,3 +337,4 @@ convertSlate047(oldContent, "content.json");
 convertSlate047(order, "order.json");
 convertSlate047(art, "art.json");
 convertSlate047(techniques, "techniques.json");
+convertSlate047(history, "history.json");
