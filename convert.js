@@ -315,8 +315,9 @@ const convertSlate047 = (object, filename) => {
   const convertedNodes = nodes.map(convertNode);
   if (Array.isArray(convertedNodes[0])) {
     newNodes = removeEmptyObjects(convertedNodes[0]);
+  } else {
+    newNodes = removeEmptyObjects(convertedNodes);
   }
-  newNodes = removeEmptyObjects(convertedNodes);
   fs.writeFileSync(filename, JSON.stringify(newNodes.flat()));
   return newNodes.flat();
 };

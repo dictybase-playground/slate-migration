@@ -22,7 +22,6 @@
             }
         ]
     },
-    {},
     {
         "type": "h4",
         "children": [
@@ -35,7 +34,6 @@
             }
         ]
     },
-    {},
     {
         "type": "divider",
         "children": [
@@ -309,8 +307,6 @@
             }
         ]
     },
-    {},
-    {},
     {
         "type": "h2",
         "children": [
@@ -748,7 +744,6 @@
             }
         ]
     },
-    {},
     {
         "type": "divider",
         "children": [
@@ -795,7 +790,6 @@
             }
         ]
     },
-    {},
     {
         "type": "h1",
         "children": [
@@ -807,7 +801,6 @@
             }
         ]
     },
-    {},
     {
         "type": "h6",
         "children": [
@@ -877,7 +870,6 @@
             }
         ]
     },
-    {},
     {
         "type": "divider",
         "children": [
@@ -1082,7 +1074,5 @@
                 "fontFamily": "inherit"
             }
         ]
-    },
-    {},
-    {}
+    }
 ]
