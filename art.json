@@ -1,1298 +1,1088 @@
 [
     {
-        "type": "div",
+        "type": "paragraph",
         "children": [
             {
-                "type": "div",
+                "text": "",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "h1",
+        "children": [
+            {
+                "text": "dicty Art",
+                "fontSize": "26px",
+                "bold": true,
+                "fontColor": "inherit",
+                "fontFamily": "26px"
+            }
+        ]
+    },
+    {},
+    {
+        "type": "h4",
+        "children": [
+            {
+                "text": "Art inspired by amoebas",
+                "italic": true,
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {},
+    {
+        "type": "divider",
+        "children": [
+            {
+                "text": "",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "      ",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "h2",
+        "children": [
+            {
+                "text": " ",
+                "fontSize": "20px",
+                "fontColor": "inherit",
+                "fontFamily": "20px"
+            },
+            {
+                "text": "Homo amoeba",
+                "italic": true,
+                "bold": true,
+                "fontSize": "20px",
+                "fontColor": "inherit",
+                "fontFamily": "20px"
+            },
+            {
+                "text": " ",
+                "fontSize": "20px",
+                "fontColor": "inherit",
+                "fontFamily": "20px"
+            }
+        ]
+    },
+    {
+        "type": "h4",
+        "children": [
+            {
+                "text": "by Artúr van Balen",
+                "italic": true,
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "h4",
+        "children": [
+            {
+                "text": "",
+                "italic": true,
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "tableWrap",
+        "children": [
+            {
+                "type": "tableRow",
                 "children": [
                     {
-                        "type": "paragraph",
+                        "type": "tableCell",
                         "children": [
                             {
-                                "text": "",
-                                "fontColor": "inherit",
-                                "fontSize": "inherit",
-                                "fontFamily": "inherit"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "div",
-                        "children": [
-                            {
-                                "type": "div",
+                                "type": "paragraph",
                                 "children": [
                                     {
-                                        "type": "h1",
-                                        "children": [
-                                            {
-                                                "text": "dicty Art",
-                                                "fontSize": "26px",
-                                                "bold": true,
-                                                "fontColor": "inherit",
-                                                "fontFamily": "26px"
-                                            }
-                                        ]
-                                    }
-                                ],
-                                "align": "center"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "div",
-                        "children": [
-                            {
-                                "type": "div",
-                                "children": [
-                                    {
-                                        "type": "h4",
-                                        "children": [
-                                            {
-                                                "text": "Art inspired by amoebas",
-                                                "italic": true,
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
-                                    }
-                                ],
-                                "align": "center"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "divider",
-                        "children": [
-                            {
-                                "text": "",
-                                "fontColor": "inherit",
-                                "fontSize": "inherit",
-                                "fontFamily": "inherit"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "paragraph",
-                        "children": [
-                            {
-                                "text": "      ",
-                                "fontColor": "inherit",
-                                "fontSize": "inherit",
-                                "fontFamily": "inherit"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "div",
-                        "children": [
-                            {
-                                "type": "div",
-                                "children": [
-                                    {
-                                        "type": "h2",
-                                        "children": [
-                                            {
-                                                "text": " ",
-                                                "fontSize": "20px",
-                                                "fontColor": "inherit",
-                                                "fontFamily": "20px"
-                                            },
-                                            {
-                                                "text": "Homo amoeba",
-                                                "italic": true,
-                                                "bold": true,
-                                                "fontSize": "20px",
-                                                "fontColor": "inherit",
-                                                "fontFamily": "20px"
-                                            },
-                                            {
-                                                "text": " ",
-                                                "fontSize": "20px",
-                                                "fontColor": "inherit",
-                                                "fontFamily": "20px"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "type": "h4",
-                                        "children": [
-                                            {
-                                                "text": "by Artúr van Balen",
-                                                "italic": true,
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
-                                    }
-                                ],
-                                "align": "center"
-                            },
-                            {
-                                "type": "div",
-                                "children": [
-                                    {
-                                        "type": "h4",
-                                        "children": [
-                                            {
-                                                "text": "",
-                                                "italic": true,
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "type": "tableWrap",
-                                        "children": [
-                                            {
-                                                "type": "tableRow",
-                                                "children": [
-                                                    {
-                                                        "type": "tableCell",
-                                                        "children": [
-                                                            {
-                                                                "type": "paragraph",
-                                                                "children": [
-                                                                    {
-                                                                        "text": "",
-                                                                        "fontColor": "inherit",
-                                                                        "fontSize": "inherit",
-                                                                        "fontFamily": "inherit"
-                                                                    }
-                                                                ]
-                                                            },
-                                                            {
-                                                                "type": "video",
-                                                                "children": [
-                                                                    {
-                                                                        "text": "",
-                                                                        "fontColor": "inherit",
-                                                                        "fontSize": "inherit",
-                                                                        "fontFamily": "inherit"
-                                                                    }
-                                                                ],
-                                                                "url": "https://www.youtube.com/embed/7jd0QEe_WHE",
-                                                                "height": "300",
-                                                                "width": "600"
-                                                            },
-                                                            {
-                                                                "type": "\n",
-                                                                "children": [
-                                                                    {
-                                                                        "text": "",
-                                                                        "fontColor": "inherit",
-                                                                        "fontSize": "inherit",
-                                                                        "fontFamily": "inherit"
-                                                                    }
-                                                                ]
-                                                            }
-                                                        ]
-                                                    },
-                                                    {
-                                                        "type": "tableCell",
-                                                        "children": [
-                                                            {
-                                                                "type": "paragraph",
-                                                                "children": [
-                                                                    {
-                                                                        "text": "",
-                                                                        "fontColor": "inherit",
-                                                                        "fontSize": "inherit",
-                                                                        "fontFamily": "inherit"
-                                                                    }
-                                                                ]
-                                                            },
-                                                            {
-                                                                "type": "paragraph",
-                                                                "children": [
-                                                                    {
-                                                                        "text": "Project ",
-                                                                        "fontColor": "inherit",
-                                                                        "fontSize": "inherit",
-                                                                        "fontFamily": "inherit"
-                                                                    },
-                                                                    {
-                                                                        "text": "Homo amoeba",
-                                                                        "bold": true,
-                                                                        "fontColor": "inherit",
-                                                                        "fontSize": "inherit",
-                                                                        "fontFamily": "inherit"
-                                                                    },
-                                                                    {
-                                                                        "text": " investigates the ideal of flexibility. One is\n flexible when one can adapt to all situations. For humans, this is more\n an ideal than reality. For amoebas, being elastic and flexible is no \nexception. Dictyostelium serves here as a representation of the ideal. A\n man attempts to imitate the movement.",
-                                                                        "fontColor": "inherit",
-                                                                        "fontSize": "inherit",
-                                                                        "fontFamily": "inherit"
-                                                                    }
-                                                                ]
-                                                            },
-                                                            {
-                                                                "type": "paragraph",
-                                                                "children": [
-                                                                    {
-                                                                        "text": "",
-                                                                        "fontColor": "inherit",
-                                                                        "fontSize": "inherit",
-                                                                        "fontFamily": "inherit"
-                                                                    }
-                                                                ]
-                                                            },
-                                                            {
-                                                                "type": "div",
-                                                                "children": [
-                                                                    {
-                                                                        "type": "div",
-                                                                        "children": [
-                                                                            {
-                                                                                "type": "paragraph",
-                                                                                "children": [
-                                                                                    {
-                                                                                        "text": " ",
-                                                                                        "fontColor": "inherit",
-                                                                                        "fontSize": "inherit",
-                                                                                        "fontFamily": "inherit"
-                                                                                    },
-                                                                                    {
-                                                                                        "text": "Artúr van Balen, 2008",
-                                                                                        "italic": true,
-                                                                                        "fontColor": "inherit",
-                                                                                        "fontSize": "inherit",
-                                                                                        "fontFamily": "inherit"
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "type": "paragraph",
-                                                                                "children": [
-                                                                                    {
-                                                                                        "text": "",
-                                                                                        "italic": true,
-                                                                                        "fontColor": "inherit",
-                                                                                        "fontSize": "inherit",
-                                                                                        "fontFamily": "inherit"
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "type": "paragraph",
-                                                                                "children": [
-                                                                                    {
-                                                                                        "text": "",
-                                                                                        "italic": true,
-                                                                                        "fontColor": "inherit",
-                                                                                        "fontSize": "inherit",
-                                                                                        "fontFamily": "inherit"
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "type": "paragraph",
-                                                                                "children": [
-                                                                                    {
-                                                                                        "text": "",
-                                                                                        "italic": true,
-                                                                                        "fontColor": "inherit",
-                                                                                        "fontSize": "inherit",
-                                                                                        "fontFamily": "inherit"
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "type": "paragraph",
-                                                                                "children": [
-                                                                                    {
-                                                                                        "text": "This video has first been presented at the Dicty 2007 meeting in Rotenburg, Germany, which  Artúr visited.",
-                                                                                        "fontColor": "inherit",
-                                                                                        "fontSize": "inherit",
-                                                                                        "fontFamily": "inherit"
-                                                                                    }
-                                                                                ]
-                                                                            },
-                                                                            {
-                                                                                "type": "paragraph",
-                                                                                "children": [
-                                                                                    {
-                                                                                        "text": "",
-                                                                                        "italic": true,
-                                                                                        "fontColor": "inherit",
-                                                                                        "fontSize": "inherit",
-                                                                                        "fontFamily": "inherit"
-                                                                                    }
-                                                                                ]
-                                                                            }
-                                                                        ],
-                                                                        "align": "left"
-                                                                    }
-                                                                ]
-                                                            }
-                                                        ]
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "children": [
-                                            {
-                                                "text": "",
-                                                "fontColor": "#ffffff",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "type": "div",
-                                        "children": [
-                                            {
-                                                "type": "div",
-                                                "children": [
-                                                    {
-                                                        "type": "paragraph",
-                                                        "children": [
-                                                            {
-                                                                "text": ". ",
-                                                                "fontColor": "inherit",
-                                                                "fontSize": "inherit",
-                                                                "fontFamily": "inherit"
-                                                            }
-                                                        ]
-                                                    }
-                                                ],
-                                                "align": "left"
-                                            }
-                                        ]
-                                    }
-                                ],
-                                "align": "left"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "div",
-                        "children": [
-                            {
-                                "type": "div",
-                                "children": [
-                                    {
-                                        "type": "h2",
-                                        "children": [
-                                            {
-                                                "text": " ",
-                                                "fontSize": "20px",
-                                                "fontColor": "inherit",
-                                                "fontFamily": "20px"
-                                            },
-                                            {
-                                                "text": "Poem",
-                                                "bold": true,
-                                                "fontSize": "20px",
-                                                "fontColor": "inherit",
-                                                "fontFamily": "20px"
-                                            },
-                                            {
-                                                "text": " ",
-                                                "fontSize": "20px",
-                                                "fontColor": "inherit",
-                                                "fontFamily": "20px"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "type": "h4",
-                                        "children": [
-                                            {
-                                                "text": "by Paul R. Fisher ",
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "type": "h6",
-                                        "children": [
-                                            {
-                                                "text": "ca. 2000",
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "type": "lineSpacing",
-                                        "children": [
-                                            {
-                                                "type": "paragraph",
-                                                "children": [
-                                                    {
-                                                        "text": "       ",
-                                                        "fontColor": "inherit",
-                                                        "fontSize": "inherit",
-                                                        "fontFamily": "inherit"
-                                                    }
-                                                ]
-                                            }
-                                        ],
-                                        "lineSpacing": "1.0"
-                                    },
-                                    {
-                                        "type": "h3",
-                                        "children": [
-                                            {
-                                                "text": " ",
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            },
-                                            {
-                                                "text": "The Leaders ",
-                                                "bold": true,
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "type": "lineSpacing",
-                                        "children": [
-                                            {
-                                                "type": "h3",
-                                                "children": [
-                                                    {
-                                                        "text": " ",
-                                                        "fontColor": "inherit",
-                                                        "fontSize": "inherit",
-                                                        "fontFamily": "inherit"
-                                                    }
-                                                ]
-                                            }
-                                        ],
-                                        "lineSpacing": "1.0"
-                                    },
-                                    {
-                                        "type": "h4",
-                                        "children": [
-                                            {
-                                                "text": " ",
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            },
-                                            {
-                                                "text": "From the beginning of the journey,\n it is we who lead the way,\n we call the tune\n we beat the drum\n we send our chemical messages\n and you.... you must obey.\n \n But at the journey's end,\n at the culmination of it all,\n we are the stalk and the stem\n who raise you up to the sky\n so that you might live\n while we.... we must die.",
-                                                "italic": true,
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            },
-                                            {
-                                                "text": " ",
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "type": "h4",
-                                        "children": [
-                                            {
-                                                "text": "",
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "type": "divider",
-                                        "children": [
-                                            {
-                                                "text": "",
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
-                                    }
-                                ],
-                                "align": "center"
-                            },
-                            {
-                                "type": "div",
-                                "children": [
-                                    {
-                                        "type": "h4",
-                                        "children": [
-                                            {
-                                                "text": "",
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
-                                    }
-                                ],
-                                "align": "left"
-                            },
-                            {
-                                "type": "div",
-                                "children": [
-                                    {
-                                        "type": "h2",
-                                        "children": [
-                                            {
-                                                "text": "Dicty Artwork by Paul H. Dear, 2005",
-                                                "fontSize": "20px",
-                                                "bold": true,
-                                                "fontColor": "inherit",
-                                                "fontFamily": "20px"
-                                            }
-                                        ]
-                                    }
-                                ],
-                                "align": "center"
-                            },
-                            {
-                                "type": "div",
-                                "children": [
-                                    {
-                                        "type": "paragraph",
-                                        "children": [
-                                            {
-                                                "text": "Graphics generated when the Nature cover was created for the publication of the ",
-                                                "fontSize": "14px",
-                                                "fontColor": "inherit",
-                                                "fontFamily": "14px"
-                                            },
-                                            {
-                                                "text": "Dictyostelium ",
-                                                "italic": true,
-                                                "fontSize": "14px",
-                                                "fontColor": "inherit",
-                                                "fontFamily": "14px"
-                                            },
-                                            {
-                                                "text": "Genome (Nature, 5th May 2005).",
-                                                "fontSize": "14px",
-                                                "fontColor": "inherit",
-                                                "fontFamily": "14px"
-                                            }
-                                        ]
-                                    }
-                                ],
-                                "align": "center"
-                            },
-                            {
-                                "type": "tableWrap",
-                                "children": [
-                                    {
-                                        "type": "tableRow",
-                                        "children": [
-                                            {
-                                                "type": "tableCell",
-                                                "children": [
-                                                    {
-                                                        "type": "div",
-                                                        "children": [
-                                                            {
-                                                                "type": "image",
-                                                                "children": [
-                                                                    {
-                                                                        "text": "",
-                                                                        "fontColor": "inherit",
-                                                                        "fontSize": "inherit",
-                                                                        "fontFamily": "inherit"
-                                                                    }
-                                                                ],
-                                                                "url": "https://user-images.githubusercontent.com/1349602/104525522-f9a21780-55c5-11eb-966a-b502f575e155.jpg",
-                                                                "description": "",
-                                                                "height": "",
-                                                                "width": ""
-                                                            }
-                                                        ],
-                                                        "align": "center"
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "type": "tableCell",
-                                                "children": [
-                                                    {
-                                                        "type": "div",
-                                                        "children": [
-                                                            {
-                                                                "type": "image",
-                                                                "children": [
-                                                                    {
-                                                                        "text": "",
-                                                                        "fontColor": "inherit",
-                                                                        "fontSize": "inherit",
-                                                                        "fontFamily": "inherit"
-                                                                    }
-                                                                ],
-                                                                "url": "https://user-images.githubusercontent.com/1349602/104525578-10486e80-55c6-11eb-8177-38d32fbea9cc.jpg",
-                                                                "description": "",
-                                                                "height": "",
-                                                                "width": ""
-                                                            }
-                                                        ],
-                                                        "align": "center"
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "type": "tableCell",
-                                                "children": [
-                                                    {
-                                                        "type": "div",
-                                                        "children": [
-                                                            {
-                                                                "type": "image",
-                                                                "children": [
-                                                                    {
-                                                                        "text": "",
-                                                                        "fontColor": "inherit",
-                                                                        "fontSize": "inherit",
-                                                                        "fontFamily": "inherit"
-                                                                    }
-                                                                ],
-                                                                "url": "https://user-images.githubusercontent.com/1349602/104525539-0161bc00-55c6-11eb-98aa-8a0a749252ac.jpg"
-                                                            }
-                                                        ],
-                                                        "align": "center"
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "type": "tableCell",
-                                                "children": [
-                                                    {
-                                                        "type": "div",
-                                                        "children": [
-                                                            {
-                                                                "type": "image",
-                                                                "children": [
-                                                                    {
-                                                                        "text": "",
-                                                                        "fontColor": "inherit",
-                                                                        "fontSize": "inherit",
-                                                                        "fontFamily": "inherit"
-                                                                    }
-                                                                ],
-                                                                "url": "https://user-images.githubusercontent.com/1349602/104525544-06267000-55c6-11eb-8f77-75a78d0df783.jpg",
-                                                                "description": "",
-                                                                "height": "",
-                                                                "width": ""
-                                                            }
-                                                        ],
-                                                        "align": "center"
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "type": "tableCell",
-                                                "children": [
-                                                    {
-                                                        "type": "div",
-                                                        "children": [
-                                                            {
-                                                                "type": "image",
-                                                                "children": [
-                                                                    {
-                                                                        "text": "",
-                                                                        "fontColor": "inherit",
-                                                                        "fontSize": "inherit",
-                                                                        "fontFamily": "inherit"
-                                                                    }
-                                                                ],
-                                                                "url": "https://user-images.githubusercontent.com/1349602/104525618-1fc7b780-55c6-11eb-8cbf-592f652e392c.jpg"
-                                                            }
-                                                        ],
-                                                        "align": "center"
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "div",
-                                "children": [
-                                    {
-                                        "text": "     ",
-                                        "fontSize": "14px",
+                                        "text": "",
                                         "fontColor": "inherit",
-                                        "fontFamily": "14px"
-                                    },
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "video",
+                                "children": [
                                     {
-                                        "text": "Download High Resolution Images",
-                                        "fontSize": "14px",
-                                        "underline": true,
+                                        "text": "",
                                         "fontColor": "inherit",
-                                        "fontFamily": "14px"
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
                                     }
                                 ],
-                                "align": "center"
+                                "url": "https://www.youtube.com/embed/7jd0QEe_WHE",
+                                "height": "300",
+                                "width": "600"
                             },
                             {
-                                "type": "div",
+                                "type": "\n",
                                 "children": [
                                     {
-                                        "type": "paragraph",
-                                        "children": [
-                                            {
-                                                "text": "                   ",
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            },
-                                            {
-                                                "text": " ",
-                                                "bold": true,
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            },
-                                            {
-                                                "type": "link",
-                                                "children": [
-                                                    {
-                                                        "text": "Crowd",
-                                                        "bold": true,
-                                                        "fontColor": "inherit",
-                                                        "fontSize": "inherit",
-                                                        "fontFamily": "inherit"
-                                                    }
-                                                ],
-                                                "url": "https://github.com/dictyBase/migration-data/files/5811583/crowd.pdf"
-                                            },
-                                            {
-                                                "text": "                                    ",
-                                                "bold": true,
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            },
-                                            {
-                                                "type": "link",
-                                                "children": [
-                                                    {
-                                                        "text": "Crowd Helix",
-                                                        "bold": true,
-                                                        "fontColor": "inherit",
-                                                        "fontSize": "inherit",
-                                                        "fontFamily": "inherit"
-                                                    }
-                                                ],
-                                                "url": "https://github.com/dictyBase/migration-data/files/5811582/crowd-helix.pdf"
-                                            },
-                                            {
-                                                "text": "                              ",
-                                                "bold": true,
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            },
-                                            {
-                                                "type": "link",
-                                                "children": [
-                                                    {
-                                                        "text": "Metal Crowd",
-                                                        "bold": true,
-                                                        "fontColor": "inherit",
-                                                        "fontSize": "inherit",
-                                                        "fontFamily": "inherit"
-                                                    }
-                                                ],
-                                                "url": "https://github.com/dictyBase/migration-data/files/5811586/metal-crowd.pdf"
-                                            },
-                                            {
-                                                "text": "                            ",
-                                                "bold": true,
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            },
-                                            {
-                                                "type": "link",
-                                                "children": [
-                                                    {
-                                                        "text": "Metal Helix",
-                                                        "bold": true,
-                                                        "fontColor": "inherit",
-                                                        "fontSize": "inherit",
-                                                        "fontFamily": "inherit"
-                                                    }
-                                                ],
-                                                "url": "https://github.com/dictyBase/migration-data/files/5811587/metal-helix.pdf"
-                                            },
-                                            {
-                                                "text": "                                 ",
-                                                "bold": true,
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            },
-                                            {
-                                                "type": "link",
-                                                "children": [
-                                                    {
-                                                        "text": "Forest",
-                                                        "bold": true,
-                                                        "fontColor": "inherit",
-                                                        "fontSize": "inherit",
-                                                        "fontFamily": "inherit"
-                                                    }
-                                                ],
-                                                "url": "https://github.com/dictyBase/migration-data/files/5811584/forest.pdf"
-                                            },
-                                            {
-                                                "text": "",
-                                                "bold": true,
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "children": [
-                                            {
-                                                "text": "Permission is hereby granted by the copyright holder to use these images for any non-commercial use, including inclusion in web pages, presentations, and reports. The images should have a minimal attribution of \"Copyright, Paul H. Dear, MRC Laboratory of Molecular Biology, Cambridge, UK\"",
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
+                                        "text": "",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
                                     }
-                                ],
-                                "align": "left"
+                                ]
                             }
                         ]
                     },
                     {
-                        "type": "divider",
+                        "type": "tableCell",
                         "children": [
                             {
-                                "text": "",
-                                "fontColor": "inherit",
-                                "fontSize": "inherit",
-                                "fontFamily": "inherit"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "paragraph",
-                        "children": [
-                            {
-                                "text": "     ",
-                                "fontColor": "inherit",
-                                "fontSize": "inherit",
-                                "fontFamily": "inherit"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "div",
-                        "children": [
-                            {
-                                "type": "div",
+                                "type": "paragraph",
                                 "children": [
                                     {
-                                        "type": "div",
-                                        "children": [
-                                            {
-                                                "type": "div",
-                                                "children": [
-                                                    {
-                                                        "type": "h2",
-                                                        "children": [
-                                                            {
-                                                                "text": " National Geographic ",
-                                                                "bold": true,
-                                                                "fontSize": "20px",
-                                                                "fontColor": "inherit",
-                                                                "fontFamily": "20px"
-                                                            }
-                                                        ]
-                                                    },
-                                                    {
-                                                        "type": "paragraph",
-                                                        "children": [
-                                                            {
-                                                                "text": "Best Microscopic Images Competion ",
-                                                                "italic": true,
-                                                                "fontColor": "inherit",
-                                                                "fontSize": "inherit",
-                                                                "fontFamily": "inherit"
-                                                            }
-                                                        ]
-                                                    }
-                                                ]
-                                            }
-                                        ],
-                                        "align": "center"
-                                    },
-                                    {
-                                        "type": "h1",
-                                        "children": [
-                                            {
-                                                "text": "Matthew Springer",
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
+                                        "text": "",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
                                     }
                                 ]
                             },
                             {
-                                "type": "div",
+                                "type": "paragraph",
                                 "children": [
                                     {
-                                        "type": "h6",
-                                        "children": [
-                                            {
-                                                "text": "Stanford University ",
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
+                                        "text": "Project ",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
                                     },
                                     {
-                                        "type": "paragraph",
-                                        "children": [
-                                            {
-                                                "text": " ",
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
+                                        "text": "Homo amoeba",
+                                        "bold": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
                                     },
                                     {
-                                        "type": "h4",
-                                        "children": [
-                                            {
-                                                "text": "4th place (2008)",
-                                                "bold": true,
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "type": "h4",
-                                        "children": [
-                                            {
-                                                "text": "",
-                                                "bold": true,
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "type": "image",
-                                        "children": [
-                                            {
-                                                "text": "",
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ],
-                                        "url": "https://user-images.githubusercontent.com/13489381/58503903-25e9f580-814f-11e9-80fb-6988e2301c96.jpg"
-                                    },
-                                    {
-                                        "type": "h4",
-                                        "children": [
-                                            {
-                                                "text": "    ",
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
+                                        "text": " investigates the ideal of flexibility. One is\n flexible when one can adapt to all situations. For humans, this is more\n an ideal than reality. For amoebas, being elastic and flexible is no \nexception. Dictyostelium serves here as a representation of the ideal. A\n man attempts to imitate the movement.",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
                                     }
                                 ]
-                            }
-                        ],
-                        "align": "center"
-                    },
+                            },
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": " ",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "Artúr van Balen, 2008",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "This video has first been presented at the Dicty 2007 meeting in Rotenburg, Germany, which  Artúr visited.",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            },
+                            {}
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "",
+                "fontColor": "#ffffff",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": ". ",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {},
+    {},
+    {
+        "type": "h2",
+        "children": [
+            {
+                "text": " ",
+                "fontSize": "20px",
+                "fontColor": "inherit",
+                "fontFamily": "20px"
+            },
+            {
+                "text": "Poem",
+                "bold": true,
+                "fontSize": "20px",
+                "fontColor": "inherit",
+                "fontFamily": "20px"
+            },
+            {
+                "text": " ",
+                "fontSize": "20px",
+                "fontColor": "inherit",
+                "fontFamily": "20px"
+            }
+        ]
+    },
+    {
+        "type": "h4",
+        "children": [
+            {
+                "text": "by Paul R. Fisher ",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "h6",
+        "children": [
+            {
+                "text": "ca. 2000",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "lineSpacing",
+        "children": [
+            {
+                "type": "paragraph",
+                "children": [
                     {
-                        "type": "divider",
+                        "text": "       ",
+                        "fontColor": "inherit",
+                        "fontSize": "inherit",
+                        "fontFamily": "inherit"
+                    }
+                ]
+            }
+        ],
+        "lineSpacing": "1.0"
+    },
+    {
+        "type": "h3",
+        "children": [
+            {
+                "text": " ",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            },
+            {
+                "text": "The Leaders ",
+                "bold": true,
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "lineSpacing",
+        "children": [
+            {
+                "type": "h3",
+                "children": [
+                    {
+                        "text": " ",
+                        "fontColor": "inherit",
+                        "fontSize": "inherit",
+                        "fontFamily": "inherit"
+                    }
+                ]
+            }
+        ],
+        "lineSpacing": "1.0"
+    },
+    {
+        "type": "h4",
+        "children": [
+            {
+                "text": " ",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            },
+            {
+                "text": "From the beginning of the journey,\n it is we who lead the way,\n we call the tune\n we beat the drum\n we send our chemical messages\n and you.... you must obey.\n \n But at the journey's end,\n at the culmination of it all,\n we are the stalk and the stem\n who raise you up to the sky\n so that you might live\n while we.... we must die.",
+                "italic": true,
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            },
+            {
+                "text": " ",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "h4",
+        "children": [
+            {
+                "text": "",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "divider",
+        "children": [
+            {
+                "text": "",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "h4",
+        "children": [
+            {
+                "text": "",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "h2",
+        "children": [
+            {
+                "text": "Dicty Artwork by Paul H. Dear, 2005",
+                "fontSize": "20px",
+                "bold": true,
+                "fontColor": "inherit",
+                "fontFamily": "20px"
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "Graphics generated when the Nature cover was created for the publication of the ",
+                "fontSize": "14px",
+                "fontColor": "inherit",
+                "fontFamily": "14px"
+            },
+            {
+                "text": "Dictyostelium ",
+                "italic": true,
+                "fontSize": "14px",
+                "fontColor": "inherit",
+                "fontFamily": "14px"
+            },
+            {
+                "text": "Genome (Nature, 5th May 2005).",
+                "fontSize": "14px",
+                "fontColor": "inherit",
+                "fontFamily": "14px"
+            }
+        ]
+    },
+    {
+        "type": "tableWrap",
+        "children": [
+            {
+                "type": "tableRow",
+                "children": [
+                    {
+                        "type": "tableCell",
                         "children": [
                             {
-                                "text": "",
-                                "fontColor": "inherit",
-                                "fontSize": "inherit",
-                                "fontFamily": "inherit"
+                                "type": "image",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ],
+                                "url": "https://user-images.githubusercontent.com/1349602/104525522-f9a21780-55c5-11eb-966a-b502f575e155.jpg",
+                                "description": "",
+                                "height": "",
+                                "width": ""
                             }
                         ]
                     },
                     {
-                        "type": "hr",
+                        "type": "tableCell",
                         "children": [
                             {
-                                "text": "",
-                                "fontColor": "inherit",
-                                "fontSize": "inherit",
-                                "fontFamily": "inherit"
+                                "type": "image",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ],
+                                "url": "https://user-images.githubusercontent.com/1349602/104525578-10486e80-55c6-11eb-8177-38d32fbea9cc.jpg",
+                                "description": "",
+                                "height": "",
+                                "width": ""
                             }
                         ]
                     },
                     {
-                        "type": "div",
+                        "type": "tableCell",
                         "children": [
                             {
-                                "type": "div",
+                                "type": "image",
                                 "children": [
                                     {
-                                        "type": "paragraph",
-                                        "children": [
-                                            {
-                                                "text": "Altruistic Amoeba",
-                                                "fontSize": "20px",
-                                                "bold": true,
-                                                "fontColor": "inherit",
-                                                "fontFamily": "20px"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "type": "lineSpacing",
-                                        "children": [
-                                            {
-                                                "text": "",
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ],
-                                        "lineSpacing": "1.1"
+                                        "text": "",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
                                     }
                                 ],
-                                "align": "center"
-                            },
+                                "url": "https://user-images.githubusercontent.com/1349602/104525539-0161bc00-55c6-11eb-98aa-8a0a749252ac.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "tableCell",
+                        "children": [
                             {
-                                "type": "div",
+                                "type": "image",
                                 "children": [
                                     {
-                                        "type": "tableWrap",
-                                        "children": [
-                                            {
-                                                "type": "tableRow",
-                                                "children": [
-                                                    {
-                                                        "type": "tableCell",
-                                                        "children": [
-                                                            {
-                                                                "type": "paragraph",
-                                                                "children": [
-                                                                    {
-                                                                        "text": "",
-                                                                        "fontColor": "inherit",
-                                                                        "fontSize": "inherit",
-                                                                        "fontFamily": "inherit"
-                                                                    }
-                                                                ]
-                                                            },
-                                                            {
-                                                                "type": "video",
-                                                                "children": [
-                                                                    {
-                                                                        "text": "",
-                                                                        "fontColor": "inherit",
-                                                                        "fontSize": "inherit",
-                                                                        "fontFamily": "inherit"
-                                                                    }
-                                                                ],
-                                                                "url": "https://www.youtube.com/embed/zMWSjF_lKGQ",
-                                                                "height": "300",
-                                                                "width": "600"
-                                                            },
-                                                            {
-                                                                "type": "\n",
-                                                                "children": [
-                                                                    {
-                                                                        "text": "",
-                                                                        "fontColor": "inherit",
-                                                                        "fontSize": "inherit",
-                                                                        "fontFamily": "inherit"
-                                                                    }
-                                                                ]
-                                                            }
-                                                        ]
-                                                    },
-                                                    {
-                                                        "type": "tableCell",
-                                                        "children": [
-                                                            {
-                                                                "type": "div",
-                                                                "children": [
-                                                                    {
-                                                                        "type": "div",
-                                                                        "children": [
-                                                                            {
-                                                                                "type": "div",
-                                                                                "children": [
-                                                                                    {
-                                                                                        "type": "paragraph",
-                                                                                        "children": [
-                                                                                            {
-                                                                                                "text": "",
-                                                                                                "fontColor": "inherit",
-                                                                                                "fontSize": "inherit",
-                                                                                                "fontFamily": "inherit"
-                                                                                            }
-                                                                                        ]
-                                                                                    },
-                                                                                    {
-                                                                                        "type": "paragraph",
-                                                                                        "children": [
-                                                                                            {
-                                                                                                "text": "Project ",
-                                                                                                "fontColor": "inherit",
-                                                                                                "fontSize": "inherit",
-                                                                                                "fontFamily": "inherit"
-                                                                                            },
-                                                                                            {
-                                                                                                "text": "We're Not So Different",
-                                                                                                "bold": true,
-                                                                                                "fontColor": "inherit",
-                                                                                                "fontSize": "inherit",
-                                                                                                "fontFamily": "inherit"
-                                                                                            },
-                                                                                            {
-                                                                                                "text": "- \"Altruistic Amoeba\"\n",
-                                                                                                "fontColor": "inherit",
-                                                                                                "fontSize": "inherit",
-                                                                                                "fontFamily": "inherit"
-                                                                                            }
-                                                                                        ]
-                                                                                    },
-                                                                                    {
-                                                                                        "type": "paragraph",
-                                                                                        "children": [
-                                                                                            {
-                                                                                                "text": "Kurtis Ross, 2014",
-                                                                                                "italic": true,
-                                                                                                "fontColor": "inherit",
-                                                                                                "fontSize": "inherit",
-                                                                                                "fontFamily": "inherit"
-                                                                                            }
-                                                                                        ]
-                                                                                    }
-                                                                                ],
-                                                                                "align": "left"
-                                                                            }
-                                                                        ]
-                                                                    }
-                                                                ],
-                                                                "align": "left"
-                                                            }
-                                                        ]
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "children": [
-                                            {
-                                                "text": "",
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
+                                        "text": "",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
                                     }
                                 ],
-                                "align": "center"
-                            },
+                                "url": "https://user-images.githubusercontent.com/1349602/104525544-06267000-55c6-11eb-8f77-75a78d0df783.jpg",
+                                "description": "",
+                                "height": "",
+                                "width": ""
+                            }
+                        ]
+                    },
+                    {
+                        "type": "tableCell",
+                        "children": [
                             {
-                                "type": "div",
+                                "type": "image",
                                 "children": [
                                     {
-                                        "type": "paragraph",
-                                        "children": [
-                                            {
-                                                "text": "",
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
+                                        "text": "",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
                                     }
                                 ],
-                                "align": "left"
-                            },
-                            {
-                                "type": "div",
-                                "children": [
-                                    {
-                                        "type": "paragraph",
-                                        "children": [
-                                            {
-                                                "text": "",
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
-                                    }
-                                ],
-                                "align": "left"
-                            },
-                            {
-                                "type": "div",
-                                "children": [
-                                    {
-                                        "type": "paragraph",
-                                        "children": [
-                                            {
-                                                "text": "",
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "type": "paragraph",
-                                        "children": [
-                                            {
-                                                "text": "",
-                                                "fontColor": "inherit",
-                                                "fontSize": "inherit",
-                                                "fontFamily": "inherit"
-                                            }
-                                        ]
-                                    }
-                                ],
-                                "align": "center"
+                                "url": "https://user-images.githubusercontent.com/1349602/104525618-1fc7b780-55c6-11eb-8cbf-592f652e392c.jpg"
                             }
                         ]
                     }
-                ],
-                "align": "left"
+                ]
             }
         ]
-    }
+    },
+    {
+        "text": "     ",
+        "fontSize": "14px",
+        "fontColor": "inherit",
+        "fontFamily": "14px"
+    },
+    {
+        "text": "Download High Resolution Images",
+        "fontSize": "14px",
+        "underline": true,
+        "fontColor": "inherit",
+        "fontFamily": "14px"
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "                   ",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            },
+            {
+                "text": " ",
+                "bold": true,
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            },
+            {
+                "type": "link",
+                "children": [
+                    {
+                        "text": "Crowd",
+                        "bold": true,
+                        "fontColor": "inherit",
+                        "fontSize": "inherit",
+                        "fontFamily": "inherit"
+                    }
+                ],
+                "url": "https://github.com/dictyBase/migration-data/files/5811583/crowd.pdf"
+            },
+            {
+                "text": "                                    ",
+                "bold": true,
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            },
+            {
+                "type": "link",
+                "children": [
+                    {
+                        "text": "Crowd Helix",
+                        "bold": true,
+                        "fontColor": "inherit",
+                        "fontSize": "inherit",
+                        "fontFamily": "inherit"
+                    }
+                ],
+                "url": "https://github.com/dictyBase/migration-data/files/5811582/crowd-helix.pdf"
+            },
+            {
+                "text": "                              ",
+                "bold": true,
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            },
+            {
+                "type": "link",
+                "children": [
+                    {
+                        "text": "Metal Crowd",
+                        "bold": true,
+                        "fontColor": "inherit",
+                        "fontSize": "inherit",
+                        "fontFamily": "inherit"
+                    }
+                ],
+                "url": "https://github.com/dictyBase/migration-data/files/5811586/metal-crowd.pdf"
+            },
+            {
+                "text": "                            ",
+                "bold": true,
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            },
+            {
+                "type": "link",
+                "children": [
+                    {
+                        "text": "Metal Helix",
+                        "bold": true,
+                        "fontColor": "inherit",
+                        "fontSize": "inherit",
+                        "fontFamily": "inherit"
+                    }
+                ],
+                "url": "https://github.com/dictyBase/migration-data/files/5811587/metal-helix.pdf"
+            },
+            {
+                "text": "                                 ",
+                "bold": true,
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            },
+            {
+                "type": "link",
+                "children": [
+                    {
+                        "text": "Forest",
+                        "bold": true,
+                        "fontColor": "inherit",
+                        "fontSize": "inherit",
+                        "fontFamily": "inherit"
+                    }
+                ],
+                "url": "https://github.com/dictyBase/migration-data/files/5811584/forest.pdf"
+            },
+            {
+                "text": "",
+                "bold": true,
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "Permission is hereby granted by the copyright holder to use these images for any non-commercial use, including inclusion in web pages, presentations, and reports. The images should have a minimal attribution of \"Copyright, Paul H. Dear, MRC Laboratory of Molecular Biology, Cambridge, UK\"",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {},
+    {
+        "type": "divider",
+        "children": [
+            {
+                "text": "",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "     ",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "h2",
+        "children": [
+            {
+                "text": " National Geographic ",
+                "bold": true,
+                "fontSize": "20px",
+                "fontColor": "inherit",
+                "fontFamily": "20px"
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "Best Microscopic Images Competion ",
+                "italic": true,
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {},
+    {
+        "type": "h1",
+        "children": [
+            {
+                "text": "Matthew Springer",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {},
+    {
+        "type": "h6",
+        "children": [
+            {
+                "text": "Stanford University ",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": " ",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "h4",
+        "children": [
+            {
+                "text": "4th place (2008)",
+                "bold": true,
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "h4",
+        "children": [
+            {
+                "text": "",
+                "bold": true,
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "image",
+        "children": [
+            {
+                "text": "",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ],
+        "url": "https://user-images.githubusercontent.com/13489381/58503903-25e9f580-814f-11e9-80fb-6988e2301c96.jpg"
+    },
+    {
+        "type": "h4",
+        "children": [
+            {
+                "text": "    ",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {},
+    {
+        "type": "divider",
+        "children": [
+            {
+                "text": "",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "hr",
+        "children": [
+            {
+                "text": "",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "Altruistic Amoeba",
+                "fontSize": "20px",
+                "bold": true,
+                "fontColor": "inherit",
+                "fontFamily": "20px"
+            }
+        ]
+    },
+    {
+        "type": "lineSpacing",
+        "children": [
+            {
+                "text": "",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ],
+        "lineSpacing": "1.1"
+    },
+    {
+        "type": "tableWrap",
+        "children": [
+            {
+                "type": "tableRow",
+                "children": [
+                    {
+                        "type": "tableCell",
+                        "children": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "video",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ],
+                                "url": "https://www.youtube.com/embed/zMWSjF_lKGQ",
+                                "height": "300",
+                                "width": "600"
+                            },
+                            {
+                                "type": "\n",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "tableCell",
+                        "children": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "Project ",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "We're Not So Different",
+                                        "bold": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "- \"Altruistic Amoeba\"\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "Kurtis Ross, 2014",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            },
+                            {}
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {},
+    {}
 ]

@@ -130,27 +130,13 @@ const convertType = (type) => {
     case "align_center":
       convertedType = "div";
       break;
+    case "body1":
+      convertedType = "paragraph";
+      break;
     default:
       convertedType = type;
   }
   return convertedType;
-};
-
-const convertChildren = (node) => {
-  // if there are nodes then convert the children
-  if (node.nodes) {
-    return node.nodes.reduce((acc, val) => {
-      const nodes = convertNode(val);
-      // if the converted current value is an array, only grab the object inside of it
-      if (Array.isArray(nodes)) {
-        return [...acc, ...nodes];
-      }
-      // otherwise add the new value in its existing object form
-      return [...acc, nodes];
-    }, []);
-  }
-  // otherwise include mandatory object with text property
-  return [{ text: "" }];
 };
 
 const alignmentTypes = [
@@ -187,17 +173,64 @@ const marksReducer = (acc, mark) => {
   };
 };
 
+// const flattenArr = (arr) => {
+//   let newarr = [];
+//   arr.forEach((item) => {
+//     const vals = Object.values(item);
+//     vals.forEach((val) => {
+//       if (!val.children) {
+//         newarr.push(flattenArr([val]));
+//       } else {
+//         newarr.push(val);
+//       }
+//     });
+//   });
+//   return newarr;
+// };
+
+const convertChildren = (node) => {
+  // if there are nodes then convert the children
+  if (node.nodes) {
+    return node.nodes.reduce((acc, val) => {
+      const nodes = convertNode(val);
+      // if the converted current value is an array, only grab the object inside of it
+      if (Array.isArray(nodes)) {
+        return [...acc, ...nodes];
+      }
+      if (nodes.type === "div") {
+        // console.log("acc", acc);
+        // console.log("nodes", nodes);
+        return [...acc, ...nodes.children];
+      }
+      // otherwise add the new value in its existing object form
+      return [...acc, nodes];
+    }, []);
+  }
+  // otherwise include mandatory object with text property
+  return [{ text: "" }];
+};
+
 const convertDataByType = (node) => {
   const { type } = node;
   // remove any alignment wrappers from old structure;
   // previously, changing the alignment would add a new <div> around the selection
   if (alignmentTypes.includes(type)) {
+    if (type !== "alignment") {
+      return [...convertChildren(node), convertData(node)].flat(2);
+    }
     const element = {
       type: "div",
       children: convertChildren(node),
       ...convertData(node),
     };
     return element;
+  }
+
+  if (type === "div") {
+    return {
+      ...convertChildren(node),
+      ...convertData(node),
+    };
   }
 
   return {
@@ -262,7 +295,7 @@ const convertNode = (node) => {
     };
   }
 
-  // if no leaves or marks then just return plain text
+  // if no leaves or marks then just return plain text and inherit font values
   return {
     text,
     fontColor: "inherit",
@@ -271,11 +304,24 @@ const convertNode = (node) => {
   };
 };
 
+// remove empty objects from array
+const removeEmptyObjects = (arr) => {
+  return arr.filter((item) => {
+    return Object.keys(item).length > 0;
+  });
+};
+
 const convertSlate047 = (object, filename) => {
   const { nodes } = object.document;
-
-  fs.writeFileSync(filename, JSON.stringify(nodes.map(convertNode)));
-  return nodes.map(convertNode);
+  let newNodes = [];
+  const convertedNodes = nodes.map(convertNode);
+  if (Array.isArray(convertedNodes[0])) {
+    console.log("got arr");
+    newNodes = removeEmptyObjects(convertedNodes[0]);
+  }
+  newNodes = removeEmptyObjects(convertedNodes);
+  fs.writeFileSync(filename, JSON.stringify(newNodes.flat()));
+  return newNodes.flat();
 };
 
 convertSlate047(oldContent, "content.json");
