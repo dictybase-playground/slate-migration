@@ -1,0 +1,1444 @@
+[
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "h1",
+        "children": [
+            {
+                "text": "Cite Us",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": " ",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "Please cite us in your publication if dictyBase/DSC helped you achieve your results. Thank you!",
+                "italic": true,
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            },
+            {
+                "text": "    \n",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "h2",
+        "children": [
+            {
+                "text": "dictyBase",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "unorderedList",
+        "children": [
+            {
+                "type": "listItem",
+                "children": [
+                    {
+                        "type": "listItem",
+                        "children": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "Fey P, Dodson RJ, Basu S, Hartline EC, Chisholm RL.",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "link": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "dictyBase and the Dicty Stock Center (version 2.0) - a progress report.",
+                                                "link": true,
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            }
+                                        ],
+                                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7409682/"
+                                    },
+                                    {
+                                        "text": "",
+                                        "link": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "Int J Dev Biol.2019;63(8-9-10):563-572.",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "listItem",
+                "children": [
+                    {
+                        "type": "listItem",
+                        "children": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "Basu, S., Fey, P., Jimenez-Morales, D., Dodson, R. J., & Chisholm, R. L. (2015)",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "dictyBase 2015: Expanding data and annotations in a new software environment.",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            }
+                                        ],
+                                        "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/dvg.22867"
+                                    },
+                                    {
+                                        "text": "",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "Genesis",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": " 53(8), 523–534.",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "h2",
+        "children": [
+            {
+                "text": "Dicty Stock Center and dictyBase ",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "unorderedList",
+        "children": [
+            {
+                "type": "listItem",
+                "children": [
+                    {
+                        "type": "listItem",
+                        "children": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "Fey, P., Dodson, R., Basu, S., Chisholm, R. L. (2013).\n ",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "'One Stop Shop for Everything Dictyostelium: dictyBase and the Dicty Stock Center'.",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            }
+                                        ],
+                                        "url": "http://link.springer.com/protocol/10.1007%2F978-1-62703-302-2_4"
+                                    },
+                                    {
+                                        "text": "\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "Dictyostelium discoideum Protocols.",
+                                        "bold": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "Methods Mol. Biol.",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": " 983:59-92, edited by Ludwig Eichinger and Francisco Rivero. ",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "h2",
+        "children": [
+            {
+                "text": "More publications by dictyBase ",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "unorderedList",
+        "children": [
+            {
+                "type": "listItem",
+                "children": [
+                    {
+                        "type": "listItem",
+                        "children": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "Basu, S., Fey, P., Pandit, Y., Dodson, R. J., Kibbe, W. A., Chisholm, R. L. (2013).\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "DictyBase 2013: integrating multiple Dictyostelid species.",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            }
+                                        ],
+                                        "url": "http://nar.oxfordjournals.org/content/41/D1/D676.long"
+                                    },
+                                    {
+                                        "text": "\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "Nucleic Acids Res.",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": " 41 (Database issue): D676-83. \n            ",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "listItem",
+                "children": [
+                    {
+                        "type": "listItem",
+                        "children": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "Gaudet, P., Fey, P., Basu, S., Bushmanova, Y. A., Dodson, R., Sheppard K. A., Just, E. M., Kibbe, W. A., Chisholm, R. L. (2011).\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "dictyBase update 2011: web 2.0 functionality and the initial steps towards a genome portal for the Amoebozoa.",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            }
+                                        ],
+                                        "url": "http://nar.oxfordjournals.org/content/39/suppl_1/D620.full"
+                                    },
+                                    {
+                                        "text": "\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "Nucleic Acids Res.",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": " (Database issue): D620-D24. ",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "listItem",
+                "children": [
+                    {
+                        "type": "listItem",
+                        "children": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "Fey, P., Gaudet, P., Curk, T., Zupan, B., Just, E. M., Basu, S., Merchant, S. N., Bushmanova, Y. A., Shaulsky,  G., Kibbe, W. A., Chisholm, R. L. (2009).\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "dictyBase - a Dictyostelium bioinformatics resource update.",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            }
+                                        ],
+                                        "url": "http://nar.oxfordjournals.org/cgi/content/full/37/suppl_1/D515"
+                                    },
+                                    {
+                                        "text": "\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "Nucleic Acids Res.",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": " 37, (Database issue): D515-19. ",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "listItem",
+                "children": [
+                    {
+                        "type": "listItem",
+                        "children": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "Chisholm RL, Gaudet P, Just EM, Pilcher KE, Fey P, Merchant SN, Kibbe WA. (2006).\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "dictyBase, the model organism database for Dictyostelium discoideum.",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            }
+                                        ],
+                                        "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=16381903&query_hl=1&itool=pubmed_docsum"
+                                    },
+                                    {
+                                        "text": "\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "Nucleic Acids Res.",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": " 34 (Database issue): D423-7. \n            ",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "listItem",
+                "children": [
+                    {
+                        "type": "listItem",
+                        "children": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "Fey P, Gaudet P, Pilcher KE, Franke J and Chisholm RL. 2006.\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "dictyBase and the Dicty Stock Center",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            }
+                                        ],
+                                        "url": "http://www.humanapress.com/ProductDetail.pasp?txtCatalog=HumanaBooks&txtProductID=1%2D59745%2D144%2D4"
+                                    },
+                                    {
+                                        "text": ".\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "In",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": " Dictyostelium discoideum Protocols. L. Eichinger and F. Rivero, editors. Humana Press, 346: 51-74.\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "listItem",
+                "children": [
+                    {
+                        "type": "listItem",
+                        "children": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "Chisholm RL. 2005.\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "dictyBase: Using the Genome to Organize Dictyostelium Biology.",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            }
+                                        ],
+                                        "url": "http://www.horizonpress.com/hsp/books/dicty.html"
+                                    },
+                                    {
+                                        "text": "\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "In",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": " Dictyostelium Genomics. W. Loomis and A. Kuspa, editors. Horizon Press. Pp. 23-39. ",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "listItem",
+                "children": [
+                    {
+                        "type": "listItem",
+                        "children": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "Kreppel L, Fey P, Gaudet P, Just E, Kibbe WA, Chisholm RL, Kimmel AR. (2004)\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "dictyBase: a new Dictyostelium discoideum genome database.",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            }
+                                        ],
+                                        "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=14681427"
+                                    },
+                                    {
+                                        "text": "\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "Nucleic Acids Res.",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": " 32 (Database issue): D332-3. ",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "h2",
+        "children": [
+            {
+                "text": "Citing the Dictyostelium Genome      ",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "unorderedList",
+        "children": [
+            {
+                "type": "listItem",
+                "children": [
+                    {
+                        "type": "listItem",
+                        "children": [
+                            {
+                                "type": "lineSpacing",
+                                "children": [
+                                    {
+                                        "type": "paragraph",
+                                        "children": [
+                                            {
+                                                "text": "Eichinger L, Pachebat JA, Glockner G, Rajandream MA, Sucgang R, Berriman M, Song J, Olsen R, Szafranski K, Xu Q, Tunggal B, Kummerfeld S, Madera M, Konfortov BA, Rivero F, Bankier AT, Lehmann R, Hamlin N, Davies R, Gaudet P, Fey P, Pilcher K, Chen G, Saunders D, Sodergren E, Davis P, Kerhornou A, Nie X, Hall N, Anjard C, Hemphill L, Bason N, Farbrother P, Desany B, Just E, Morio T, Rost R, Churcher C, Cooper J, Haydock S, van Driessche N, Cronin A, Goodhead I, Muzny D, Mourier T, Pain A, Lu M, Harper D, Lindsay R, Hauser H, James K, Quiles M, Madan Babu M, Saito T, Buchrieser C, Wardroper A, Felder M, Thangavelu M, Johnson D, Knights A, Loulseged H, Mungall K, Oliver K, Price C, Quail MA, Urushihara H, Hernandez J, Rabbinowitsch E, Steffen D, Sanders M, Ma J, Kohara Y, Sharp S, Simmonds M, Spiegler S, Tivey A, Sugano S, White B, Walker D, Woodward J, Winckler T, Tanaka Y, Shaulsky G, Schleicher M, Weinstock G, Rosenthal A, Cox EC, Chisholm RL, Gibbs R, Loomis WF, Platzer M, Kay RR, Williams J, Dear PH, Noegel AA, Barrell B, Kuspa A. (2005)\n",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            },
+                                            {
+                                                "type": "link",
+                                                "children": [
+                                                    {
+                                                        "text": "The genome of the social amoeba ",
+                                                        "fontColor": "inherit",
+                                                        "fontSize": "inherit",
+                                                        "fontFamily": "inherit"
+                                                    },
+                                                    {
+                                                        "text": "Dictyostelium discoideum",
+                                                        "italic": true,
+                                                        "fontColor": "inherit",
+                                                        "fontSize": "inherit",
+                                                        "fontFamily": "inherit"
+                                                    }
+                                                ],
+                                                "url": "http://www.nature.com/nature/journal/v435/n7038/abs/nature03481.html"
+                                            },
+                                            {
+                                                "text": ".\n",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            },
+                                            {
+                                                "text": "Nature",
+                                                "italic": true,
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            },
+                                            {
+                                                "text": " 435(7038): 43-57. ",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "lineSpacing": "1.3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "unorderedList",
+        "children": [
+            {
+                "type": "listItem",
+                "children": [
+                    {
+                        "type": "listItem",
+                        "children": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "Ribosomal DNA sequence:",
+                                        "bold": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "\n                \nSucgang R, Chen G, Liu W, Lindsay R, Lu J, Muzny D, Shaulsky G, Loomis WF, Gibbs R and Kuspa A. (2003)\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "Sequence and structure of the extrachromosomal palindrome encoding the ribosomal RNA genes in ",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            },
+                                            {
+                                                "text": "Dictyostelium",
+                                                "italic": true,
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            }
+                                        ],
+                                        "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=12711681&dopt=Abstract"
+                                    },
+                                    {
+                                        "text": ".\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "Nucl. Acids Res.",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": " 31(9):2361-2368. ",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "unorderedList",
+        "children": [
+            {
+                "type": "listItem",
+                "children": [
+                    {
+                        "type": "listItem",
+                        "children": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "Chromosome 2 sequence:",
+                                        "bold": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "\n                \nGloeckner G, Eichinger L, Szafranski K, Pachebat JA, Bankier AT, Dear PH, Lehmann R, Baumgart C, Parra G, Abril JF, Guigo R, Kumpf K, Tunggal B, the Dictyostelium Genome Sequencing Consortium, Cox E, Quail MA, Platzer M, Rosenthal A & Noegel AA.\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "Dictyostelium",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": " Genome Sequencing Consortium. (2002)\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "Sequence and analysis of chromosome 2 of ",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            },
+                                            {
+                                                "text": "Dictyostelium discoideum",
+                                                "italic": true,
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            }
+                                        ],
+                                        "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=12097910&dopt=Abstract"
+                                    },
+                                    {
+                                        "text": ".\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "Nature",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": " 418(6893):79-85. ",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "listItem",
+                "children": [
+                    {
+                        "type": "listItem",
+                        "children": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "Mitochondrial genome:",
+                                        "bold": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "\n                \nOgawa S, Yoshino R, Angata K, Iwamoto M, Pi M, Kuroe K, Matsuo K, Morio T, Urushihara H, Yanagisawa K, Tanaka Y. (2000)\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "The mitochondrial DNA of ",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            },
+                                            {
+                                                "text": "Dictyostelium discoideum",
+                                                "italic": true,
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            },
+                                            {
+                                                "text": ": complete sequence, gene content and genome organization",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            }
+                                        ],
+                                        "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10821186&dopt=Abstract"
+                                    },
+                                    {
+                                        "text": ".\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "Mol. Gen. Genet.",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": " 263(3):514-9 ",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "h2",
+        "children": [
+            {
+                "text": "Citing the cDNA project ",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "The  ",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            },
+            {
+                "text": "Dictyostelium",
+                "italic": true,
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            },
+            {
+                "text": " cDNA project has been initiated in 1996 at the University of Tsukaba in Japan. ",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "unorderedList",
+        "children": [
+            {
+                "type": "listItem",
+                "children": [
+                    {
+                        "type": "listItem",
+                        "children": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "Morio T, Urushihara H, Saito T, Ugawa Y, Mizuno H, Yoshida M, Yoshino R, Mitra BN, Pi M, Sato T, Takemoto K, Yasukawa H, Williams J, Maeda M, Takeuchi I, Ochiai H, Tanaka Y. (1998)\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "The ",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            },
+                                            {
+                                                "text": "Dictyostelium",
+                                                "italic": true,
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            },
+                                            {
+                                                "text": " developmental cDNA project: generation and analysis of expressed sequence tags from the first-finger stage of development",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            }
+                                        ],
+                                        "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10048482&dopt=Abstract"
+                                    },
+                                    {
+                                        "text": ".\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "DNA Res.",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": " 5(6):335-40. ",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "listItem",
+                "children": [
+                    {
+                        "type": "listItem",
+                        "children": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "Description of EST assemblies:",
+                                        "bold": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "\n                \nUrushihara H, Morio T, Saito T, Kohara Y, Koriki E, Ochiai H, Maeda M, Williams JG, Takeuchi I, Tanaka Y. (2004)\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "Analyses of cDNAs from growth and slug stages of Dictyostelium discoideum.",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            }
+                                        ],
+                                        "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=15010511"
+                                    },
+                                    {
+                                        "text": "\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "Nucleic Acids Res.",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": " 32(5):1647-53. \n            ",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "h2",
+        "children": [
+            {
+                "text": "HAPPY Mapping        ",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "HAPPY mapping of the ",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            },
+            {
+                "text": "Dictyostelium",
+                "italic": true,
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            },
+            {
+                "text": " genome is done at the MRC Laboratory of Molecular Biology, Cambridge. ",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "unorderedList",
+        "children": [
+            {
+                "type": "listItem",
+                "children": [
+                    {
+                        "type": "listItem",
+                        "children": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "Konfortov BA, Cohen HM, Bankier AT, Dear PH. (2000)\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "A High-Resolution HAPPY Map of ",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            },
+                                            {
+                                                "text": "Dictyostelium discoideum",
+                                                "italic": true,
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            },
+                                            {
+                                                "text": " Chromosome 6",
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            }
+                                        ],
+                                        "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=retrieve&db=pubmed&list_uids=11076859&dopt=Abstract"
+                                    },
+                                    {
+                                        "text": ".\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "Genome Res.",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": " 10(11):1737-42.",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "listItem",
+                "children": [
+                    {
+                        "type": "listItem",
+                        "children": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "A high resolution HAPPY map of the ",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "Dictyostelium discoideum",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": " genome. Pachebat JA, Bankier AT, Konfortov BA, Dear PH, Gloeckner G, Szafranski K, Sucgang R, Rajandream M.-A, Davies R, Bloomfield G, Noegel A. (2003) The ",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "Dictyostelium",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": " Genome Sequencing Consortium.\n",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "Abstract from the ",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "type": "link",
+                                        "children": [
+                                            {
+                                                "text": "International Dictyostelium conference",
+                                                "italic": true,
+                                                "fontColor": "inherit",
+                                                "fontSize": "inherit",
+                                                "fontFamily": "inherit"
+                                            }
+                                        ],
+                                        "url": "http://www.latrobe.edu.au/dicty2003/abstract.pdf"
+                                    },
+                                    {
+                                        "text": "\n",
+                                        "italic": true,
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    },
+                                    {
+                                        "text": "            ",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "h2",
+        "children": [
+            {
+                "text": "GenBank Sequences",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    },
+    {
+        "type": "unorderedList",
+        "children": [
+            {
+                "type": "listItem",
+                "children": [
+                    {
+                        "type": "listItem",
+                        "children": [
+                            {
+                                "type": "paragraph",
+                                "children": [
+                                    {
+                                        "text": "If GenBank sequence entries are to be cited, the citation should include the sequence name and GenBank accession number. For example: The GenBank accession number for the sequence reported in this paper is U12980.",
+                                        "fontColor": "inherit",
+                                        "fontSize": "inherit",
+                                        "fontFamily": "inherit"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "paragraph",
+        "children": [
+            {
+                "text": "\nThe GenBank accession number for the full genome sequence is AAFI00000000.",
+                "fontColor": "inherit",
+                "fontSize": "inherit",
+                "fontFamily": "inherit"
+            }
+        ]
+    }
+]
