@@ -198,8 +198,6 @@ const convertChildren = (node) => {
         return [...acc, ...nodes];
       }
       if (nodes.type === "div") {
-        // console.log("acc", acc);
-        // console.log("nodes", nodes);
         return [...acc, ...nodes.children];
       }
       // otherwise add the new value in its existing object form
@@ -316,7 +314,6 @@ const convertSlate047 = (object, filename) => {
   let newNodes = [];
   const convertedNodes = nodes.map(convertNode);
   if (Array.isArray(convertedNodes[0])) {
-    console.log("got arr");
     newNodes = removeEmptyObjects(convertedNodes[0]);
   }
   newNodes = removeEmptyObjects(convertedNodes);
