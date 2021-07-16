@@ -210,7 +210,7 @@ const convertChildren = (node) => {
 
 const convertDataByType = (node) => {
   const { type } = node;
-  let dataObj = convertData(node);
+  const dataObj = convertData(node);
   const emptyObj = Object.keys(dataObj).length === 0;
   // remove any alignment wrappers from old structure;
   // previously, changing the alignment would add a new <div> around the selection
@@ -221,7 +221,7 @@ const convertDataByType = (node) => {
     const element = {
       type: "div",
       children: convertChildren(node),
-      ...convertData(node),
+      ...dataObj,
     };
     return element;
   }
@@ -229,14 +229,14 @@ const convertDataByType = (node) => {
   if (type === "div") {
     return {
       ...convertChildren(node),
-      ...convertData(node),
+      ...dataObj,
     };
   }
 
   return {
     type: convertType(type),
     children: convertChildren(node),
-    ...convertData(node),
+    ...dataObj,
   };
 };
 
