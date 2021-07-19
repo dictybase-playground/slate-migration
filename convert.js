@@ -1,4 +1,4 @@
-import { oldContent, order, art, techniques, history } from "./data.js";
+import { oldContent, order, art, techniques, history, media } from "./data.js";
 import fs from "fs";
 
 // the two font arrays are taken from the old page editor and used to convert old data
@@ -208,22 +208,28 @@ const convertChildren = (node) => {
   return [{ text: "" }];
 };
 
+const convertAlignmentData = (node) => {
+  const dataObj = convertData(node);
+  const emptyObj = Object.keys(dataObj).length === 0;
+  if (node.type !== "alignment") {
+    // if the data object is empty, return an empty array and flatten it;
+    // this is done to remove any empty {} from the final array
+    return [...convertChildren(node), emptyObj ? [] : dataObj].flat(2);
+  }
+  return {
+    type: "div",
+    children: convertChildren(node),
+    ...dataObj,
+  };
+};
+
 const convertDataByType = (node) => {
   const { type } = node;
   const dataObj = convertData(node);
-  const emptyObj = Object.keys(dataObj).length === 0;
   // remove any alignment wrappers from old structure;
   // previously, changing the alignment would add a new <div> around the selection
   if (alignmentTypes.includes(type)) {
-    if (type !== "alignment") {
-      return [...convertChildren(node), emptyObj ? [] : dataObj].flat(10);
-    }
-    const element = {
-      type: "div",
-      children: convertChildren(node),
-      ...dataObj,
-    };
-    return element;
+    return convertAlignmentData(node);
   }
 
   if (type === "div") {
@@ -304,20 +310,21 @@ const convertNode = (node) => {
   };
 };
 
-//  need to look at history.json and convert any number index objects
-
-const flattenArr = (arr) => {
-  let newarr = [];
-  arr.forEach((item) => {
-    if (!item.children && !item.text) {
-      const values = Object.values(item);
-      newarr.push(values);
+const flatten = (array) =>
+  array.reduce((acc, val) => {
+    if (val.type === undefined) {
+      // if there is a text property then it is a text node and can be added
+      if (val.text !== undefined) {
+        acc.push(val);
+      } else {
+        const vals = Object.values(val);
+        acc.push(...flatten(vals));
+      }
     } else {
-      newarr.push(item);
+      acc.push({ ...val, children: flatten(val.children) });
     }
-  });
-  return newarr;
-};
+    return acc;
+  }, []);
 
 const convertSlate047 = (object, filename) => {
   const { nodes } = object.document;
@@ -328,9 +335,9 @@ const convertSlate047 = (object, filename) => {
   } else {
     newNodes = convertedNodes;
   }
-  newNodes = flattenArr(newNodes);
-  fs.writeFileSync(filename, JSON.stringify(newNodes.flat(10)));
-  return newNodes.flat();
+  newNodes = flatten(newNodes);
+  fs.writeFileSync(filename, JSON.stringify(newNodes));
+  return newNodes;
 };
 
 convertSlate047(oldContent, "content.json");
@@ -338,3 +345,4 @@ convertSlate047(order, "order.json");
 convertSlate047(art, "art.json");
 convertSlate047(techniques, "techniques.json");
 convertSlate047(history, "history.json");
+convertSlate047(media, "media.json");
