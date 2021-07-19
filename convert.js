@@ -173,21 +173,6 @@ const marksReducer = (acc, mark) => {
   };
 };
 
-// const flattenArr = (arr) => {
-//   let newarr = [];
-//   arr.forEach((item) => {
-//     const vals = Object.values(item);
-//     vals.forEach((val) => {
-//       if (!val.children) {
-//         newarr.push(flattenArr([val]));
-//       } else {
-//         newarr.push(val);
-//       }
-//     });
-//   });
-//   return newarr;
-// };
-
 const convertChildren = (node) => {
   // if there are nodes then convert the children
   if (node.nodes) {
@@ -340,9 +325,4 @@ const convertSlate047 = (object, filename) => {
   return newNodes;
 };
 
-convertSlate047(oldContent, "content.json");
-convertSlate047(order, "order.json");
-convertSlate047(art, "art.json");
-convertSlate047(techniques, "techniques.json");
-convertSlate047(history, "history.json");
-convertSlate047(media, "media.json");
+convertSlate047(oldContent, "conversions/content.js");
