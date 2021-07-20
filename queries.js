@@ -1,16 +1,4 @@
-import pg from "pg";
-
-const { Pool } = pg;
-
-const pool = new Pool({
-  user: "",
-  host: process.env.DICTYCONTENT_BACKEND_SERVICE_HOST,
-  database: "",
-  password: "",
-  port: process.env.DICTYCONTENT_BACKEND_SERVICE_PORT,
-});
-
-const getSlugsWithContentList = async () => {
+const getSlugsWithContentList = async (pool) => {
   const query = "SELECT slug, content FROM content";
 
   try {
@@ -25,7 +13,7 @@ const getSlugsWithContentList = async () => {
   }
 };
 
-const updateContent = async (slug, content) => {
+const updateContent = async (pool, slug, content) => {
   const query = "UPDATE content SET content = $1 WHERE slug = $2";
 
   try {
@@ -36,7 +24,7 @@ const updateContent = async (slug, content) => {
   }
 };
 
-const getContentBySlug = async (slug) => {
+const getContentBySlug = async (pool, slug) => {
   const query = "SELECT content FROM content WHERE slug = $1";
 
   try {
@@ -47,4 +35,4 @@ const getContentBySlug = async (slug) => {
   }
 };
 
-export { getSlugsWithContentList, updateContent, getContentBySlug, pool };
+export { getSlugsWithContentList, updateContent, getContentBySlug };

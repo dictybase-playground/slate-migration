@@ -3,4 +3,4 @@ WORKDIR /app
 COPY package.json yarn.lock ./
 RUN npm install
 ADD *.js ./
-CMD ["npm", "convert"]
+CMD ["node", "index.js"]
