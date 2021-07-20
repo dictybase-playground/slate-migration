@@ -33,11 +33,10 @@ const runner = async (argv) => {
       password: argv.password,
     });
     const entries = await getSlugsWithContentList(pool);
-    await updateContent(
-      pool,
-      entries[1].slug,
-      JSON.stringify(convertSlate047(entries[1].content))
-    );
+    for (const entry of entries) {
+      const convertedContent = convertSlate047(entry.content);
+      await updateContent(pool, entry.slug, JSON.stringify(convertedContent));
+    }
     await pool.end();
     console.log("finished updating content...");
     console.log(`${entries.length} entries were successfully updated`);

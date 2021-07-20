@@ -311,6 +311,7 @@ const flatten = (array) =>
 const convertSlate047 = (object) => {
   // if the passed item is an array then it has already been converted
   if (Array.isArray(object)) {
+    console.log("passed item is already in new data format");
     return object;
   }
   const { nodes } = object.document;
