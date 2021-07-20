@@ -1,6 +1,3 @@
-import { oldContent, order, art, techniques, history, media } from "./data.js";
-import fs from "fs";
-
 // the two font arrays are taken from the old page editor and used to convert old data
 const FontFamilyList = [
   { name: "Lato" },
@@ -311,7 +308,11 @@ const flatten = (array) =>
     return acc;
   }, []);
 
-const convertSlate047 = (object, filename) => {
+const convertSlate047 = (object) => {
+  // if the passed item is an array then it has already been converted
+  if (Array.isArray(object)) {
+    return object;
+  }
   const { nodes } = object.document;
   let newNodes = [];
   const convertedNodes = nodes.map(convertNode);
@@ -320,9 +321,7 @@ const convertSlate047 = (object, filename) => {
   } else {
     newNodes = convertedNodes;
   }
-  newNodes = flatten(newNodes);
-  fs.writeFileSync(filename, JSON.stringify(newNodes));
-  return newNodes;
+  return flatten(newNodes);
 };
 
-convertSlate047(oldContent, "conversions/content.js");
+export { convertSlate047 };
