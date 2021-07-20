@@ -2,12 +2,15 @@
   "name": "slate-migration",
   "version": "1.0.0",
   "description": "Script to convert Slate 0.47 data to 0.5x",
-  "main": "convert.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
-    "convert": "node convert.js",
+    "convert": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "BSD-2-Clause"
+  "author": "Eric Hartline <eric.hartline@northwestern.edu>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "pg": "^8.6.0"
+  }
 }
