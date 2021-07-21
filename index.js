@@ -12,22 +12,35 @@ const cliOptions = (yargs) => {
     .positional("database", {
       description: "Name of database",
       type: "string",
+      alias: "d",
     })
     .positional("user", {
       description: "Username",
       type: "string",
+      alias: "u",
     })
     .positional("password", {
       description: "Password for username",
       type: "string",
+      alias: "pass",
+    })
+    .positional("host", {
+      description: "Database host",
+      type: "string",
+      alias: "h",
+    })
+    .positional("port", {
+      description: "Database port",
+      type: "number",
+      alias: "p",
     });
 };
 
 const runner = async (argv) => {
   try {
     const pool = new Pool({
-      host: process.env.DICTYCONTENT_BACKEND_SERVICE_HOST,
-      port: process.env.DICTYCONTENT_BACKEND_SERVICE_PORT,
+      host: argv.host || process.env.DICTYCONTENT_BACKEND_SERVICE_HOST,
+      port: argv.port || process.env.DICTYCONTENT_BACKEND_SERVICE_PORT,
       database: argv.database,
       user: argv.user,
       password: argv.password,
