@@ -17,13 +17,15 @@ Options:
   --database                                                          [required]
   --user                                                              [required]
   --password                                                          [required]
+  --host                                                              [optional]
+  --port                                                              [optional]
 ```
 
 Sample command:
 
-`node index.js --user cosmo --password kramer --database dictycontent`
+`node index.js --user cosmo --password kramer --database dictycontent --host localhost --port 5435`
 
-The database host and port are picked up from environmental variables used inside the cluster.
+If not provided, the database host and port are picked up from environmental variables used inside the cluster.
 
 This script can be run locally by using `kubectl port-forward` to connect to the content database.
 
