@@ -2,8 +2,8 @@
 import yargs from "yargs";
 import { hideBin } from "yargs/helpers";
 import pg from "pg";
-import { getSlugsWithContentList, updateContent } from "./queries.js";
-import { convertSlate047 } from "./convert.js";
+import { getSlugsWithContentList, updateContent } from "./src/queries.js";
+import { convertSlate047 } from "./src/convert.js";
 
 const { Pool } = pg;
 
